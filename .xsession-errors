@@ -1,0 +1,121 @@
+Xsession: X session started for v3ga at Wed May 31 09:32:13 AM CDT 2023
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/v3ga/.Xauthority
+localuser:v3ga being added to access control list
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting USER=v3ga
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting HOME=/home/v3ga
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=v3ga
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/v3ga/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/v3ga
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/v3ga
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+14:32:14.105872 main     VBoxClient 7.0.8_Debian r156879 (verbosity: 0) linux.amd64 (Apr 20 2023 21:11:50) release log
+14:32:14.105874 main     Log opened 2023-05-31T14:32:14.105868000Z
+14:32:14.106569 main     OS Product: Linux
+14:32:14.106876 main     OS Release: 6.1.0-kali9-amd64
+14:32:14.107163 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.1.27-1kali1 (2023-05-12)
+14:32:14.107624 main     Executable: /usr/bin/VBoxClient
+14:32:14.107625 main     Process ID: 897
+14:32:14.107626 main     Package type: LINUX_64BITS_GENERIC (OSE)
+14:32:14.108166 main      VBoxClient 7.0.8_Debian r156879 started. Verbose level = 0. Wayland environment detected: no
+14:32:14.108716 main      Service: Shared Clipboard
+14:32:14.117831 main     VBoxClient 7.0.8_Debian r156879 (verbosity: 0) linux.amd64 (Apr 20 2023 21:11:50) release log
+14:32:14.117834 main     Log opened 2023-05-31T14:32:14.117827000Z
+14:32:14.118650 main     OS Product: Linux
+14:32:14.118867 main     OS Release: 6.1.0-kali9-amd64
+14:32:14.119115 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.1.27-1kali1 (2023-05-12)
+14:32:14.123033 main     Executable: /usr/bin/VBoxClient
+14:32:14.123035 main     Process ID: 900
+14:32:14.123036 main     Package type: LINUX_64BITS_GENERIC (OSE)
+14:32:14.123659 main      VBoxClient 7.0.8_Debian r156879 started. Verbose level = 0. Wayland environment detected: no
+14:32:14.124422 main      Service: VirtualBox host version check
+14:32:14.135090 main     VBoxClient 7.0.8_Debian r156879 (verbosity: 0) linux.amd64 (Apr 20 2023 21:11:50) release log
+14:32:14.135095 main     Log opened 2023-05-31T14:32:14.135085000Z
+14:32:14.135776 main     OS Product: Linux
+14:32:14.136327 main     OS Release: 6.1.0-kali9-amd64
+14:32:14.136658 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.1.27-1kali1 (2023-05-12)
+14:32:14.137415 main     Executable: /usr/bin/VBoxClient
+14:32:14.137417 main     Process ID: 908
+14:32:14.137417 main     Package type: LINUX_64BITS_GENERIC (OSE)
+14:32:14.138474 main      VBoxClient 7.0.8_Debian r156879 started. Verbose level = 0. Wayland environment detected: no
+14:32:14.139313 main      Service: Seamless Mode Support
+14:32:14.146828 main     VBoxClient 7.0.8_Debian r156879 (verbosity: 0) linux.amd64 (Apr 20 2023 21:11:50) release log
+14:32:14.146830 main     Log opened 2023-05-31T14:32:14.146824000Z
+14:32:14.147482 main     OS Product: Linux
+14:32:14.147678 main     OS Release: 6.1.0-kali9-amd64
+14:32:14.147920 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.1.27-1kali1 (2023-05-12)
+14:32:14.148394 main     Executable: /usr/bin/VBoxClient
+14:32:14.148395 main     Process ID: 916
+14:32:14.148395 main     Package type: LINUX_64BITS_GENERIC (OSE)
+14:32:14.149052 main      VBoxClient 7.0.8_Debian r156879 started. Verbose level = 0. Wayland environment detected: no
+14:32:14.149683 main      Service: Drag'n'Drop
+14:32:14.157009 main     VBoxClient 7.0.8_Debian r156879 (verbosity: 0) linux.amd64 (Apr 20 2023 21:11:50) release log
+14:32:14.157011 main     Log opened 2023-05-31T14:32:14.157006000Z
+14:32:14.158011 main     OS Product: Linux
+14:32:14.158259 main     OS Release: 6.1.0-kali9-amd64
+14:32:14.158512 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.1.27-1kali1 (2023-05-12)
+14:32:14.158946 main     Executable: /usr/bin/VBoxClient
+14:32:14.158947 main     Process ID: 923
+14:32:14.158948 main     Package type: LINUX_64BITS_GENERIC (OSE)
+14:32:14.159542 main      VBoxClient 7.0.8_Debian r156879 started. Verbose level = 0. Wayland environment detected: no
+14:32:14.160043 main      Service: VMSVGA display assistant
+/usr/bin/x-session-manager: X server already running on display :0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session-Message: 09:32:14.322: SSH authentication agent is already running
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfwm4:988): xfwm4-WARNING **: 09:32:14.643: Unsupported GL renderer (llvmpipe (LLVM 15.0.6, 256 bits)).
+
+** (wrapper-2.0:1052): WARNING **: 09:32:15.542: No outputs have backlight property
+Xfce power manager is not running
+Failure: No such entity
+Another notification daemon is running, exiting
+
+(xfce4-power-manager:1131): xfce4-power-manager-WARNING **: 09:32:16.206: could not map keysym 1008ffa8 to keycode
+
+Xfce Power Manager: Another power manager is already running
+
+** (xiccd:1191): WARNING **: 09:32:16.388: EDID is empty
+
+** (xfce4-power-manager:1131): WARNING **: 09:32:16.784: No outputs have backlight property
+
+(xfce4-power-manager:1131): xfce4-power-manager-WARNING **: 09:32:16.793: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+blueman-applet 09.32.16 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 09.32.17 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 09.32.17 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+
+** (xiccd:1191): WARNING **: 09:32:18.228: EDID is empty
+
+** (xiccd:1191): WARNING **: 09:32:18.237: EDID is empty
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.

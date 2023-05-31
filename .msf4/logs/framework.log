@@ -1,0 +1,464 @@
+[05/09/2023 15:24:47] [d(0)] core: Created user based module store
+[05/09/2023 15:24:48] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 15:31:11] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 15:31:15] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/09/2023 15:38:19] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[05/09/2023 15:50:24] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 15:53:26] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 15:53:31] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/09/2023 15:55:35] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 15:55:38] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/09/2023 15:59:30] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[05/09/2023 15:59:40] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 15:59:43] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/09/2023 16:01:50] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[05/09/2023 16:02:03] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 16:02:06] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/09/2023 16:06:04] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[05/09/2023 16:06:10] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 16:06:14] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/09/2023 16:06:52] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[05/09/2023 16:07:01] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[05/09/2023 16:07:14] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 16:07:17] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/09/2023 16:12:54] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[05/09/2023 16:16:02] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 16:27:36] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 16:29:28] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 16:29:31] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/09/2023 16:31:35] [d(0)] core: HistoryManager.push_context name: :meterpreter
+[05/09/2023 16:32:26] [e(0)] meterpreter: stdapi_webcam_start: Operation failed: 1
+[05/09/2023 16:32:26] [d(0)] meterpreter: Call stack:
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/stdapi/webcam/webcam.rb:41:in `webcam_start'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/webcam.rb:225:in `cmd_webcam_stream'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:102:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:64:in `block in interact'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:163:in `run'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:62:in `interact'
+/usr/share/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:565:in `_interact'
+/usr/share/metasploit-framework/lib/rex/ui/interactive.rb:53:in `interact'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/core.rb:1681:in `cmd_sessions'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/exploit.rb:192:in `cmd_exploit'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:168:in `run'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/console.rb:48:in `start'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/base.rb:82:in `start'
+/usr/bin/msfconsole:23:in `<main>'
+[05/09/2023 16:33:27] [e(0)] meterpreter: stdapi_webcam_start: Operation failed: 1
+[05/09/2023 16:33:27] [d(0)] meterpreter: Call stack:
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/stdapi/webcam/webcam.rb:41:in `webcam_start'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/webcam.rb:225:in `cmd_webcam_stream'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:102:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:64:in `block in interact'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:163:in `run'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:62:in `interact'
+/usr/share/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:565:in `_interact'
+/usr/share/metasploit-framework/lib/rex/ui/interactive.rb:53:in `interact'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/core.rb:1681:in `cmd_sessions'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/exploit.rb:192:in `cmd_exploit'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:168:in `run'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/console.rb:48:in `start'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/base.rb:82:in `start'
+/usr/bin/msfconsole:23:in `<main>'
+[05/09/2023 16:34:19] [e(0)] meterpreter: stdapi_webcam_start: Operation failed: 1
+[05/09/2023 16:34:19] [d(0)] meterpreter: Call stack:
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/stdapi/webcam/webcam.rb:41:in `webcam_start'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/webcam.rb:225:in `cmd_webcam_stream'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:102:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:64:in `block in interact'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:163:in `run'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:62:in `interact'
+/usr/share/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:565:in `_interact'
+/usr/share/metasploit-framework/lib/rex/ui/interactive.rb:53:in `interact'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/core.rb:1681:in `cmd_sessions'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/exploit.rb:192:in `cmd_exploit'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:168:in `run'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/console.rb:48:in `start'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/base.rb:82:in `start'
+/usr/bin/msfconsole:23:in `<main>'
+[05/09/2023 16:35:55] [w(0)] core: Session 1 has died
+[05/09/2023 16:36:45] [d(0)] core: HistoryManager.pop_context name: :meterpreter
+[05/09/2023 16:39:30] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[05/09/2023 16:39:54] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 16:39:58] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/09/2023 16:41:03] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[05/09/2023 16:41:27] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 16:41:30] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/09/2023 16:43:04] [d(0)] core: HistoryManager.push_context name: :meterpreter
+[05/09/2023 16:44:47] [e(0)] meterpreter: Error running command send_sms: Rex::TimeoutError Send timed out
+[05/09/2023 16:44:47] [d(0)] meterpreter: Call stack:
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/packet_dispatcher.rb:181:in `send_request'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/android/android.rb:284:in `send_sms'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/android.rb:545:in `cmd_send_sms'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:102:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:64:in `block in interact'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:163:in `run'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:62:in `interact'
+/usr/share/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:565:in `_interact'
+/usr/share/metasploit-framework/lib/rex/ui/interactive.rb:53:in `interact'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/core.rb:1681:in `cmd_sessions'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/exploit.rb:192:in `cmd_exploit'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:168:in `run'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/console.rb:48:in `start'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/base.rb:82:in `start'
+/usr/bin/msfconsole:23:in `<main>'
+[05/09/2023 16:44:47] [e(0)] core: Rex::TimeoutError Send timed out
+[05/09/2023 16:45:22] [e(0)] meterpreter: Error running command dump_calllog: Rex::TimeoutError Send timed out
+[05/09/2023 16:45:22] [d(0)] meterpreter: Call stack:
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/packet_dispatcher.rb:181:in `send_request'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/android/android.rb:235:in `dump_calllog'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/android.rb:442:in `cmd_dump_calllog'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:102:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:64:in `block in interact'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:163:in `run'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:62:in `interact'
+/usr/share/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:565:in `_interact'
+/usr/share/metasploit-framework/lib/rex/ui/interactive.rb:53:in `interact'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/core.rb:1681:in `cmd_sessions'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/exploit.rb:192:in `cmd_exploit'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:168:in `run'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/console.rb:48:in `start'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/base.rb:82:in `start'
+/usr/bin/msfconsole:23:in `<main>'
+[05/09/2023 16:45:22] [e(0)] core: Rex::TimeoutError Send timed out
+[05/09/2023 16:45:46] [w(0)] core: Session 1 has died
+[05/09/2023 16:47:13] [d(0)] core: HistoryManager.pop_context name: :meterpreter
+[05/09/2023 16:47:20] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[05/09/2023 16:47:36] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 16:47:40] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/09/2023 16:49:07] [d(0)] core: HistoryManager.push_context name: :meterpreter
+[05/09/2023 16:50:51] [w(0)] core: Session 1 has died
+[05/09/2023 16:51:10] [d(0)] core: HistoryManager.pop_context name: :meterpreter
+[05/09/2023 16:52:14] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[05/09/2023 16:54:06] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 16:54:09] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/09/2023 16:55:23] [d(0)] core: HistoryManager.push_context name: :meterpreter
+[05/09/2023 16:56:47] [e(0)] meterpreter: android_geolocate: Operation failed: 1
+[05/09/2023 16:56:47] [d(0)] meterpreter: Call stack:
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/android/android.rb:222:in `geolocate'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/android.rb:407:in `cmd_geolocate'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:102:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:64:in `block in interact'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:163:in `run'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:62:in `interact'
+/usr/share/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:565:in `_interact'
+/usr/share/metasploit-framework/lib/rex/ui/interactive.rb:53:in `interact'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/core.rb:1681:in `cmd_sessions'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/exploit.rb:192:in `cmd_exploit'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:168:in `run'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/console.rb:48:in `start'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/base.rb:82:in `start'
+/usr/bin/msfconsole:23:in `<main>'
+[05/09/2023 16:56:57] [e(0)] meterpreter: android_geolocate: Operation failed: 1
+[05/09/2023 16:56:57] [d(0)] meterpreter: Call stack:
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/android/android.rb:222:in `geolocate'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/android.rb:407:in `cmd_geolocate'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:102:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:64:in `block in interact'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:163:in `run'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:62:in `interact'
+/usr/share/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:565:in `_interact'
+/usr/share/metasploit-framework/lib/rex/ui/interactive.rb:53:in `interact'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/core.rb:1681:in `cmd_sessions'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/exploit.rb:192:in `cmd_exploit'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:168:in `run'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/console.rb:48:in `start'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/base.rb:82:in `start'
+/usr/bin/msfconsole:23:in `<main>'
+[05/09/2023 16:57:51] [e(0)] meterpreter: stdapi_webcam_start: Operation failed: 1
+[05/09/2023 16:57:51] [d(0)] meterpreter: Call stack:
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/stdapi/webcam/webcam.rb:41:in `webcam_start'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/webcam.rb:225:in `cmd_webcam_stream'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:102:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:64:in `block in interact'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:163:in `run'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:62:in `interact'
+/usr/share/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:565:in `_interact'
+/usr/share/metasploit-framework/lib/rex/ui/interactive.rb:53:in `interact'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/core.rb:1681:in `cmd_sessions'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/exploit.rb:192:in `cmd_exploit'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:168:in `run'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/console.rb:48:in `start'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/base.rb:82:in `start'
+/usr/bin/msfconsole:23:in `<main>'
+[05/09/2023 16:59:08] [w(0)] core: Session 1 has died
+[05/09/2023 17:00:14] [d(0)] core: HistoryManager.pop_context name: :meterpreter
+[05/09/2023 17:00:18] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[05/09/2023 17:00:28] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 17:00:31] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/09/2023 17:01:36] [d(0)] core: HistoryManager.push_context name: :meterpreter
+[05/09/2023 17:04:21] [w(0)] core: Session 1 has died
+[05/09/2023 17:04:36] [e(0)] meterpreter: Error running command screenshare: Rex::TimeoutError Send timed out
+[05/09/2023 17:04:36] [d(0)] meterpreter: Call stack:
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/packet_dispatcher.rb:181:in `send_request'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/stdapi/ui.rb:211:in `screenshot'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/ui.rb:257:in `block in cmd_screenshare'
+/usr/share/metasploit-framework/vendor/bundle/ruby/3.1.0/gems/timeout-0.3.2/lib/timeout.rb:189:in `block in timeout'
+/usr/share/metasploit-framework/vendor/bundle/ruby/3.1.0/gems/timeout-0.3.2/lib/timeout.rb:36:in `block in catch'
+/usr/share/metasploit-framework/vendor/bundle/ruby/3.1.0/gems/timeout-0.3.2/lib/timeout.rb:36:in `catch'
+/usr/share/metasploit-framework/vendor/bundle/ruby/3.1.0/gems/timeout-0.3.2/lib/timeout.rb:36:in `catch'
+/usr/share/metasploit-framework/vendor/bundle/ruby/3.1.0/gems/timeout-0.3.2/lib/timeout.rb:198:in `timeout'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/ui.rb:255:in `cmd_screenshare'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:102:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:64:in `block in interact'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:163:in `run'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:62:in `interact'
+/usr/share/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:565:in `_interact'
+/usr/share/metasploit-framework/lib/rex/ui/interactive.rb:53:in `interact'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/core.rb:1681:in `cmd_sessions'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/exploit.rb:192:in `cmd_exploit'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:168:in `run'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/console.rb:48:in `start'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/base.rb:82:in `start'
+/usr/bin/msfconsole:23:in `<main>'
+[05/09/2023 17:04:36] [e(0)] core: Rex::TimeoutError Send timed out
+[05/09/2023 17:04:36] [d(0)] core: HistoryManager.pop_context name: :meterpreter
+[05/09/2023 17:04:36] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[05/09/2023 17:04:54] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/09/2023 17:04:58] [d(0)] core: HistoryManager.push_context name: :msfconsole
+[05/09/2023 17:06:16] [d(0)] core: HistoryManager.push_context name: :meterpreter
+[05/09/2023 17:08:17] [e(0)] meterpreter: Error running command send_sms: Rex::TimeoutError Send timed out
+[05/09/2023 17:08:17] [d(0)] meterpreter: Call stack:
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/packet_dispatcher.rb:181:in `send_request'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/android/android.rb:284:in `send_sms'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/android.rb:545:in `cmd_send_sms'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:102:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:64:in `block in interact'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:163:in `run'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:62:in `interact'
+/usr/share/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:565:in `_interact'
+/usr/share/metasploit-framework/lib/rex/ui/interactive.rb:53:in `interact'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/core.rb:1681:in `cmd_sessions'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/exploit.rb:192:in `cmd_exploit'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:168:in `run'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/console.rb:48:in `start'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/base.rb:82:in `start'
+/usr/bin/msfconsole:23:in `<main>'
+[05/09/2023 17:08:17] [e(0)] core: Rex::TimeoutError Send timed out
+[05/09/2023 17:08:49] [e(0)] meterpreter: Error running command check_root: Rex::TimeoutError Send timed out
+[05/09/2023 17:08:49] [d(0)] meterpreter: Call stack:
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/packet_dispatcher.rb:181:in `send_request'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/android/android.rb:251:in `check_root'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/android.rb:499:in `cmd_check_root'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:102:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:64:in `block in interact'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:163:in `run'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:62:in `interact'
+/usr/share/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:565:in `_interact'
+/usr/share/metasploit-framework/lib/rex/ui/interactive.rb:53:in `interact'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/core.rb:1681:in `cmd_sessions'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/exploit.rb:192:in `cmd_exploit'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:168:in `run'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/console.rb:48:in `start'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/base.rb:82:in `start'
+/usr/bin/msfconsole:23:in `<main>'
+[05/09/2023 17:08:49] [e(0)] core: Rex::TimeoutError Send timed out
+[05/09/2023 17:09:29] [w(0)] core: Session 1 has died
+[05/09/2023 17:09:35] [e(0)] meterpreter: Error running command webcam_snap: Rex::TimeoutError Send timed out
+[05/09/2023 17:09:35] [d(0)] meterpreter: Call stack:
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/packet_dispatcher.rb:181:in `send_request'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/extensions/stdapi/webcam/webcam.rb:29:in `webcam_list'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console/command_dispatcher/stdapi/webcam.rb:70:in `cmd_webcam_snap'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:102:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:64:in `block in interact'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:163:in `run'
+/usr/share/metasploit-framework/lib/rex/post/meterpreter/ui/console.rb:62:in `interact'
+/usr/share/metasploit-framework/lib/msf/base/sessions/meterpreter.rb:565:in `_interact'
+/usr/share/metasploit-framework/lib/rex/ui/interactive.rb:53:in `interact'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/core.rb:1681:in `cmd_sessions'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/msf/ui/console/command_dispatcher/exploit.rb:192:in `cmd_exploit'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:581:in `run_command'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:530:in `block in run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `each'
+/usr/share/metasploit-framework/lib/rex/ui/text/dispatcher_shell.rb:524:in `run_single'
+/usr/share/metasploit-framework/lib/rex/ui/text/shell.rb:168:in `run'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/console.rb:48:in `start'
+/usr/share/metasploit-framework/lib/metasploit/framework/command/base.rb:82:in `start'
+/usr/bin/msfconsole:23:in `<main>'
+[05/09/2023 17:09:35] [e(0)] core: Rex::TimeoutError Send timed out
+[05/09/2023 17:09:35] [d(0)] core: HistoryManager.pop_context name: :meterpreter
+[05/09/2023 17:09:45] [d(0)] core: HistoryManager.pop_context name: :msfconsole
+[05/11/2023 17:37:06] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/11/2023 17:37:08] [e(0)] core: RuntimeError : Invalid template: filemanager.apk
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:223:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/11/2023 17:38:31] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/11/2023 17:38:34] [e(0)] core: RuntimeError : Invalid template: filemanager.apk
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:223:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/11/2023 18:02:47] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/11/2023 18:02:49] [e(0)] core: RuntimeError : apktool not found. If it's not in your PATH, please add it.
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:228:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/11/2023 18:08:57] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/11/2023 18:08:59] [e(0)] core: RuntimeError : apktool not found. If it's not in your PATH, please add it.
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:228:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/11/2023 18:43:31] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/11/2023 18:43:33] [e(0)] core: RuntimeError : Invalid template: manager.apk
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:223:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/11/2023 18:45:22] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/11/2023 18:45:24] [e(0)] core: RuntimeError : Invalid template: manager.apk
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:223:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/11/2023 18:46:13] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/11/2023 18:46:15] [e(0)] core: RuntimeError : Invalid template: filemanager.apk
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:223:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/11/2023 18:49:28] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/11/2023 18:49:30] [e(0)] core: RuntimeError : Invalid template: home/v3ga/filemanager.apk
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:223:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'
+[05/11/2023 18:52:47] [e(0)] core: Failed to connect to the database: No database YAML file
+[05/11/2023 18:52:49] [e(0)] core: RuntimeError : apktool not found. If it's not in your PATH, please add it.
+/usr/share/metasploit-framework/lib/msf/core/payload/apk.rb:228:in `backdoor_apk'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:412:in `generate_payload'
+/usr/bin/msfvenom:477:in `<main>'

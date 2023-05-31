@@ -1,0 +1,122 @@
+Xsession: X session started for v3ga at Wed May 31 09:28:23 AM CDT 2023
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/v3ga/.Xauthority
+localuser:v3ga being added to access control list
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting POWERSHELL_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting USER=v3ga
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting DOTNET_CLI_TELEMETRY_OPTOUT=1
+dbus-update-activation-environment: setting HOME=/home/v3ga
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=v3ga
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting POWERSHELL_UPDATECHECK=Off
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/v3ga/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/v3ga
+dbus-update-activation-environment: setting SHELL=/usr/bin/zsh
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/v3ga
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+14:28:23.324562 main     VBoxClient 7.0.8_Debian r156879 (verbosity: 0) linux.amd64 (Apr 20 2023 21:11:50) release log
+14:28:23.324564 main     Log opened 2023-05-31T14:28:23.324558000Z
+14:28:23.325113 main     OS Product: Linux
+14:28:23.327269 main     OS Release: 6.1.0-kali9-amd64
+14:28:23.327704 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.1.27-1kali1 (2023-05-12)
+14:28:23.328084 main     Executable: /usr/bin/VBoxClient
+14:28:23.328084 main     Process ID: 896
+14:28:23.328084 main     Package type: LINUX_64BITS_GENERIC (OSE)
+14:28:23.328587 main      VBoxClient 7.0.8_Debian r156879 started. Verbose level = 0. Wayland environment detected: no
+14:28:23.329051 main      Service: Shared Clipboard
+14:28:23.332816 main     VBoxClient 7.0.8_Debian r156879 (verbosity: 0) linux.amd64 (Apr 20 2023 21:11:50) release log
+14:28:23.332819 main     Log opened 2023-05-31T14:28:23.332775000Z
+14:28:23.333537 main     OS Product: Linux
+14:28:23.333800 main     OS Release: 6.1.0-kali9-amd64
+14:28:23.334069 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.1.27-1kali1 (2023-05-12)
+14:28:23.334476 main     Executable: /usr/bin/VBoxClient
+14:28:23.334476 main     Process ID: 900
+14:28:23.334477 main     Package type: LINUX_64BITS_GENERIC (OSE)
+14:28:23.335308 main      VBoxClient 7.0.8_Debian r156879 started. Verbose level = 0. Wayland environment detected: no
+14:28:23.335823 main      Service: VirtualBox host version check
+14:28:23.346079 main     VBoxClient 7.0.8_Debian r156879 (verbosity: 0) linux.amd64 (Apr 20 2023 21:11:50) release log
+14:28:23.346081 main     Log opened 2023-05-31T14:28:23.346074000Z
+14:28:23.347109 main     OS Product: Linux
+14:28:23.347482 main     OS Release: 6.1.0-kali9-amd64
+14:28:23.347866 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.1.27-1kali1 (2023-05-12)
+14:28:23.348519 main     Executable: /usr/bin/VBoxClient
+14:28:23.348520 main     Process ID: 907
+14:28:23.348520 main     Package type: LINUX_64BITS_GENERIC (OSE)
+14:28:23.349382 main      VBoxClient 7.0.8_Debian r156879 started. Verbose level = 0. Wayland environment detected: no
+14:28:23.349839 main      Service: Seamless Mode Support
+14:28:23.354366 main     VBoxClient 7.0.8_Debian r156879 (verbosity: 0) linux.amd64 (Apr 20 2023 21:11:50) release log
+14:28:23.354368 main     Log opened 2023-05-31T14:28:23.354362000Z
+14:28:23.355242 main     OS Product: Linux
+14:28:23.355693 main     OS Release: 6.1.0-kali9-amd64
+14:28:23.356032 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.1.27-1kali1 (2023-05-12)
+14:28:23.356542 main     Executable: /usr/bin/VBoxClient
+14:28:23.356542 main     Process ID: 915
+14:28:23.356543 main     Package type: LINUX_64BITS_GENERIC (OSE)
+14:28:23.357269 main      VBoxClient 7.0.8_Debian r156879 started. Verbose level = 0. Wayland environment detected: no
+14:28:23.357879 main      Service: Drag'n'Drop
+14:28:23.364007 main     VBoxClient 7.0.8_Debian r156879 (verbosity: 0) linux.amd64 (Apr 20 2023 21:11:50) release log
+14:28:23.364010 main     Log opened 2023-05-31T14:28:23.364004000Z
+14:28:23.364579 main     OS Product: Linux
+14:28:23.364758 main     OS Release: 6.1.0-kali9-amd64
+14:28:23.364976 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.1.27-1kali1 (2023-05-12)
+14:28:23.365406 main     Executable: /usr/bin/VBoxClient
+14:28:23.365406 main     Process ID: 923
+14:28:23.365407 main     Package type: LINUX_64BITS_GENERIC (OSE)
+14:28:23.365915 main      VBoxClient 7.0.8_Debian r156879 started. Verbose level = 0. Wayland environment detected: no
+14:28:23.366456 main      Service: VMSVGA display assistant
+/usr/bin/x-session-manager: X server already running on display :0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session-Message: 09:28:23.582: SSH authentication agent is already running
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfwm4:977): xfwm4-WARNING **: 09:28:23.917: Unsupported GL renderer (llvmpipe (LLVM 15.0.6, 256 bits)).
+
+** (wrapper-2.0:1056): WARNING **: 09:28:24.694: No outputs have backlight property
+Xfce power manager is not running
+Another notification daemon is running, exiting
+
+(xfce4-power-manager:1076): xfce4-power-manager-WARNING **: 09:28:25.210: could not map keysym 1008ffa8 to keycode
+
+Failure: No such entity
+
+** (xfce4-power-manager:1076): WARNING **: 09:28:25.434: No outputs have backlight property
+Xfce Power Manager: Another power manager is already running
+
+(xfce4-power-manager:1076): xfce4-power-manager-WARNING **: 09:28:25.459: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+
+** (xiccd:1183): WARNING **: 09:28:25.673: EDID is empty
+blueman-applet 09.28.26 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 09.28.26 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 09.28.26 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+
+** (xiccd:1183): WARNING **: 09:28:27.924: EDID is empty
+
+** (xiccd:1183): WARNING **: 09:28:27.936: EDID is empty
+** Message: 09:30:03.482: Cannot save connection due to error: Invalid setting Wi-Fi: 802-11-wireless.ssid: property is missing
+
+(nm-connection-editor:2119): Gtk-CRITICAL **: 09:30:09.889: gtk_tree_model_sort_set_sort_column_id: assertion 'priv->default_sort_func != NULL' failed
+
+(wrapper-2.0:1049): GLib-GObject-CRITICAL **: 09:30:50.125: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+X connection to :0.0 broken (explicit kill or server shutdown).

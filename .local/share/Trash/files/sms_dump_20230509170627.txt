@@ -1,0 +1,4896 @@
+
+=====================
+[+] SMS messages dump
+=====================
+
+Date: 2023-05-09 17:06:28.234705082 -0500
+OS: Android 12 - Linux 4.14.190-perf-g9dfd5cc8f1d0 (aarch64)
+Remote IP: 10.48.126.201
+Remote Port: 47874
+
+#1
+Type	: Incoming
+Date	: 2023-05-09 12:28:18
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: TIGO MONEY: Ingresa a nuestra pagina web y conoce los Terminos y Condiciones de los bonos Tigo Money https://tmy.la/41AF4mH
+
+#2
+Type	: Incoming
+Date	: 2023-05-09 11:31:23
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Martes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#3
+Type	: Incoming
+Date	: 2023-05-09 10:30:08
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: ¿Ya recuperaste tu pin o contrasena Tigo Money? Hazlo a traves de nuestro WhatsApp AQUI: https://b.tigo.com/ResetPIN3
+
+#4
+Type	: Incoming
+Date	: 2023-05-08 17:48:45
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: TIGO MONEY: Tu bono L30 vale! Usalo YA para comprar una Super Recarga de L27 y recibi 200MB, gratis. Entra a la APP y aprovecha! tmy.la/3Tg0YbQ. Aplican restr.
+
+#5
+Type	: Incoming
+Date	: 2023-05-07 17:48:42
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: TIGO MONEY: Con el bono de L30 podes comprar Super Recargas, recargas de saldo y mas. Usalo SOLO x la APP tmy.la/3Tg0YbQ. Aplican restric. Vig. al el 28 de mes
+
+#6
+Type	: Incoming
+Date	: 2023-05-06 18:11:13
+Address	: 555
+Status	: NOT_RECEIVED
+Message	: Tu contraseña fue cambiada exitosamente, utiliza el codigo 6bl2. Para actualizarlo ingresa a la App Tigo Money. No compartas tu contraseña con nadie.
+
+#7
+Type	: Incoming
+Date	: 2023-05-06 18:10:40
+Address	: TIGOMONEY
+Status	: NOT_RECEIVED
+Message	: 6855 es el codigo de verificacion para recuperar tu clave de tu billetera Tigo Money. NO compartas este codigo con nadie. T75sAX7IK W
+
+#8
+Type	: Incoming
+Date	: 2023-05-06 17:48:24
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Compra tu Super Recarga de L27 y recibi 200MB GRATIS o paga facturas, con el dinero en tu billetera SOLO por la APP Tigo Money tmy.la/3Tg0YbQ. Aplican restr.
+
+#9
+Type	: Incoming
+Date	: 2023-05-06 13:59:51
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#10
+Type	: Incoming
+Date	: 2023-05-06 11:59:20
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Favor realizar su pago de saldo en mora hoy en nuestras tiendas Lady Lee para evitar gestion de cobro en su domicilio o lugar de trabajo. 25126001.
+
+#11
+Type	: Incoming
+Date	: 2023-05-06 08:12:35
+Address	: Microsoft
+Status	: NOT_RECEIVED
+Message	: Use el código 043920 para autenticar Microsoft.
+
+#12
+Type	: Incoming
+Date	: 2023-05-05 17:49:27
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: TIGO MONEY: Todavia no usaste tu bono L30? Entra a APP Tigo Money y compra tu Super Recarga de L27 y recibi 200MB extra. Entra tmy.la/3Tg0YbQ. Aplican restric.
+
+#13
+Type	: Incoming
+Date	: 2023-05-05 17:29:04
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 351063
+
+#14
+Type	: Incoming
+Date	: 2023-05-05 17:16:09
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#15
+Type	: Incoming
+Date	: 2023-05-05 16:42:10
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Viernes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#16
+Type	: Incoming
+Date	: 2023-05-05 09:55:23
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Requiere su pago total de saldo en mora. El comite de cobro estara trasladando su cuenta a cobro Legal de no realizar su pago hoy. 25126001.
+
+#17
+Type	: Incoming
+Date	: 2023-05-04 17:48:01
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Utiliza tu bono L30 en la APP de Tigo Money y compra una recarga de L25 y recibi CUADRUPLE saldo! Ingresa aqui tmy.la/3Tg0YbQ. Aplican restr. Vig al 28 de mes
+
+#18
+Type	: Incoming
+Date	: 2023-05-04 16:15:03
+Address	: +50494628879
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494628879 lo ha llamado 1 veces y la ultima vez fue el 04/05 a las 15:04Claro que si
+
+#19
+Type	: Incoming
+Date	: 2023-05-04 13:10:55
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Recibi 5GB GRATIS y navega en la mejor red LTE! Cambia de tecnologia tu SIM en nuestras tiendas a nivel nacional SIN COSTO. Claro que si!
+
+#20
+Type	: Incoming
+Date	: 2023-05-04 08:50:26
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#21
+Type	: Incoming
+Date	: 2023-05-04 08:35:19
+Address	: +50432855910
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50432855910 lo ha llamado 1 veces y la ultima vez fue el 04/05 a las 07:35Claro que si
+
+#22
+Type	: Incoming
+Date	: 2023-05-03 17:47:40
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: TIGO MONEY: Ganaste un bono de L30, ingresa a la APP y usalo para comprar una Super Recarga de L27 y recibi 200MB gratis! tmy.la/3Tg0YbQ. Aplican restric.
+
+#23
+Type	: Incoming
+Date	: 2023-05-03 14:15:17
+Address	: INTERNET
+Status	: NOT_RECEIVED
+Message	: Tu paquete de internet ha expirado. Visita https://shop.tigo.com.hn/ para activar otro nuevamente o marca #111#. Tigo Smart!
+
+#24
+Type	: Incoming
+Date	: 2023-05-03 14:15:13
+Address	: INTERNET
+Status	: NOT_RECEIVED
+Message	: Tu paquete de navegacion ha expirado. Si deseas activar nuevamente un paquete de Internet, envia un mensaje con la palabra HORA, DIA, SEMANA o MES al 0101.
+
+#25
+Type	: Incoming
+Date	: 2023-05-03 14:00:26
+Address	: +50432972511
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50432972511 lo ha llamado 2 veces y la ultima vez fue el 03/05 a las 12:49 Claro que si
+
+#26
+Type	: Incoming
+Date	: 2023-05-03 13:59:11
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#27
+Type	: Incoming
+Date	: 2023-05-03 13:50:58
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: ¡TIGOMONEY TE PREMIA! Tienes un bono en tu billetera electronica, compra SuperRecargaL27 en App. Aplican restric. Valido hasta 28 del mes https://tmy.la/3yMKRZU
+
+#28
+Type	: Incoming
+Date	: 2023-05-03 13:01:28
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Evite su traslado a Recuperacion Legal incurriendo en recargo por honorarios legales cumpliendo su pago de saldo en mora hoy. 25126001.
+
+#29
+Type	: Incoming
+Date	: 2023-05-02 15:23:23
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Ud. ha ingresado una clave equivocada. Ud. no puede acceder a esta funcion.138843400
+
+#30
+Type	: Incoming
+Date	: 2023-05-02 15:21:52
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#31
+Type	: Incoming
+Date	: 2023-05-02 15:21:48
+Address	: +50495752480
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50495752480 lo ha llamado 1 veces y la ultima vez fue el 02/05 a las 14:19Claro que si
+
+#32
+Type	: Incoming
+Date	: 2023-05-02 11:40:15
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Martes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#33
+Type	: Incoming
+Date	: 2023-05-01 14:13:02
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L1,280.00 el 1-05-23 a las 01:13 PM. Trans. ID:138740773
+
+#34
+Type	: Incoming
+Date	: 2023-05-01 14:12:45
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 427706
+
+#35
+Type	: Incoming
+Date	: 2023-05-01 13:15:21
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 580423
+
+#36
+Type	: Incoming
+Date	: 2023-05-01 11:06:12
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: ¡Compra tu boleto de LOTO con TIGO MONEY! Envia la palabra SUPER o DOBLE al 555 y sigue los pasos para recibir tus numeros aleatorios.
+
+#37
+Type	: Incoming
+Date	: 2023-05-01 09:06:51
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Este DIA DEL TRABAJO realiza tus pagos de LUZ y AGUA con TIGO MONEY sin salir de casa. Hazlo desde la App/ Web ingresando aqui: https://money.tigo.com.hn/
+
+#38
+Type	: Incoming
+Date	: 2023-04-30 19:13:39
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Tu codigo de activacion es: 363499
+
+#39
+Type	: Incoming
+Date	: 2023-04-30 19:07:27
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 606759
+
+#40
+Type	: Incoming
+Date	: 2023-04-30 19:06:35
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 636002
+
+#41
+Type	: Incoming
+Date	: 2023-04-30 19:05:22
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 425247
+
+#42
+Type	: Incoming
+Date	: 2023-04-30 14:40:55
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: TIGO MONEY: Tu bono L30 vale! Usalo YA para comprar una Super Recarga de L27 y recibi 200MB, gratis. Entra a la APP y aprovecha! tmy.la/3Tg0YbQ. Aplican restr.
+
+#43
+Type	: Incoming
+Date	: 2023-04-30 14:15:11
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Por tu compra de L53 Recibiste 53 puntos para lograr tu meta de Tigo Challenge, revisa tus puntos y beneficios a redimir en Mi Tigo aca https://b.tigo.com/Saldomthn
+
+#44
+Type	: Incoming
+Date	: 2023-04-30 14:15:10
+Address	: TIGO SPORTS
+Status	: NOT_RECEIVED
+Message	: Has recibido con tu Super Recarga un pase Tigo Sports de 3 dias gratis, disfruta lo mejor del deporte aqui https://b.tigo.com/sports2HN
+
+#45
+Type	: Incoming
+Date	: 2023-04-30 14:15:08
+Address	: Epin
+Status	: NOT_RECEIVED
+Message	: La transaccion para la recarga promo PAQUETIGO de Lps.53 fue exitosa. Por favor verifique su saldo. ID V230430.1314.260043
+
+#46
+Type	: Incoming
+Date	: 2023-04-30 14:15:08
+Address	: 443
+Status	: NOT_RECEIVED
+Message	: Se activaron tus minutos ilimitados a Tigo de tu Super Recarga de 3 dias. Duracion de cada llamada es de 10 min, mins adicionales se debitaran de tu saldo
+
+#47
+Type	: Incoming
+Date	: 2023-04-30 14:15:00
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Super Recarga de 3 dias activada: 5GB para navegar, Wapp Chat Ilim/Mins Ilim a Tigo/L.150 de saldo para llamar TR y USA. Consulta https://b.tigo.com/Saldomthn
+
+#48
+Type	: Incoming
+Date	: 2023-04-30 14:14:24
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Tu codigo de activacion es: 100156
+
+#49
+Type	: Incoming
+Date	: 2023-04-30 10:49:59
+Address	: 50494313680
+Status	: NOT_RECEIVED
+Message	: Bco Azteca AVISO IMPORTANTE. hoy es el ultimo dia para que pague sus cuotas vencidas evite que su cuenta pase a otra instancias de cobro https://bit.ly/3oAH6Co
+
+#50
+Type	: Incoming
+Date	: 2023-04-30 10:33:39
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Requiere resuelva su pago de saldo en mora hoy. Evite pasar a Gestion de cobro legal incurriendo en recargo por honorarios. 25126001.
+
+#51
+Type	: Incoming
+Date	: 2023-04-30 09:28:38
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L3,000.00 el 30-04-23 a las 08:28 AM. Trans. ID:138630567
+
+#52
+Type	: Incoming
+Date	: 2023-04-30 09:28:13
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 354383
+
+#53
+Type	: Incoming
+Date	: 2023-04-29 21:26:01
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 979711
+
+#54
+Type	: Incoming
+Date	: 2023-04-29 21:25:51
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Ud. ha ingresado una clave equivocada. Ud. no puede acceder a esta funcion.138610253
+
+#55
+Type	: Incoming
+Date	: 2023-04-29 21:24:41
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L250.00 el 29-04-23 a las 08:24 PM. Trans. ID:138610210
+
+#56
+Type	: Incoming
+Date	: 2023-04-29 21:24:23
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 511997
+
+#57
+Type	: Incoming
+Date	: 2023-04-29 15:23:23
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Tu codigo de activacion es: 051207
+
+#58
+Type	: Incoming
+Date	: 2023-04-29 14:40:30
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: TIGO MONEY: Con el bono de L30 en tu billetera podes comprar Super Recargas, recargas de saldo y mas. Usalo SOLO por la APP tmy.la/3Tg0YbQ. Aplican restric.
+
+#59
+Type	: Incoming
+Date	: 2023-04-29 13:38:17
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#60
+Type	: Incoming
+Date	: 2023-04-29 13:30:02
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de Luz y AGUAS DE SAN PEDRO SULA, sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#61
+Type	: Incoming
+Date	: 2023-04-29 12:32:24
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Utiliza nuestro WhatsApp para recibir atencion personalizada, ingresa aqui: https://b.tigo.com/Liza
+
+#62
+Type	: Incoming
+Date	: 2023-04-29 11:40:54
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Utiliza nuestro WhatsApp para recibir atencion personalizada, ingresa aqui: https://b.tigo.com/Liza
+
+#63
+Type	: Incoming
+Date	: 2023-04-29 11:32:52
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Utiliza nuestro WhatsApp para recibir atencion personalizada, ingresa aqui: https://b.tigo.com/Liza
+
+#64
+Type	: Incoming
+Date	: 2023-04-29 11:16:43
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Utiliza nuestro WhatsApp para recibir atencion personalizada, ingresa aqui: https://b.tigo.com/Liza
+
+#65
+Type	: Incoming
+Date	: 2023-04-29 10:49:12
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Utiliza nuestro WhatsApp para recibir atencion personalizada, ingresa aqui: https://b.tigo.com/Liza
+
+#66
+Type	: Incoming
+Date	: 2023-04-29 10:36:49
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Utiliza nuestro WhatsApp para recibir atencion personalizada, ingresa aqui: https://b.tigo.com/Liza
+
+#67
+Type	: Incoming
+Date	: 2023-04-29 10:25:04
+Address	: 50494313680
+Status	: NOT_RECEIVED
+Message	: Bco Azteca AVISO IMPORTANTE. hoy es el ultimo dia para que pague sus cuotas vencidas evite que su cuenta pase a otra instancias de cobro https://bit.ly/3oAH6Co
+
+#68
+Type	: Incoming
+Date	: 2023-04-29 10:01:02
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Utiliza nuestro WhatsApp para recibir atencion personalizada, ingresa aqui: https://b.tigo.com/Liza
+
+#69
+Type	: Incoming
+Date	: 2023-04-29 09:54:47
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Requiere su pago de saldo en mora en 24 horas a partir de esta notificacion. Evite su traslado a instancia de Recuperacion Legal. 25126001.
+
+#70
+Type	: Incoming
+Date	: 2023-04-28 19:49:38
+Address	: BACHONDURAS
+Status	: NOT_RECEIVED
+Message	: LUIS realiza tus compras con Cuotas 0% interes con tus tarj. de credito en nuevos comercios afiliados hasta 40 meses. Info: https://baccredomatic.info/ck1
+
+#71
+Type	: Incoming
+Date	: 2023-04-28 17:58:29
+Address	: TIGOSPORT
+Status	: NOT_RECEIVED
+Message	: Los Potros enfrentan este sabado 29 ante Real Espa}a, Disfrutalo en vivo y en exclusiva por #TigosportApp. Descarga http://tgor.me/18jts
+
+#72
+Type	: Incoming
+Date	: 2023-04-28 17:29:33
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#73
+Type	: Incoming
+Date	: 2023-04-28 15:22:03
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Compra tu Super Recarga de L27 y recibi 200MB GRATIS o paga facturas, con el dinero en tu billetera SOLO por la APP Tigo Money tmy.la/3Tg0YbQ. Aplican restr.
+
+#74
+Type	: Incoming
+Date	: 2023-04-28 13:25:13
+Address	: TENGO
+Status	: NOT_RECEIVED
+Message	: Ganate un viaje a Roatan todo pagado. Participa haciendo todos tus pagos favoritas desde la App GO. Participa Ya! https://bit.ly/3GJBw9j
+
+#75
+Type	: Incoming
+Date	: 2023-04-28 11:48:41
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Se le notifica su traslado a gestion legal debido al nivel critico de mora en que se encuentra su credito. Favor solventar con su pago hoy. 25126001.
+
+#76
+Type	: Incoming
+Date	: 2023-04-28 11:30:35
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Viernes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#77
+Type	: Incoming
+Date	: 2023-04-28 11:30:34
+Address	: 50494313680
+Status	: NOT_RECEIVED
+Message	: Bco Azteca AVISO IMPORTANTE. hoy es el ultimo dia para que pague sus cuotas vencidas evite que su cuenta pase a otra instancias de cobro https://bit.ly/3oAH6Co
+
+#78
+Type	: Incoming
+Date	: 2023-04-27 19:49:28
+Address	: Claro
+Status	: NOT_RECEIVED
+Message	: Internet Claro. Te resta menos del 20% de tu paquete de navegacion. Al llegar al 100% continuaras navegando con cobro por KB.
+
+#79
+Type	: Incoming
+Date	: 2023-04-27 17:55:10
+Address	: JETSTEREO
+Status	: NOT_RECEIVED
+Message	: Actualizate con lo ultimo en tecnologia y compra tu nuevo tv LG ademas puede recibir regalos en tu compras. Ver mas aqui: https://bit.ly/40JnZWz
+
+#80
+Type	: Incoming
+Date	: 2023-04-27 13:58:15
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Requiere resolver su pago de saldo en mora hoy. En su defecto se esta trasladando al area de cobro Prejudicial. 25126001.
+
+#81
+Type	: Incoming
+Date	: 2023-04-27 13:19:50
+Address	: JETSTEREO
+Status	: NOT_RECEIVED
+Message	: SOLO HOY. Disfruta de nuestros Flash Sale y recibe 10% de desct. en toda la tienda. Conoce las tiendas en donde aplica esta promocion: http://7r.is/AixN2JJ6iK
+
+#82
+Type	: Incoming
+Date	: 2023-04-26 19:22:06
+Address	: Claro
+Status	: NOT_RECEIVED
+Message	: Internet Claro. Entra a http://paquetes.miclaro.com.hn para ver nuestras opciones de paquetes de navegacion.
+
+#83
+Type	: Incoming
+Date	: 2023-04-26 19:22:05
+Address	: Claro
+Status	: NOT_RECEIVED
+Message	: Internet Claro. Has consumido mas del 100% de tu paquete de navegacion. Estas navegando por KB a una tarifa de Lps0.0040028.
+
+#84
+Type	: Incoming
+Date	: 2023-04-26 16:55:07
+Address	: +50495737161
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50495737161 lo ha llamado 1 veces y la ultima vez fue el 26/04 a las 15:54Claro que si
+
+#85
+Type	: Incoming
+Date	: 2023-04-26 14:38:15
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: TIGO MONEY: Utiliza tu bono L30 en la APP de Tigo Money para comprar una recarga de L25 y recibi CUADRUPLE saldo! Ingresa aqui tmy.la/3Tg0YbQ. Aplican restric.
+
+#86
+Type	: Incoming
+Date	: 2023-04-26 11:30:13
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Requiere su cumplimiento de pago de saldo en mora de manera inmediata. O el comite de cobro gestionara su caso a Legal. 25127054
+
+#87
+Type	: Incoming
+Date	: 2023-04-25 18:26:45
+Address	: BACHONDURAS
+Status	: NOT_RECEIVED
+Message	: Dale vida a tus ideas! Solicita un Aumento de Limite y disfruta de los beneficios. Hazlo aqui: https://baccredomatic.info/gu2
+
+#88
+Type	: Incoming
+Date	: 2023-04-25 14:52:58
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: TIGO MONEY: Ganaste un bono de L30, ingresa a la APP y usalo para comprar una Super Recarga de L27 y recibi 200MB gratis! tmy.la/3Tg0YbQ. Aplican restric.
+
+#89
+Type	: Incoming
+Date	: 2023-04-25 11:30:38
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Martes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#90
+Type	: Incoming
+Date	: 2023-04-25 11:30:36
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: A la fecha no se tiene su cumplimiento de pago de saldo en mora. Por lo que sera requerido del area Prejudicial de no realizar su pago hoy. Credilee. 25126001.
+
+#91
+Type	: Outgoing
+Date	: 2023-04-25 05:51:14
+Address	: +50497224102
+Status	: NOT_RECEIVED
+Message	: La estoy llamando pero no cae la llamada
+
+#92
+Type	: Incoming
+Date	: 2023-04-24 15:10:40
+Address	: +50431767430
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50431767430 lo ha llamado 1 veces y la ultima vez fue el 24/04 a las 14:07Claro que si
+
+#93
+Type	: Incoming
+Date	: 2023-04-24 14:15:47
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Evite su traslado a Recuperacion Legal cumpliendo con su pago de saldo en mora en 24 horas a partir de esta notificacion. Gracias. 25126001.
+
+#94
+Type	: Incoming
+Date	: 2023-04-23 20:05:27
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Tu codigo de activacion es: 545954
+
+#95
+Type	: Incoming
+Date	: 2023-04-23 20:03:37
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 788307
+
+#96
+Type	: Incoming
+Date	: 2023-04-23 12:30:38
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Has recibido 700.00 enviados por 87404648 el 2023-04-23 a las 11:30:33 Trans. ID: 25374752 Conoce el Universo GO en https://www.tengo.hn/
+
+#97
+Type	: Incoming
+Date	: 2023-04-23 12:06:29
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#98
+Type	: Incoming
+Date	: 2023-04-22 14:29:05
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Envia dinero a los tuyos con Tigo Money APP/WEB. Ve a tu punto Tigo Money, deposita en tu billetera y envia. Siempre tendras un punto cercano! bit.ly/3zHJ0qc
+
+#99
+Type	: Incoming
+Date	: 2023-04-22 12:15:34
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Activa hoy tu servicio Residencial Tigo! Vive el futbol y mucho mas contenido con nuestro plan de 45MB por $41 solicitalo aqui: https://ha-eco.tigo.com.hn/
+
+#100
+Type	: Incoming
+Date	: 2023-04-22 10:45:38
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Requiere que resuelva su pago de saldo en mora en 24 horas a partir de la notificacion. Evite pasar a instancia de cobro Legal. 25126001.
+
+#101
+Type	: Incoming
+Date	: 2023-04-21 14:31:47
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: ?Mantente conectado! Aprovecha y recarga saldo con Tigo Money. Entra YA en bit.ly/3zHJ0qc
+
+#102
+Type	: Incoming
+Date	: 2023-04-21 11:38:45
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Su cuenta esta en estado critico de mora. Favor realizar su cumplimiento de saldo en mora hoy para evitar otra instancia de cobro Extrajudicial o legal. 25126001.
+
+#103
+Type	: Incoming
+Date	: 2023-04-21 11:19:16
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Viernes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#104
+Type	: Incoming
+Date	: 2023-04-21 08:08:40
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#105
+Type	: Incoming
+Date	: 2023-04-20 19:57:26
+Address	: BACHONDURAS
+Status	: NOT_RECEIVED
+Message	: Sin Bandera en Conciertos BAC! Adquiere tus boletos con 15% descuento del 20 al 23 de abril al pagar con tarj. BAC. Compra aqui: https://baccredomatic.info/cvr
+
+#106
+Type	: Incoming
+Date	: 2023-04-20 15:54:11
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 840952
+
+#107
+Type	: Incoming
+Date	: 2023-04-20 15:11:05
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Has recibido 200.00 enviados por 87404648 el 2023-04-20 a las 14:11:00 Trans. ID: 25325487 Conoce el Universo GO en https://www.tengo.hn/
+
+#108
+Type	: Incoming
+Date	: 2023-04-20 14:28:01
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: TIGO MONEY: Adios filas eternas! Hola a pagar a toda hora y donde sea que estes. Entra ya! bit.ly/3zHJ0qc
+
+#109
+Type	: Incoming
+Date	: 2023-04-20 13:58:58
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: ¿Tienes experiencia en ventas de campo? Forma parte de nuestro equipo de ventas en SPS, contactanos al 95366844 o 98357184.
+
+#110
+Type	: Incoming
+Date	: 2023-04-20 10:33:22
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Su negativa de pago persiste. A la fecha no tenemos reflejado su pago de saldo en mora. Tiene 24 horas para su cumplimiento de contrato. 25126001.
+
+#111
+Type	: Incoming
+Date	: 2023-04-20 09:08:49
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: ¡FACIL Y RAPIDO! Ahora con TIGO MONEY puedes comprar tu boleto de LA DIARIA Loto. Envia Diaria + el monto de compra + # + el numero a comprar al 555.
+
+#112
+Type	: Incoming
+Date	: 2023-04-19 15:31:01
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#113
+Type	: Incoming
+Date	: 2023-04-19 14:25:41
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: HOY! Entra a Tigo Money y compra tus Super Recargas con los mejores beneficios para ti. Empieza ya https://bit.ly/3zHJ0qc
+
+#114
+Type	: Incoming
+Date	: 2023-04-19 11:49:19
+Address	: TENGO
+Status	: NOT_RECEIVED
+Message	: Ganate un viaje a Roatan. Participa haciendo todos tus pagos favoritas desde la App GO. Participa Ya! https://bit.ly/3GJBw9j
+
+#115
+Type	: Incoming
+Date	: 2023-04-19 10:44:40
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Sr(a). LUIS su cuenta tiene un saldo vencido de L. 10410.25, URGE efectue su pago el d?a de HOY para evitar que su record crediticio se vea afectado. Credilee 25126001
+
+#116
+Type	: Incoming
+Date	: 2023-04-19 10:14:35
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Tigo Money: Tu seguridad es primero, evita ser victima de estafa con los siguientes consejos: https://www.tigo.com.hn/legales#tigo-money-educacion-financiera
+
+#117
+Type	: Incoming
+Date	: 2023-04-18 17:30:57
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: ¡TIGO MONEY TE PREMIA! Tienes un bono en tu billetera electronica, compra SuperRecarga L27 en la App. Aplican restric. Vigencia 15 dias https://tmy.la/3yMKRZU
+
+#118
+Type	: Incoming
+Date	: 2023-04-18 15:14:40
+Address	: +50431767430
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50431767430 lo ha llamado 1 veces y la ultima vez fue el 18/04 a las 14:12Claro que si
+
+#119
+Type	: Incoming
+Date	: 2023-04-18 14:49:09
+Address	: +50494749428
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494749428 lo ha llamado 1 veces y la ultima vez fue el 18/04 a las 13:47Claro que si
+
+#120
+Type	: Incoming
+Date	: 2023-04-18 13:52:22
+Address	: +50433122853
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50433122853 lo ha llamado 1 veces y la ultima vez fue el 18/04 a las 12:52Claro que si
+
+#121
+Type	: Incoming
+Date	: 2023-04-18 13:03:03
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#122
+Type	: Incoming
+Date	: 2023-04-18 11:20:07
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Martes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#123
+Type	: Incoming
+Date	: 2023-04-18 10:58:41
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Debido a su negativa de pago su cuenta estara siendo trasladada a Recuperacion Legal incurriendo en gasto por honorarios. Credilee. 25126001.
+
+#124
+Type	: Incoming
+Date	: 2023-04-17 20:00:10
+Address	: +19093183355
+Status	: NOT_RECEIVED
+Message	: Netflix: Un paso y nos encargamos del resto. Completa: m.netflix.com/hHDgwdkD7D2
+
+#125
+Type	: Incoming
+Date	: 2023-04-17 19:40:24
+Address	: 9610
+Status	: NOT_RECEIVED
+Message	: Kash: Su codigo de seguridad es 610940. Vence en 10 minutos. No comparta este codigo con nadie.
+
+#126
+Type	: Incoming
+Date	: 2023-04-17 19:01:19
+Address	: +50489942436
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50489942436 lo ha llamado 1 veces y la ultima vez fue el 16/04 a las 10:41Claro que si
+
+#127
+Type	: Incoming
+Date	: 2023-04-17 12:32:00
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#128
+Type	: Incoming
+Date	: 2023-04-16 13:49:21
+Address	: 54138
+Status	: NOT_RECEIVED
+Message	: Tu factura fue emitida por L1504.88 a pagar 05 May https://facturaelectronica.claro.com.hn/personaWeb/user/authhandoff?cde=7256d650046b233c1cebbde8492459f9
+
+#129
+Type	: Incoming
+Date	: 2023-04-15 16:23:07
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Envia dinero a los tuyos con Tigo Money APP/WEB. Ve a tu punto Tigo Money, deposita en tu billetera y envia. Siempre tendras un punto cercano! bit.ly/3zHJ0qc
+
+#130
+Type	: Incoming
+Date	: 2023-04-15 15:50:45
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Su negativa de pago persiste. Evite su traslado a recuperacion Legal incurriendo en recargo por honorarios a su cuenta normalizando su pago de saldo en mora hoy. 25126001.
+
+#131
+Type	: Incoming
+Date	: 2023-04-15 12:57:56
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#132
+Type	: Incoming
+Date	: 2023-04-15 11:11:37
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le informa que de no normalizar el pago de su saldo en mora hoy se estara trasladando a Gestion Extrajudicial. 25126001.
+
+#133
+Type	: Incoming
+Date	: 2023-04-15 10:48:22
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de Luz y AGUAS DE SAN PEDRO SULA, sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#134
+Type	: Incoming
+Date	: 2023-04-14 19:50:46
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L1,005.00 el 14-04-23 a las 06:50 PM. Trans. ID:137343506
+
+#135
+Type	: Incoming
+Date	: 2023-04-14 19:50:29
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 649090
+
+#136
+Type	: Incoming
+Date	: 2023-04-14 16:16:17
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: ¡Recibe 500MB mas en tus Super Recargas! Solo en Mi Tigo en SR de L50 y L100 pagando con tarjeta de debito y credito. click aqui: https://b.tigo.com/masmegas2HN
+
+#137
+Type	: Incoming
+Date	: 2023-04-13 18:47:29
+Address	: INTERNET
+Status	: NOT_RECEIVED
+Message	: Tu paquete de internet ha expirado. Visita https://shop.tigo.com.hn/ para activar otro nuevamente o marca #111#. Tigo Smart!
+
+#138
+Type	: Incoming
+Date	: 2023-04-13 18:47:27
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Tu paquete de navegacion ha expirado. Si deseas activar nuevamente un paquete de Internet, envia un mensaje con la palabra HORA, DIA, SEMANA o MES al 0101.
+
+#139
+Type	: Incoming
+Date	: 2023-04-13 16:22:10
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: TIGO MONEY: Adios filas eternas! Hola a pagar a toda hora y donde sea que estes. Entra ya! bit.ly/3zHJ0qc
+
+#140
+Type	: Incoming
+Date	: 2023-04-12 18:47:26
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Felicidades! Recibiste tu paquete de Whatsapp ilimitado como recompensa, sin costo tu paquete vence en 24 horas consulta tu paquetes en Mi Tigo App: https://b.tigo.com/mtrecargashn
+
+#141
+Type	: Incoming
+Date	: 2023-04-12 16:17:37
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: HOY! Entra a Tigo Money y compra tus Super Recargas con los mejores beneficios para ti. Empieza ya https://bit.ly/3zHJ0qc
+
+#142
+Type	: Incoming
+Date	: 2023-04-12 10:02:25
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Cliente Tigo Money, en caso de ser victima de extorsion realiza la denuncia al WhatsApp 94385253 o marca *555 send, la informacion que facilites es confidencial
+
+#143
+Type	: Incoming
+Date	: 2023-04-11 17:07:24
+Address	: AUTHMSG
+Status	: NOT_RECEIVED
+Message	: Su codigo de verificacion para OpenAI API es: 443016
+
+#144
+Type	: Incoming
+Date	: 2023-04-11 11:34:37
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Martes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#145
+Type	: Incoming
+Date	: 2023-04-11 10:25:41
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: A la fecha su cuenta aun refleja saldo critico de mora. Evite su traslado a Recuperacion Legal normalizando su cuenta hoy. 25126001.
+
+#146
+Type	: Incoming
+Date	: 2023-04-11 09:52:19
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Recibi 5GB GRATIS y navega en la mejor red LTE! Cambia de tecnologia tu SIM en nuestras tiendas a nivel nacional SIN COSTO. Claro que si!
+
+#147
+Type	: Incoming
+Date	: 2023-04-10 18:47:31
+Address	: BACHONDURAS
+Status	: NOT_RECEIVED
+Message	: El lujo de no estacionar! Usa Valet Parking en Multiplaza, TGU y disfruta los beneficios de tus tarj. BAC Credomatic. Ver mas: https://baccredomatic.info/bce
+
+#148
+Type	: Incoming
+Date	: 2023-04-10 16:18:28
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Aprovecha hoy! Entra a Tigo Money y compra tus Super Recargas bit.ly/3zHJ0qc
+
+#149
+Type	: Incoming
+Date	: 2023-04-10 14:46:33
+Address	: Microsoft
+Status	: NOT_RECEIVED
+Message	: Use el código 632190 para autenticar Microsoft.
+
+#150
+Type	: Incoming
+Date	: 2023-04-10 14:18:25
+Address	: +50497300791
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50497300791 lo ha llamado 2 veces y la ultima vez fue el 10/04 a las 13:16 Claro que si
+
+#151
+Type	: Incoming
+Date	: 2023-04-10 13:00:48
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Ultimo dia! 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#152
+Type	: Incoming
+Date	: 2023-04-10 11:37:21
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le notifica que su credito esta en estado de requerimiento Extrajudicial, por lo cual se requiere una respuesta inmediata de pago. 25126001.
+
+#153
+Type	: Incoming
+Date	: 2023-04-10 09:22:36
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#154
+Type	: Incoming
+Date	: 2023-04-09 19:11:10
+Address	: 555
+Status	: NOT_RECEIVED
+Message	: Tu contraseña fue cambiada exitosamente, utiliza el codigo XSTR. Para actualizarlo ingresa a la App Tigo Money. No compartas tu contraseña con nadie.
+
+#155
+Type	: Incoming
+Date	: 2023-04-09 19:10:24
+Address	: TIGOMONEY
+Status	: NOT_RECEIVED
+Message	: 9862 es el codigo de verificacion para recuperar tu clave de tu billetera Tigo Money. NO compartas este codigo con nadie. T75sAX7IK W
+
+#156
+Type	: Incoming
+Date	: 2023-04-09 19:08:55
+Address	: +50433124485
+Status	: NOT_RECEIVED
+Message	: Estimado cliente para completar la compra con su tarjeta BAC terminada en 0327 ingrese el siguiente codigo: 399453, por seguridad no lo comparta.
+
+#157
+Type	: Incoming
+Date	: 2023-04-09 19:07:58
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 357953
+
+#158
+Type	: Incoming
+Date	: 2023-04-09 10:31:28
+Address	: 50494313680
+Status	: NOT_RECEIVED
+Message	: Bco Azteca AVISO IMPORTANTE. hoy es el ultimo dia para que pague sus cuotas vencidas evite que su cuenta pase a otra instancias de cobro https://bit.ly/3oAH6Co
+
+#159
+Type	: Incoming
+Date	: 2023-04-09 07:54:04
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Tu codigo de activacion es: 549955
+
+#160
+Type	: Incoming
+Date	: 2023-04-09 07:52:17
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Has iniciado una nueva conversacion con SARA en WhatsApp el 09/04/2023 a las 06:52:13
+
+#161
+Type	: Outgoing
+Date	: 2023-04-08 12:42:29
+Address	: 32735792
+Status	: NOT_RECEIVED
+Message	: No puedo hablar. ¿Es importante?
+
+#162
+Type	: Incoming
+Date	: 2023-04-08 12:37:49
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#163
+Type	: Incoming
+Date	: 2023-04-08 09:08:38
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: ¡FACIL Y RAPIDO! Ahora con TIGO MONEY puedes comprar tu boleto de LA DIARIA Loto. Envia Diaria + el monto de compra + # + el numero a comprar al 555.
+
+#164
+Type	: Incoming
+Date	: 2023-04-07 14:16:01
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Vence 10 abril. Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#165
+Type	: Incoming
+Date	: 2023-04-07 11:18:23
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Viernes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#166
+Type	: Incoming
+Date	: 2023-04-06 11:17:50
+Address	: 707
+Status	: NOT_RECEIVED
+Message	: CLARO CLUB: Este verano disfruta del 2x1 en tragos y cocteles los dias jueves en Radio House. Envia la palabra RADIOJ al 707. Claro que si!
+
+#167
+Type	: Incoming
+Date	: 2023-04-06 09:28:28
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le informa que estamos atendiendo en horario normal en todas nuestras tiendas Lady Lee. Realice su pago pendiente hoy. https://bit.ly/horariosjueves
+
+#168
+Type	: Incoming
+Date	: 2023-04-06 09:06:24
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: En esta SEMANA SANTA no te quedes sin realizar tus pagos de LUZ y AGUA con TIGO MONEY. Hazlo desde la App/ Web:.https://money.tigo.com.hn/
+
+#169
+Type	: Incoming
+Date	: 2023-04-05 16:16:45
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Recupera tu pin o contrasena Tigo Money utilizando nuestro WhatsApp, haz clic aqui: https://b.tigo.com/ResetPIN3
+
+#170
+Type	: Incoming
+Date	: 2023-04-05 15:36:12
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Recupera tu pin o contrasena Tigo Money utilizando nuestro WhatsApp, haz clic aqui: https://b.tigo.com/ResetPIN3
+
+#171
+Type	: Incoming
+Date	: 2023-04-05 15:04:19
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Recupera tu pin o contrasena Tigo Money utilizando nuestro WhatsApp, haz clic aqui: https://b.tigo.com/ResetPIN3
+
+#172
+Type	: Incoming
+Date	: 2023-04-05 14:34:52
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Recupera tu pin o contrasena Tigo Money utilizando nuestro WhatsApp, haz clic aqui: https://b.tigo.com/ResetPIN3
+
+#173
+Type	: Incoming
+Date	: 2023-04-05 14:27:48
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Su cuenta aun refleja saldo en mora. Favor resuelva su pago pendiente en nuestras tiendas Lady Lee o alternativas online. 25126001.
+
+#174
+Type	: Incoming
+Date	: 2023-04-05 14:08:12
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Recupera tu pin o contrasena Tigo Money utilizando nuestro WhatsApp, haz clic aqui: https://b.tigo.com/ResetPIN3
+
+#175
+Type	: Incoming
+Date	: 2023-04-05 14:02:53
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Vence 10 abril. Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#176
+Type	: Incoming
+Date	: 2023-04-05 13:34:44
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Recupera tu pin o contrasena Tigo Money utilizando nuestro WhatsApp, haz clic aqui: https://b.tigo.com/ResetPIN3
+
+#177
+Type	: Incoming
+Date	: 2023-04-05 11:06:07
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Recupera tu pin o contrasena Tigo Money utilizando nuestro WhatsApp, haz clic aqui: https://b.tigo.com/ResetPIN3
+
+#178
+Type	: Incoming
+Date	: 2023-04-05 09:20:29
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: 'Estimado cliente su factura a vencido favor efectue su pago y evite suspensiA3n de servicio, si ya lo realizo omita este mensaje.'
+
+#179
+Type	: Incoming
+Date	: 2023-04-04 18:38:54
+Address	: TENGO
+Status	: NOT_RECEIVED
+Message	: Participa por carretazos de L 5000 de supermercado. Recuerda que entre mas transacciones realices mas oportunidades tendras de ganar. https://bit.ly/3Ghhfrr
+
+#180
+Type	: Incoming
+Date	: 2023-04-04 13:28:31
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Requiere su cumplimiento de pago a mas tardar hoy en nuestras tiendas Lady Lee o alternativas online. 25126001.
+
+#181
+Type	: Incoming
+Date	: 2023-04-04 12:03:43
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Martes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#182
+Type	: Incoming
+Date	: 2023-04-04 11:01:02
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Cliente Tigo Money, evita ser parte de fraudes, estafas, extorsiones o cualquier otra actividad ilicita que pueda ocasionar el cierre definitivo de tu billetera
+
+#183
+Type	: Incoming
+Date	: 2023-04-04 09:34:21
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#184
+Type	: Incoming
+Date	: 2023-04-03 14:02:05
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#185
+Type	: Incoming
+Date	: 2023-04-03 13:00:25
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Ultimo dia! 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#186
+Type	: Incoming
+Date	: 2023-04-03 10:59:19
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Requiere su cumplimiento de pago de saldo en mora a mas tardar hoy en nuestras tiendas Lady Lee o diferentes alternativas online. 25126001.
+
+#187
+Type	: Incoming
+Date	: 2023-04-03 09:58:59
+Address	: 707
+Status	: NOT_RECEIVED
+Message	: CLARO CLUB: Participa y podes ser el GANADOR de UN HUAWEI NOVA 9 SE! Envia NOVA9SE al 707 SIN COSTO y estaras participando. Sorteo 2 de mayo. Claro que si!
+
+#188
+Type	: Incoming
+Date	: 2023-04-02 15:04:36
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#189
+Type	: Incoming
+Date	: 2023-04-01 17:09:24
+Address	: +19093183355
+Status	: NOT_RECEIVED
+Message	: Netflix: Un paso y nos encargamos del resto. Completa: m.netflix.com/baK7HEZrRxA
+
+#190
+Type	: Incoming
+Date	: 2023-04-01 15:15:28
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#191
+Type	: Incoming
+Date	: 2023-04-01 11:03:33
+Address	: ALORICA
+Status	: NOT_RECEIVED
+Message	: Alero, do you Speak English? En Alorica estamos contratando! Fines de semana libre disponibles. Que esperas? Aplica YA! http://tgor.me/1lm
+
+#192
+Type	: Incoming
+Date	: 2023-04-01 09:09:12
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Llego el VERANO y TIGO MONEY te facilita realizar tus pagos de LUZ y AGUA. Hazlo desde la App/ Web ingresando aqui: https://money.tigo.com.hn/
+
+#193
+Type	: Incoming
+Date	: 2023-04-01 01:11:07
+Address	: +90
+Status	: NOT_RECEIVED
+Message	: Tigo te informa, +50494580250 te dejo 1 mensaje nuevo. Tienes 1 mensaje en tu buzon. Marca *90 para escucharlo.
+
+#194
+Type	: Incoming
+Date	: 2023-03-31 16:44:10
+Address	: TENGO
+Status	: NOT_RECEIVED
+Message	: Gana bonos de L.5000 para el supermercado. Realiza una o mas transacciones desde la App GO y estaras participando. No esperes mas. https://onelink.to/yrasyc
+
+#195
+Type	: Incoming
+Date	: 2023-03-31 16:32:29
+Address	: +50433120445
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50433120445 lo ha llamado 1 veces y la ultima vez fue el 31/03 a las 15:22Claro que si
+
+#196
+Type	: Incoming
+Date	: 2023-03-31 15:02:52
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Vence 3 abril. Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#197
+Type	: Incoming
+Date	: 2023-03-31 15:01:43
+Address	: +50488348703
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50488348703 lo ha llamado 1 veces y la ultima vez fue el 31/03 a las 13:57Claro que si
+
+#198
+Type	: Incoming
+Date	: 2023-03-31 14:50:52
+Address	: 707
+Status	: NOT_RECEIVED
+Message	: CLARO CLUB: Activa tu suscripci?n con TVC DEPORTES por tan solo L1. Envia TVCDEPORTES al 707 SIN COSTO. Claro que si!
+
+#199
+Type	: Incoming
+Date	: 2023-03-31 12:40:41
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Favor dejar resuelto su pago de saldo en mora el dia de hoy. Realice su pago en nuestras tiendas Lady Lee o alternativas online. 25126001.
+
+#200
+Type	: Incoming
+Date	: 2023-03-31 12:19:08
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#201
+Type	: Incoming
+Date	: 2023-03-31 12:17:32
+Address	: +50493291200
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50493291200 lo ha llamado 1 veces y la ultima vez fue el 31/03 a las 11:12Claro que si
+
+#202
+Type	: Incoming
+Date	: 2023-03-31 11:59:27
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Viernes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#203
+Type	: Incoming
+Date	: 2023-03-30 20:01:55
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Tu codigo de activacion es: 440802
+
+#204
+Type	: Incoming
+Date	: 2023-03-30 17:46:04
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#205
+Type	: Incoming
+Date	: 2023-03-30 14:47:56
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Tu codigo de activacion es: 452030
+
+#206
+Type	: Incoming
+Date	: 2023-03-30 12:19:54
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Favor resolver su pago de saldo en mora a mas tardar hoy en nuestras tiendas Lady Lee o alternativas online. Gracias. 25126001.
+
+#207
+Type	: Incoming
+Date	: 2023-03-30 11:05:07
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de Luz y AGUAS DE SAN PEDRO SULA, sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#208
+Type	: Incoming
+Date	: 2023-03-29 17:48:34
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Vence el 3 abril. Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#209
+Type	: Incoming
+Date	: 2023-03-29 13:06:41
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Recibi 5GB GRATIS y navega en la mejor red LTE! Cambia de tecnologia tu SIM en nuestras tiendas a nivel nacional SIN COSTO. Claro que si!
+
+#210
+Type	: Incoming
+Date	: 2023-03-29 12:20:45
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Su cuenta aun refleja saldo pendiente de pago. Favor normalizar su cuenta con su pago pendiente hoy en nuestras tiendas Lady Lee u online. 25126001.
+
+#211
+Type	: Incoming
+Date	: 2023-03-29 12:14:40
+Address	: FICOHSA
+Status	: NOT_RECEIVED
+Message	: Aprovecha y utiliza hasta un 75% de Anticipo de Sueldo que Banco Ficohsa te ofrece en los cajeros FicoRED y BANRed24. Valido hasta el 02 de Junio 2023
+
+#212
+Type	: Incoming
+Date	: 2023-03-28 12:33:51
+Address	: FICOHSA
+Status	: NOT_RECEIVED
+Message	: No caigas en el fraude, asegurate de entrar solo a los canales oficiales de FICOHSA. Conoce mas http://ficohsa.click/IB
+
+#213
+Type	: Incoming
+Date	: 2023-03-28 11:20:19
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Martes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#214
+Type	: Incoming
+Date	: 2023-03-28 10:26:56
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Favor resolver su pago de saldo en mora a mas tardar hoy en nuestras tiendas Lady Lee o alternativas online. 25126001.
+
+#215
+Type	: Incoming
+Date	: 2023-03-28 08:21:05
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494580250 lo ha llamado 1 veces y la ultima vez fue el 28/03 a las 07:19Claro que si
+
+#216
+Type	: Incoming
+Date	: 2023-03-28 08:11:37
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#217
+Type	: Incoming
+Date	: 2023-03-27 20:18:56
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu cupon TENGO de retiro es: 222886358800.
+
+#218
+Type	: Incoming
+Date	: 2023-03-27 20:18:45
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 325079
+
+#219
+Type	: Incoming
+Date	: 2023-03-27 15:10:44
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Ultimo dia!15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#220
+Type	: Incoming
+Date	: 2023-03-27 12:04:05
+Address	: +50488348703
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50488348703 lo ha llamado 6 veces y la ultima vez fue el 27/03 a las 11:02,Claro que si
+
+#221
+Type	: Incoming
+Date	: 2023-03-27 10:58:01
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Favor resolver su pago de saldo en mora el dia de hoy en nuestras tiendas Lady Lee o alternativas online. 25126001.
+
+#222
+Type	: Incoming
+Date	: 2023-03-26 14:22:41
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#223
+Type	: Incoming
+Date	: 2023-03-25 13:14:51
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#224
+Type	: Incoming
+Date	: 2023-03-25 10:03:04
+Address	: TENGO
+Status	: NOT_RECEIVED
+Message	: No te quedes sin tu carretazo. Realiza 1 o mas de tus transacciones favoritas y participaras para ganar bonos de L5000 del supermercado. https://bit.ly/3Lt00XI
+
+#225
+Type	: Incoming
+Date	: 2023-03-25 09:37:09
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: ¡Compra tu boleto de LOTO con TIGO MONEY! Envia la palabra SUPER o DOBLE al 555 y sigue los pasos para recibir tus numeros aleatorios.
+
+#226
+Type	: Incoming
+Date	: 2023-03-24 12:28:42
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Viernes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#227
+Type	: Incoming
+Date	: 2023-03-24 12:14:29
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Vence 27 marzo. Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#228
+Type	: Incoming
+Date	: 2023-03-24 11:09:28
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Has recibido 500.00 enviados por 87404648 el 2023-03-24 a las 08:39:36 Trans. ID: 24823073 Conoce el Universo GO en https://www.tengo.hn/
+
+#229
+Type	: Incoming
+Date	: 2023-03-24 11:09:27
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Recibi 5GB GRATIS y navega en la mejor red LTE! Cambia de tecnologia tu SIM en nuestras tiendas a nivel nacional SIN COSTO. Claro que si!
+
+#230
+Type	: Incoming
+Date	: 2023-03-23 19:06:29
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Requiere su cumplimiento de pago de saldo en mora en 24 horas. Evite su traslado a Instancia de cobro Extrajudicial. 25126001.
+
+#231
+Type	: Incoming
+Date	: 2023-03-23 12:53:53
+Address	: +50422760696
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50422760696 lo ha llamado 1 veces y la ultima vez fue el 23/03 a las 11:52Claro que si
+
+#232
+Type	: Incoming
+Date	: 2023-03-23 12:53:52
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#233
+Type	: Incoming
+Date	: 2023-03-23 12:13:12
+Address	: TENGO
+Status	: NOT_RECEIVED
+Message	: Enhorabuena actualizaste tu App GO. Sigue haciendo tus transacciones favoritas y participaras para ganar bonos de L5000 del supermercado. https://bit.ly/3Lt00XI
+
+#234
+Type	: Incoming
+Date	: 2023-03-22 12:35:41
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Vence 27 marzo. Comprala con tu tarjeta de cree 11 Abril
+
+#235
+Type	: Incoming
+Date	: 2023-03-22 11:51:25
+Address	: +50493291200
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50493291200 lo ha llamado 1 veces y la ultima vez fue el 22/03 a las 10:51Claro que si
+
+#236
+Type	: Incoming
+Date	: 2023-03-22 09:25:07
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Si viajas fuera de HN! Debes reemplazar tu SIM en cualquiera de nuestras tiendas a nivel nacional para que podas navegar en la red de tu destino. Claro que si!
+
+#237
+Type	: Incoming
+Date	: 2023-03-22 08:20:50
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#238
+Type	: Incoming
+Date	: 2023-03-22 08:20:50
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494580250 lo ha llamado 1 veces y la ultima vez fue el 22/03 a las 07:13Claro que si
+
+#239
+Type	: Incoming
+Date	: 2023-03-21 17:24:17
+Address	: +50425126435
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50425126435 lo ha llamado 1 veces y la ultima vez fue el 21/03 a las 16:24Claro que si
+
+#240
+Type	: Incoming
+Date	: 2023-03-21 14:06:35
+Address	: +50493721044
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50493721044 lo ha llamado 3 veces y la ultima vez fue el 21/03 a las 12:58 Claro que si
+
+#241
+Type	: Incoming
+Date	: 2023-03-21 12:46:32
+Address	: +50493721044
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50493721044 lo ha llamado 4 veces y la ultima vez fue el 21/03 a las 11:45,Claro que si
+
+#242
+Type	: Incoming
+Date	: 2023-03-21 09:46:11
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Requiere resuelva su pago de saldo en mora hoy. Evite su traslado a cobro domiciliario o a su lugar de trabajo. Gracias. 25126001.
+
+#243
+Type	: Incoming
+Date	: 2023-03-20 14:04:42
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Ultimo dia! 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#244
+Type	: Incoming
+Date	: 2023-03-20 13:03:55
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#245
+Type	: Incoming
+Date	: 2023-03-20 11:44:16
+Address	: +24242
+Status	: NOT_RECEIVED
+Message	: Use verification code 028213 for Microsoft authentication.
+
+#246
+Type	: Incoming
+Date	: 2023-03-20 10:59:46
+Address	: TigoEscucha
+Status	: NOT_RECEIVED
+Message	: Para Tigo tu opinion es muy importante. Por favor contesta la siguiente encuesta: https://b.tigo.com/ribr68yurn
+
+#247
+Type	: Incoming
+Date	: 2023-03-20 09:59:40
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Requiere resuelva su pago de saldo en mora en 24 horas. Evite su traslado a otra instancia de recuperacion incurriendo en recargos adicionales. 25126001.
+
+#248
+Type	: Incoming
+Date	: 2023-03-19 16:10:29
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Envia dinero a los tuyos con Tigo Money APP/WEB. Ve a tu punto Tigo Money, deposita en tu billetera y envia. Siempre tendras un punto cercano! bit.ly/3zHJ0qc
+
+#249
+Type	: Incoming
+Date	: 2023-03-19 14:16:31
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: No hay mejor homenaje a nuestros padres que imitar sus virtudes. Felicita a papa enviandole una Super Recarga desde el app Tigo Money https://tmy.la/3JbHrEQ
+
+#250
+Type	: Incoming
+Date	: 2023-03-19 13:09:14
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Estimado usuario le invitamos a contestar esta breve encuesta https://es.surveymonkey.com/r/QZ9ZRLW usted recibir. un premio por participar. Gracias
+
+#251
+Type	: Incoming
+Date	: 2023-03-19 13:05:06
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Vence 20 marzo. Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#252
+Type	: Incoming
+Date	: 2023-03-19 10:05:43
+Address	: INTERNET
+Status	: NOT_RECEIVED
+Message	: Tu Paquete de internet ha expirado. Utiliza GRATIS Mi Tigo App https://b.tigo.com/Internethn para comprar otro paquetigo!
+
+#253
+Type	: Incoming
+Date	: 2023-03-18 17:24:03
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Estimado usuario le invitamos a contestar esta breve encuesta https://es.surveymonkey.com/r/QZ9ZRLW usted recibir. un premio por participar. Gracias
+
+#254
+Type	: Incoming
+Date	: 2023-03-18 16:10:27
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: ?Mantente conectado! Aprovecha y recarga saldo con Tigo Money. Entra YA en bit.ly/3zHJ0qc
+
+#255
+Type	: Incoming
+Date	: 2023-03-18 15:43:58
+Address	: Whatsapp
+Status	: NOT_RECEIVED
+Message	: Tu cuenta de WhatsApp esta siendo registrada en un dispositivo nuevo No compartas el codigo con nadie Tu codigo de WhatsApp es: 494-721
+
+#256
+Type	: Incoming
+Date	: 2023-03-18 15:24:38
+Address	: TENGO
+Status	: NOT_RECEIVED
+Message	: Enhorabuena actualizaste tu App GO. Sigue haciendo tus transacciones favoritas y participaras para ganar bonos de L5000 del supermercado. https://bit.ly/3Lt00XI
+
+#257
+Type	: Incoming
+Date	: 2023-03-18 10:57:26
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Su cuenta aun refleja saldo en mora. Favor resolver su pago en nuestras tiendas Lady Lee o alternativas online. 25126001.
+
+#258
+Type	: Incoming
+Date	: 2023-03-18 09:42:25
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Recibi 5GB GRATIS y navega en la mejor red LTE! Cambia de tecnologia tu SIM en nuestras tiendas a nivel nacional SIN COSTO. Claro que si!
+
+#259
+Type	: Incoming
+Date	: 2023-03-18 08:39:27
+Address	: INTERNET
+Status	: NOT_RECEIVED
+Message	: Tu Paquete de internet ha expirado. Utiliza GRATIS Mi Tigo App https://b.tigo.com/Internethn para comprar otro paquetigo!
+
+#260
+Type	: Incoming
+Date	: 2023-03-17 16:25:40
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: TIGO MONEY: Adios filas eternas! Hola a pagar a toda hora y donde sea que estes. Entra ya! bit.ly/3zHJ0qc
+
+#261
+Type	: Incoming
+Date	: 2023-03-17 15:18:08
+Address	: Mega
+Status	: NOT_RECEIVED
+Message	: MEGA c?digo: 328131
+
+#262
+Type	: Incoming
+Date	: 2023-03-17 12:41:01
+Address	: 707
+Status	: NOT_RECEIVED
+Message	: CLARO CLUB: Tenes un 30% OFF en toda la tienda de U.S. POLO ASSN para PAPA. Envia POLOHN al 707. Claro que si! Vigente 17 y 18 Marzo
+
+#263
+Type	: Incoming
+Date	: 2023-03-17 12:40:58
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Requiere su cumplimiento de pago de saldo en mora. Favor resolver a mas tardar hoy en nuestras tiendas Lady Lee o de manera online. 25126001.
+
+#264
+Type	: Incoming
+Date	: 2023-03-17 12:22:01
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#265
+Type	: Incoming
+Date	: 2023-03-17 11:24:18
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Envia dinero a los tuyos con Tigo Money. Ve a tu punto Tigo Money, carga tu billetera y envia. Siempre tendras un punto cerca! http://bit.ly/3EuSLe2
+
+#266
+Type	: Incoming
+Date	: 2023-03-17 11:24:05
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Envia dinero a los tuyos con Tigo Money. Ve a tu punto Tigo Money, carga tu billetera y envia. Siempre tendras un punto cerca! http://bit.ly/3EuSLe2
+
+#267
+Type	: Incoming
+Date	: 2023-03-17 11:14:43
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Viernes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#268
+Type	: Incoming
+Date	: 2023-03-16 16:39:54
+Address	: +50487319264
+Status	: NOT_RECEIVED
+Message	: BAC Credomatic le informa que el usuario alonso0794 ha realizado un ingreso a Banca en Lnea a las 02:59 CST del 16-03-2023
+
+#269
+Type	: Incoming
+Date	: 2023-03-16 15:40:46
+Address	: 54138
+Status	: NOT_RECEIVED
+Message	: Tu factura fue emitida por L1038.84 a pagar 04 Apr https://facturaelectronica.claro.com.hn/personaWeb/user/authhandoff?cde=7256d650046b233c1cebbde8492459f9
+
+#270
+Type	: Incoming
+Date	: 2023-03-16 13:53:33
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Vence 20 marzo. Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#271
+Type	: Incoming
+Date	: 2023-03-16 11:49:59
+Address	: +50432943345
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50432943345 lo ha llamado 2 veces y la ultima vez fue el 16/03 a las 10:48 Claro que si
+
+#272
+Type	: Incoming
+Date	: 2023-03-16 11:45:53
+Address	: +50432943345
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50432943345 lo ha llamado 1 veces y la ultima vez fue el 16/03 a las 10:45Claro que si
+
+#273
+Type	: Incoming
+Date	: 2023-03-16 11:45:48
+Address	: +50432943345
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50432943345 lo ha llamado 1 veces y la ultima vez fue el 16/03 a las 10:45Claro que si
+
+#274
+Type	: Incoming
+Date	: 2023-03-16 11:28:03
+Address	: +50432943345
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50432943345 lo ha llamado 1 veces y la ultima vez fue el 16/03 a las 10:12Claro que si
+
+#275
+Type	: Incoming
+Date	: 2023-03-16 11:12:11
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#276
+Type	: Incoming
+Date	: 2023-03-15 22:27:55
+Address	: INTERNET
+Status	: NOT_RECEIVED
+Message	: Tu paquete de internet ha expirado. Visita https://shop.tigo.com.hn/ para activar otro nuevamente o marca #111#. Tigo Smart!
+
+#277
+Type	: Incoming
+Date	: 2023-03-15 22:27:52
+Address	: INTERNET
+Status	: NOT_RECEIVED
+Message	: Tu paquete de navegacion ha expirado. Si deseas activar nuevamente un paquete de Internet, envia un mensaje con la palabra HORA, DIA, SEMANA o MES al 0101.
+
+#278
+Type	: Incoming
+Date	: 2023-03-15 21:06:53
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: El numero 89942436 ha intentado llamarte pero no tiene saldo. Hazle una recarga entrando aqui: https://fyu.la/rt/3VU5WLQAL
+
+#279
+Type	: Incoming
+Date	: 2023-03-15 17:36:45
+Address	: TENGO
+Status	: NOT_RECEIVED
+Message	: Enhorabuena actualizaste tu App GO. Sigue haciendo tus transacciones favoritas y participaras para ganar bonos de L5000 del supermercado. https://bit.ly/3Lt00XI
+
+#280
+Type	: Incoming
+Date	: 2023-03-15 17:35:22
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le recuerda que puede realizar su pago mediante nuestras diferentes alternativas de pago Online. Consulte la manera mas adecuada para usted. 25126001.
+
+#281
+Type	: Incoming
+Date	: 2023-03-15 16:07:40
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Descarga tu remesa por Tigo Money. Recibela y aprovecha todos los beneficios. Conoce mas bit.ly/3zHJ0qc
+
+#282
+Type	: Incoming
+Date	: 2023-03-15 12:10:42
+Address	: +50498948208
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50498948208 lo ha llamado 2 veces y la ultima vez fue el 15/03 a las 11:00 Claro que si
+
+#283
+Type	: Incoming
+Date	: 2023-03-15 11:46:17
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#284
+Type	: Incoming
+Date	: 2023-03-15 10:34:57
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Su cuenta aun refleja saldo en mora. Se requiere normalice su pago pendiente hoy en nuestras tiendas Lady Lee o de manera online. 25126001.
+
+#285
+Type	: Incoming
+Date	: 2023-03-14 18:54:28
+Address	: Microsoft
+Status	: NOT_RECEIVED
+Message	: Use el código 198325 para autenticar Microsoft.
+
+#286
+Type	: Incoming
+Date	: 2023-03-14 16:29:33
+Address	: +50494383208
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494383208 lo ha llamado 1 veces y la ultima vez fue el 14/03 a las 15:19Claro que si
+
+#287
+Type	: Incoming
+Date	: 2023-03-14 16:29:32
+Address	: +50494544844
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494544844 lo ha llamado 1 veces y la ultima vez fue el 14/03 a las 15:19Claro que si
+
+#288
+Type	: Incoming
+Date	: 2023-03-14 16:29:17
+Address	: +50494628879
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494628879 lo ha llamado 1 veces y la ultima vez fue el 14/03 a las 15:19Claro que si
+
+#289
+Type	: Incoming
+Date	: 2023-03-14 16:08:26
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa: Utilice el siguiente token para ingresar su gestion: LVL5KJ
+
+#290
+Type	: Incoming
+Date	: 2023-03-14 16:08:24
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa: Utilice el siguiente token para ingresar su gestion: FXHY6W
+
+#291
+Type	: Incoming
+Date	: 2023-03-14 16:06:17
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Aprovecha hoy! Entra a Tigo Money y compra tus Super Recargas bit.ly/3zHJ0qc
+
+#292
+Type	: Incoming
+Date	: 2023-03-14 15:55:15
+Address	: 707
+Status	: NOT_RECEIVED
+Message	: CLARO CLUB: Tenes un 30% OFF en toda la tienda de U.S. POLO ASSN para PAPA. Envia POLOHN al 707. Claro que si! Vigente 17 y 18 Marzo
+
+#293
+Type	: Incoming
+Date	: 2023-03-14 14:55:12
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#294
+Type	: Incoming
+Date	: 2023-03-14 12:06:41
+Address	: Tigo
+Status	: SUCCESS
+Message	: 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Vence 20 marzo. Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#295
+Type	: Incoming
+Date	: 2023-03-12 22:31:54
+Address	: TIGO
+Status	: SUCCESS
+Message	: Estimado cliente si desea visualizar la factura de tu compra ingresa a: https://digital.tigo.com.hn/factura/#/734db295-4744-4142-8cf2-3c7d223674ce
+
+#296
+Type	: Incoming
+Date	: 2023-03-12 22:29:17
+Address	: TIGO
+Status	: SUCCESS
+Message	: Has ganado 102.0 puntos por tu compra realizada.
+
+#297
+Type	: Incoming
+Date	: 2023-03-12 22:27:57
+Address	: TIGO SPORTS
+Status	: SUCCESS
+Message	: Has recibido con tu Super Recarga un pase Tigo Sports de 3 dias gratis, disfruta lo mejor del deporte aqui https://b.tigo.com/sports2HN
+
+#298
+Type	: Incoming
+Date	: 2023-03-12 22:27:56
+Address	: TIGO
+Status	: SUCCESS
+Message	: ¡Gracias por tu compra! Recuerda que en Mi Tigo siempre recibes mas beneficios. Si deseas tu factura en fisico puedes visitarnos en cualquiera de nuestras agencias a nivel nacional.
+
+#299
+Type	: Incoming
+Date	: 2023-03-12 22:27:53
+Address	: 443
+Status	: SUCCESS
+Message	: Se activaron tus minutos ilimitados a Tigo de tu Super Recarga de 3 dias. Duracion de cada llamada es de 10 min, mins adicionales se debitaran de tu saldo
+
+#300
+Type	: Incoming
+Date	: 2023-03-12 22:27:52
+Address	: TIGO
+Status	: SUCCESS
+Message	: Super Recarga de 3 dias activada: 5.5GB para navegar, Wapp Chat Ilim/Mins Ilim a Tigo/L.150 de saldo para llamar TR y USA.Consulta https://b.tigo.com/Saldomthn
+
+#301
+Type	: Incoming
+Date	: 2023-03-12 22:27:51
+Address	: 443
+Status	: SUCCESS
+Message	: Se activaron tus minutos ilimitados a Tigo de tu Super Recarga de 3 dias. Duracion de cada llamada es de 10 min, mins adicionales se debitaran de tu saldo.
+
+#302
+Type	: Incoming
+Date	: 2023-03-12 15:43:17
+Address	: Tigo
+Status	: SUCCESS
+Message	: Envia dinero a los tuyos con Tigo Money APP/WEB. Ve a tu punto Tigo Money, deposita en tu billetera y envia. Siempre tendras un punto cercano! bit.ly/3zHJ0qc
+
+#303
+Type	: Incoming
+Date	: 2023-03-12 13:05:17
+Address	: Tigo
+Status	: SUCCESS
+Message	: 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Vence 13 marzo. Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#304
+Type	: Incoming
+Date	: 2023-03-12 10:04:29
+Address	: INTERNET
+Status	: SUCCESS
+Message	: Tu Paquete de internet ha expirado. Utiliza GRATIS Mi Tigo App https://b.tigo.com/Internethn para comprar otro paquetigo!
+
+#305
+Type	: Incoming
+Date	: 2023-03-11 14:43:08
+Address	: Tigo
+Status	: SUCCESS
+Message	: ?Mantente conectado! Aprovecha y recarga saldo con Tigo Money. Entra YA en bit.ly/3zHJ0qc
+
+#306
+Type	: Incoming
+Date	: 2023-03-11 12:58:44
+Address	: Whatsapp
+Status	: SUCCESS
+Message	: Tu cuenta de WhatsApp esta siendo registrada en un dispositivo nuevo No compartas el codigo con nadie Tu codigo de WhatsApp es: 294-205
+
+#307
+Type	: Incoming
+Date	: 2023-03-11 08:07:04
+Address	: Tigo
+Status	: SUCCESS
+Message	: Necesitas dinero? Pide que te lo manden por Tigo Money, lo tendras al instante y podras pagar servicios, comprar recargas y paquetes http://bit.ly/3EuSLe2
+
+#308
+Type	: Incoming
+Date	: 2023-03-10 13:42:52
+Address	: Tigo
+Status	: SUCCESS
+Message	: 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Vence 13 marzo. Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#309
+Type	: Incoming
+Date	: 2023-03-10 11:29:50
+Address	: +50499840000
+Status	: SUCCESS
+Message	: Estimado cliente te informamos que ya has alcanzado el 80% de tu navegacion puedes consultar tu consumo ingresando a http://tigointernet.hn
+
+#310
+Type	: Incoming
+Date	: 2023-03-10 11:29:49
+Address	: +50499840000
+Status	: SUCCESS
+Message	: Estimado cliente te informamos que ya has alcanzado el 80% de tu navegacion puedes consultar tu consumo ingresando a http://tigointernet.hn
+
+#311
+Type	: Incoming
+Date	: 2023-03-09 20:52:21
+Address	: Ficohsa
+Status	: SUCCESS
+Message	: Su codigo de verificacion es: 346029
+
+#312
+Type	: Incoming
+Date	: 2023-03-09 17:29:41
+Address	: 909
+Status	: SUCCESS
+Message	: Tu paquete de navegacion ha expirado. Si deseas activar nuevamente un paquete de Internet, envia un mensaje con la palabra HORA, DIA, SEMANA o MES al 0101.
+
+#313
+Type	: Incoming
+Date	: 2023-03-09 17:29:40
+Address	: TIGO
+Status	: SUCCESS
+Message	: Estimado cliente tus Paquetigos de voz a Todas las Redes USA/CAN han expirado. Activalo nuevamente marcando #111# en la seccion de Llamadas y Mensajitos.
+
+#314
+Type	: Incoming
+Date	: 2023-03-08 21:07:50
+Address	: Tigo
+Status	: SUCCESS
+Message	: 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Vence 13 marzo. Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#315
+Type	: Incoming
+Date	: 2023-03-08 17:30:06
+Address	: TIGO
+Status	: SUCCESS
+Message	: Tus paquetigos para hablar a todas las redes USA y Canada vencen el 09/03/2023. Consulta el saldo de tus paquetes al #125#
+
+#316
+Type	: Incoming
+Date	: 2023-03-08 17:29:46
+Address	: 909
+Status	: SUCCESS
+Message	: Felicidades! Recibiste tu recompensa de 700MB+25Min para USA/CAN y TR. Min y sms vencen en 24 hrs consulta tu paquetes en Mi Tigo App: https://b.tigo.com/mtrecargashn
+
+#317
+Type	: Incoming
+Date	: 2023-03-08 17:29:22
+Address	: TIGO
+Status	: SUCCESS
+Message	: Has ganado 27.0 puntos por tu compra realizada.
+
+#318
+Type	: Incoming
+Date	: 2023-03-08 17:10:04
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Compra en https://b.tigo.com/mitigohn tu Super Recarga 7 dias 10.5GB de L 104 con duracion de 7 Dia.
+
+#319
+Type	: Incoming
+Date	: 2023-03-08 17:09:19
+Address	: 327
+Status	: NOT_RECEIVED
+Message	: Tu saldo es insuficiente. Puedes solicitar que te regalen saldo por el *DAR de Tigo o recargar tu telefono en el centro de venta mas cercano.
+
+#320
+Type	: Incoming
+Date	: 2023-03-08 17:08:10
+Address	: 555
+Status	: NOT_RECEIVED
+Message	: Recarga Exitosa para el 93385655, Nombre de cliente LUIS ALONSO VEGA GUTIERREZ, Monto: L. 5.00, Cargo: L. 0.20, ISV: L. 0.00, Nuevo balance Tigo Money: L. 3.82, Ref: 67755702, Fecha: 08/03/23 17:08.
+
+#321
+Type	: Incoming
+Date	: 2023-03-08 17:06:08
+Address	: 625
+Status	: NOT_RECEIVED
+Message	: Tu PIN Tigo Money ha sido actualizado exitosamente. Marca *555# send o ingresa a la App Tigo Money para comenzar a utilizar tus servicios Tigo Money.
+
+#322
+Type	: Incoming
+Date	: 2023-03-08 17:04:55
+Address	: 456
+Status	: NOT_RECEIVED
+Message	: Encontramos un error al intentar cobrar por medio de Tigo Money. Llama sin costo al *611 para validar tu cuenta. Tigo money me llega!
+
+#323
+Type	: Incoming
+Date	: 2023-03-08 16:57:35
+Address	: INTERNET
+Status	: NOT_RECEIVED
+Message	: Tu paquete de internet ha expirado. Visita https://shop.tigo.com.hn/ para activar otro nuevamente o marca #111#. Tigo Smart!
+
+#324
+Type	: Incoming
+Date	: 2023-03-08 16:57:33
+Address	: INTERNET
+Status	: NOT_RECEIVED
+Message	: Tu paquete de navegacion ha expirado. Si deseas activar nuevamente un paquete de Internet, envia un mensaje con la palabra HORA, DIA, SEMANA o MES al 0101.
+
+#325
+Type	: Incoming
+Date	: 2023-03-08 10:40:26
+Address	: 707
+Status	: NOT_RECEIVED
+Message	: CLARO CLUB: Disfruta de la vista espectacular de CAFETALINO y un 10% descuento en su amplio menu. Envia CAFETALINO al 707. Claro que si!
+
+#326
+Type	: Incoming
+Date	: 2023-03-07 16:57:34
+Address	: TIGO SPORTS
+Status	: NOT_RECEIVED
+Message	: Has recibido con tu Super Recarga un pase Tigo Sports de 1 dias gratis, disfruta lo mejor del deporte aqui https://b.tigo.com/sports2HN
+
+#327
+Type	: Incoming
+Date	: 2023-03-07 16:57:34
+Address	: Epin
+Status	: NOT_RECEIVED
+Message	: La transaccion para la recarga PAQUETIGO de Lps.27 fue exitosa. Por favor verifique su saldo. ID V230307.1657.210025 Sonrie, tienes Tigo!
+
+#328
+Type	: Incoming
+Date	: 2023-03-07 16:57:33
+Address	: 443
+Status	: NOT_RECEIVED
+Message	: Se activaron tus minutos ilimitados a Tigo de tu Super Recarga de 1 dia. Duracion de cada llamada es de 10 min, mins adicionales se debitaran de tu saldo.
+
+#329
+Type	: Incoming
+Date	: 2023-03-07 16:57:31
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Super Recarga de 1 dia activada: 1.5GB para navegar, Wapp Chat Ilim/Mins Ilim a Tigo/L.75 de saldo para llamar TR y USA. Consulta https://b.tigo.com/Saldomthn
+
+#330
+Type	: Incoming
+Date	: 2023-03-07 14:48:46
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Aprovecha hoy! Entra a Tigo Money y compra tus Super Recargas bit.ly/3zHJ0qc
+
+#331
+Type	: Incoming
+Date	: 2023-03-07 10:25:25
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Martes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#332
+Type	: Incoming
+Date	: 2023-03-07 09:40:21
+Address	: Whatsapp
+Status	: NOT_RECEIVED
+Message	: <#> Tu cuenta de WhatsApp esta siendo registrada en un dispositivo nuevo No compartas el codigo con nadie Tu codigo de WhatsApp es: 914-699 4sgLq1p5sV6
+
+#333
+Type	: Incoming
+Date	: 2023-03-07 09:35:04
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Recibi 5GB GRATIS y navega en la mejor red LTE! Cambia de tecnologia tu SIM en nuestras tiendas a nivel nacional SIN COSTO. Claro que si!
+
+#334
+Type	: Incoming
+Date	: 2023-03-06 12:47:20
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Ulitmo dia! 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#335
+Type	: Incoming
+Date	: 2023-03-06 11:29:57
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Tu codigo de activacion es: 716627
+
+#336
+Type	: Incoming
+Date	: 2023-03-06 11:29:47
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 237436 resguarde y no comparta con nadie este codigo
+
+#337
+Type	: Incoming
+Date	: 2023-03-06 10:42:41
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 934030 resguarde y no comparta con nadie este codigo
+
+#338
+Type	: Incoming
+Date	: 2023-03-06 10:42:04
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 731216 resguarde y no comparta con nadie este codigo
+
+#339
+Type	: Incoming
+Date	: 2023-03-06 10:41:41
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 167630 resguarde y no comparta con nadie este codigo
+
+#340
+Type	: Incoming
+Date	: 2023-03-06 10:17:24
+Address	: 707
+Status	: NOT_RECEIVED
+Message	: CLARO CLUB: HOY LUNES disfruta tu pelicula favorita en METROCINEMAS. Solicita tu cupon al enviar LUNESCATRACHO al 707 SIN COSTO. Claro que si!
+
+#341
+Type	: Incoming
+Date	: 2023-03-05 11:23:27
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: 15 Min a todas las redes por 1 dia al activar tu Super Recarga de 3 dias que incluye GB-wpp-minTigo y mas! Vence 6 marzo. Comprala con tu tarjeta de credito o debito en https://b.tigo.com/SR2hn
+
+#342
+Type	: Incoming
+Date	: 2023-03-05 10:26:51
+Address	: 707
+Status	: NOT_RECEIVED
+Message	: CLARO CLUB: Activa tu suscripci?n con TVC DEPORTES por tan solo L1. Envia TVCDEPORTES al 707 SIN COSTO. Claro que si!
+
+#343
+Type	: Incoming
+Date	: 2023-03-05 09:23:10
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#344
+Type	: Incoming
+Date	: 2023-03-04 16:05:25
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#345
+Type	: Incoming
+Date	: 2023-03-04 14:41:24
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L1,205.00 el 4-03-23 a las 02:41 PM. Trans. ID:134281363
+
+#346
+Type	: Incoming
+Date	: 2023-03-04 14:41:06
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 444407
+
+#347
+Type	: Incoming
+Date	: 2023-03-04 10:29:39
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de Luz y AGUAS DE SAN PEDRO SULA, sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#348
+Type	: Incoming
+Date	: 2023-03-03 11:22:09
+Address	: +50499702837
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50499702837 lo ha llamado 2 veces y la ultima vez fue el 03/03 a las 11:10 Claro que si
+
+#349
+Type	: Incoming
+Date	: 2023-03-03 11:20:50
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#350
+Type	: Incoming
+Date	: 2023-03-02 14:56:55
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 811274 resguarde y no comparta con nadie este codigo
+
+#351
+Type	: Incoming
+Date	: 2023-03-02 12:00:06
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le agradecemos resolver su saldo pendiente de pago a mas tardar hoy en nuestras tiendas Lady Lee u online. 25126001.
+
+#352
+Type	: Incoming
+Date	: 2023-03-02 10:46:03
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#353
+Type	: Incoming
+Date	: 2023-03-02 10:12:36
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 235809 resguarde y no comparta con nadie este codigo
+
+#354
+Type	: Incoming
+Date	: 2023-03-02 10:06:28
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 473820 resguarde y no comparta con nadie este codigo
+
+#355
+Type	: Incoming
+Date	: 2023-03-02 10:03:32
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 963177 resguarde y no comparta con nadie este codigo
+
+#356
+Type	: Incoming
+Date	: 2023-03-02 10:03:30
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 405039 resguarde y no comparta con nadie este codigo
+
+#357
+Type	: Incoming
+Date	: 2023-03-02 09:51:59
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 845657
+
+#358
+Type	: Incoming
+Date	: 2023-03-02 09:51:55
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 548057
+
+#359
+Type	: Incoming
+Date	: 2023-03-02 08:51:56
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 505900
+
+#360
+Type	: Incoming
+Date	: 2023-03-01 19:19:07
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Transferencia exitosa. monto L:4,000.00 el 03/01/23 19:19:04. Trans. ID 134042733
+
+#361
+Type	: Incoming
+Date	: 2023-03-01 12:04:24
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: ¿Quieres ahorrar? TigoMoney y PedidosYa te regalan L300 en tu primera compra. Asocia tu billetera electronica en app PedidosYa e ingresa cupon PEDICONTIGO https://bit.ly/36XPcLG Restricciones aplican
+
+#362
+Type	: Incoming
+Date	: 2023-03-01 08:18:33
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Deposito exitoso. Monto L500.00 el 1-03-23 a las 08:18 AM. Trans. ID:133962696
+
+#363
+Type	: Incoming
+Date	: 2023-03-01 08:17:56
+Address	: +50433124485
+Status	: NOT_RECEIVED
+Message	: Estimado cliente para completar la compra con su tarjeta BAC terminada en 6156 ingrese el siguiente codigo: 675268, por seguridad no lo comparta.
+
+#364
+Type	: Incoming
+Date	: 2023-03-01 08:17:15
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 678607
+
+#365
+Type	: Incoming
+Date	: 2023-03-01 08:16:46
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 932153
+
+#366
+Type	: Incoming
+Date	: 2023-03-01 08:16:45
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 952762
+
+#367
+Type	: Incoming
+Date	: 2023-03-01 08:16:42
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Recibi 5GB GRATIS y navega en la mejor red LTE! Cambia de tecnologia tu SIM en nuestras tiendas a nivel nacional SIN COSTO. Claro que si!
+
+#368
+Type	: Incoming
+Date	: 2023-02-28 22:12:44
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L988.00 el 28-02-23 a las 10:12 PM. Trans. ID:133955191
+
+#369
+Type	: Incoming
+Date	: 2023-02-28 22:12:25
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 163558
+
+#370
+Type	: Incoming
+Date	: 2023-02-28 22:11:09
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 544258
+
+#371
+Type	: Incoming
+Date	: 2023-02-28 18:24:21
+Address	: 50494313660
+Status	: NOT_RECEIVED
+Message	: Davivienda: Que facil y rapido es recibir sus remesas hasta ¤ 5,000 con nosotros, a traves de nuestras agencias, App, ATM, o credito a cuenta. Lo estaremos esperando!
+
+#372
+Type	: Incoming
+Date	: 2023-02-28 18:03:58
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 560759 resguarde y no comparta con nadie este codigo
+
+#373
+Type	: Incoming
+Date	: 2023-02-28 18:02:45
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 565878 resguarde y no comparta con nadie este codigo
+
+#374
+Type	: Incoming
+Date	: 2023-02-28 16:30:43
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: App Tigo Money te brinda el beneficio de hacer uso de tu dinero electronico sin consumir tus datos moviles. Tu dinero donde, cuando y como quieras. https://bit.ly/3Fsxa6S
+
+#375
+Type	: Incoming
+Date	: 2023-02-28 16:30:39
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: ¿Tienes experiencia en ventas de campo? Forma parte de nuestro equipo de ventas en SPS, contactanos al 95366844 o 98357184
+
+#376
+Type	: Incoming
+Date	: 2023-02-28 11:01:46
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 902406 resguarde y no comparta con nadie este codigo
+
+#377
+Type	: Incoming
+Date	: 2023-02-28 10:58:51
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 855494 resguarde y no comparta con nadie este codigo
+
+#378
+Type	: Incoming
+Date	: 2023-02-28 10:58:50
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 627350 resguarde y no comparta con nadie este codigo
+
+#379
+Type	: Incoming
+Date	: 2023-02-28 10:58:49
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Martes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#380
+Type	: Incoming
+Date	: 2023-02-28 10:58:49
+Address	: JETSTEREO
+Status	: NOT_RECEIVED
+Message	: Supera todas tus expectativas con tu nuevo Smart TV Hisense, aprovecha los super descuentos y visita tu tienda favorita. Ver descuentos: https://bit.ly/3macfhc
+
+#381
+Type	: Incoming
+Date	: 2023-02-28 10:58:48
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Favor resolver su pago pendiente a mas tardar hoy en nuestras tiendas Lady Lee u online. Evite recargos adicionales o reportes negativos en buros crediticios. 25126001.
+
+#382
+Type	: Incoming
+Date	: 2023-02-28 10:58:47
+Address	: BACCREDOMAT
+Status	: NOT_RECEIVED
+Message	: Recuerda que la fecha maxima de pago de tu tarjeta XX0327 fue el 2023-02-24, realiza tu pago para seguir disfrutando los beneficios que tu tarjeta te ofrece.
+
+#383
+Type	: Incoming
+Date	: 2023-02-28 10:58:45
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 841230 resguarde y no comparta con nadie este codigo
+
+#384
+Type	: Incoming
+Date	: 2023-02-28 09:21:28
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Ficohsa Codigo de Seguridad: 954094 resguarde y no comparta con nadie este codigo
+
+#385
+Type	: Incoming
+Date	: 2023-02-27 16:24:26
+Address	: +50493669342
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50493669342 lo ha llamado 1 veces y la ultima vez fue el 27/02 a las 16:20Claro que si
+
+#386
+Type	: Incoming
+Date	: 2023-02-27 15:04:12
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Evite su traslado a cobro domiciliario asi como reportes negativos en buros crediticios realizando su cumplimiento de cuota pendiente hoy. 25126001.
+
+#387
+Type	: Incoming
+Date	: 2023-02-27 12:00:14
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Ulitmo dia!Recibe 15min + 4GB por 1 dia al activar tu Super Recarga de 3 dias que incluye GB internet-wpp-minTigo y mas! Comprala en tu punto de venta!
+
+#388
+Type	: Incoming
+Date	: 2023-02-27 10:02:30
+Address	: 707
+Status	: NOT_RECEIVED
+Message	: CLARO CLUB: HOY LUNES disfruta tu pelicula favorita en METROCINEMAS. Solicita tu cupon al enviar LUNESCATRACHO al 707 SIN COSTO. Claro que si!
+
+#389
+Type	: Incoming
+Date	: 2023-02-26 19:07:29
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494580250 lo ha llamado 1 veces y la ultima vez fue el 26/02 a las 19:07Claro que si
+
+#390
+Type	: Incoming
+Date	: 2023-02-26 16:37:57
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494580250 lo ha llamado 1 veces y la ultima vez fue el 26/02 a las 16:37Claro que si
+
+#391
+Type	: Incoming
+Date	: 2023-02-26 10:05:28
+Address	: 50494313680
+Status	: NOT_RECEIVED
+Message	: Bco Azteca AVISO IMPORTANTE. hoy es el ultimo dia para que pague sus cuotas vencidas evite que su cuenta pase a otra instancias de cobro https://bit.ly/3oAH6Co
+
+#392
+Type	: Incoming
+Date	: 2023-02-25 12:57:50
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Recibe 15min + 4GB por 1 dia al activar tu Super Recarga de 3 dias que incluye GB internet-wpp-minTigo y mas! Comprala en tu punto de venta! Vence 27 Febrero
+
+#393
+Type	: Incoming
+Date	: 2023-02-25 10:46:07
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#394
+Type	: Incoming
+Date	: 2023-02-25 10:00:41
+Address	: 50494313680
+Status	: NOT_RECEIVED
+Message	: Bco Azteca AVISO IMPORTANTE. hoy es el ultimo dia para que pague sus cuotas vencidas evite que su cuenta pase a otra instancias de cobro https://bit.ly/3oAH6Co
+
+#395
+Type	: Incoming
+Date	: 2023-02-25 09:23:54
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le agradecemos resolver su saldo pendiente de pago a la fecha el dia de hoy. En nuestras tiendas Lady Lee u online. Gracias. 25126001.
+
+#396
+Type	: Incoming
+Date	: 2023-02-25 08:33:40
+Address	: BACCREDOMAT
+Status	: NOT_RECEIVED
+Message	: Luis, ¿olvidaste pagar tu tarjeta XX0327? Recuerda que puedes hacer tu pago en los diferentes canales disponibles. Conocelos: https://baccredomatic.info/fw
+
+#397
+Type	: Incoming
+Date	: 2023-02-24 11:08:05
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#398
+Type	: Incoming
+Date	: 2023-02-24 11:08:01
+Address	: +50494916143
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494916143 lo ha llamado 1 veces y la ultima vez fue el 24/02 a las 11:03Claro que si
+
+#399
+Type	: Incoming
+Date	: 2023-02-24 10:44:40
+Address	: 707
+Status	: NOT_RECEIVED
+Message	: CLARO CLUB: Participa y podes ser el GANADOR de UNA HUAWEI BAND 6 color negro! Envia BAND6 al 707 SIN COSTO y estaras participando. Claro que si!
+
+#400
+Type	: Incoming
+Date	: 2023-02-24 10:44:31
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Viernes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#401
+Type	: Incoming
+Date	: 2023-02-24 09:58:01
+Address	: 50494313680
+Status	: NOT_RECEIVED
+Message	: Bco Azteca AVISO IMPORTANTE. hoy es el ultimo dia para que pague sus cuotas vencidas evite que su cuenta pase a otra instancias de cobro https://bit.ly/3oAH6Co
+
+#402
+Type	: Incoming
+Date	: 2023-02-24 09:47:45
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Su cuenta aun refleja saldo pendiente de pago. Le agradecemos resolverlo hoy en nuestras tiendas Lady Lee o alternativas online. 25126001.
+
+#403
+Type	: Incoming
+Date	: 2023-02-24 09:47:35
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Has iniciado una nueva conversacion con SARA en WhatsApp el 24/02/2023 a las 09:27:45
+
+#404
+Type	: Incoming
+Date	: 2023-02-24 08:20:11
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Recibi 5GB GRATIS y navega en la mejor red LTE! Cambia de tecnologia tu SIM en nuestras tiendas a nivel nacional SIN COSTO. Claro que si!
+
+#405
+Type	: Incoming
+Date	: 2023-02-23 16:59:14
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#406
+Type	: Incoming
+Date	: 2023-02-23 14:18:57
+Address	: JETSTEREO
+Status	: NOT_RECEIVED
+Message	: SOLO HOY! Recibe GRATIS impresora o monitor al realizar tus compras de Laptop HP en tu tienda Jetstereo favorita. Ver mas aqui: https://clkimp.com/2IQ48
+
+#407
+Type	: Incoming
+Date	: 2023-02-23 11:53:33
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Recibe 15min + 4GB por 1 dia al activar tu Super Recarga de 3 dias que incluye GB internet-wpp-minTigo y mas! Comprala en tu punto de venta! Vence 27 Febrero
+
+#408
+Type	: Incoming
+Date	: 2023-02-23 08:50:11
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le agradecemos resolver el saldo pendiente que aun refleja su cuenta en nuestras tiendas Lady Lee u online. 25126001.
+
+#409
+Type	: Incoming
+Date	: 2023-02-22 17:05:23
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#410
+Type	: Incoming
+Date	: 2023-02-22 10:32:22
+Address	: 707
+Status	: NOT_RECEIVED
+Message	: CLARO CLUB: Se parte del mejor Programa de inglés Online con DelCampo English Center. Extrafinan.a 12 meses. Envia DELCAMPO al 707 y recibe el beneficio.
+
+#411
+Type	: Incoming
+Date	: 2023-02-21 17:06:59
+Address	: FICOHSA
+Status	: NOT_RECEIVED
+Message	: Esta es tu oportunidad de GANAR Playstations, Iphones y muchos premios al comprar con tu TD Ficohsa en tu tienda online favorita http://clkimp.com/2IOOd
+
+#412
+Type	: Incoming
+Date	: 2023-02-21 14:36:11
+Address	: +50494464871
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494464871 lo ha llamado 1 veces y la ultima vez fue el 21/02 a las 14:36Claro que si
+
+#413
+Type	: Incoming
+Date	: 2023-02-21 14:36:09
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#414
+Type	: Incoming
+Date	: 2023-02-21 13:17:05
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Recibe 15min + 4GB por 1 dia al activar tu Super Recarga de 3 dias que incluye GB internet-wpp-minTigo y mas! Comprala en tu punto de venta! Vence 27 Febrero
+
+#415
+Type	: Incoming
+Date	: 2023-02-21 11:09:49
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Martes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#416
+Type	: Incoming
+Date	: 2023-02-21 09:25:49
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Favor resolver su pago pendiente a mas tardar hoy en nuestras tiendas Lady Lee u online. Gracias. 25126001.
+
+#417
+Type	: Incoming
+Date	: 2023-02-21 09:25:41
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Recibi 5GB GRATIS y navega en la mejor red LTE! Cambia de tecnologia tu SIM en nuestras tiendas a nivel nacional SIN COSTO. Claro que si!
+
+#418
+Type	: Incoming
+Date	: 2023-02-20 15:30:34
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Recibe megas extra en tus Super Recargas, comprando con tu tarjeta American Express en Mi Tigo App ingresa a: https://b.tigo.com/AMEXPreHN
+
+#419
+Type	: Incoming
+Date	: 2023-02-20 11:20:25
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Ultimo dia! Recibe 15min + 4GB por 1 dia al activar tu Super Recarga de 3 dias que incluye GB internet-wpp-minTigo y mas! Comprala en tu punto de venta!
+
+#420
+Type	: Incoming
+Date	: 2023-02-19 14:08:34
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Recibe 15min + 4GB por 1 dia al activar tu Super Recarga de 3 dias que incluye GB internet-wpp-minTigo y mas! Comprala en tu punto de venta! Vence 20 Febrero
+
+#421
+Type	: Incoming
+Date	: 2023-02-18 09:46:50
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: ¿Quieres hacer tu apuesta en BETCRIS? Con Tigo Money puedes realizar tus depositos. Busca el agente mas cercano aqui: https://money.tigo.com.hn/
+
+#422
+Type	: Incoming
+Date	: 2023-02-18 09:17:17
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: 5GB GRATIS para navegar en la mejor red LTE! Cambia de tecnologia tu SIM en cualquiera de nuestras tiendas a nivel nacional SIN COSTO. Claro que si!
+
+#423
+Type	: Incoming
+Date	: 2023-02-18 00:01:50
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#424
+Type	: Incoming
+Date	: 2023-02-17 19:05:38
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Disfruta de los beneficios que solo Mi Tigo App te ofrece, realiza tus compras con tu tarjeta American Express y no te quedes deconectado! https://b.tigo.com/AMEXPreHN
+
+#425
+Type	: Incoming
+Date	: 2023-02-17 18:29:10
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Estimado cliente Tigo Money: Por tu seguridad se te recomienda realizar tu cambio de pin o contraseña cada 3 meses.
+
+#426
+Type	: Incoming
+Date	: 2023-02-17 17:16:25
+Address	: +50431947705
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50431947705 lo ha llamado 1 veces y la ultima vez fue el 17/02 a las 17:08Claro que si
+
+#427
+Type	: Incoming
+Date	: 2023-02-17 16:21:46
+Address	: 555
+Status	: NOT_RECEIVED
+Message	: Se ha realizado acreditacion en tu billetera electronica por devolucion de monto debitado durante tu ultima transaccion de deposito con tarjeta.
+
+#428
+Type	: Incoming
+Date	: 2023-02-17 16:21:38
+Address	: 555
+Status	: NOT_RECEIVED
+Message	: Transaccion exitosa. Monto: L. 5.86 Cargos: L. 0.00 Nombre Cliente: LUIS ALONSO VEGA GUTIERREZ Telefono Destino: 93385655 Ref: 66485073 Fecha: 17/02/23 16:21
+
+#429
+Type	: Incoming
+Date	: 2023-02-17 15:47:53
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Favor resolver su pago pendiente a la fecha en nuestras tiendas Lady Lee o alternativas online. Si ya realizo su pago hacer caso omiso al presente. Gracias. 25126001.
+
+#430
+Type	: Incoming
+Date	: 2023-02-17 12:21:19
+Address	: 707
+Status	: NOT_RECEIVED
+Message	: CLARO CLUB: 15% de descuento en las pizzas especiales de LA PIAZZETTA, visitanos en PlazaEntreBarca ValleDeAngeles. Envia ESPECIALES al 707. Claro que si!
+
+#431
+Type	: Incoming
+Date	: 2023-02-17 12:21:11
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Viernes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#432
+Type	: Incoming
+Date	: 2023-02-17 11:14:39
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Recibe 15min + 4GB por 1 dia al activar tu Super Recarga de 3 dias que incluye GB internet-wpp-minTigo y mas! Comprala en tu punto de venta! Vence 20 Febrero
+
+#433
+Type	: Incoming
+Date	: 2023-02-17 11:00:48
+Address	: 54138
+Status	: NOT_RECEIVED
+Message	: Tu factura fue emitida por L1531.58 a pagar 04 Mar https://facturaelectronica.claro.com.hn/personaWeb/user/authhandoff?cde=7256d650046b233c1cebbde8492459f9
+
+#434
+Type	: Incoming
+Date	: 2023-02-16 23:00:39
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Deposito exitoso. Monto L102.46 el 16-02-23 a las 11:00 PM. Trans. ID:133091278
+
+#435
+Type	: Incoming
+Date	: 2023-02-16 18:17:04
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L1,104.00 el 16-02-23 a las 06:17 PM. Trans. ID:133077307
+
+#436
+Type	: Incoming
+Date	: 2023-02-16 18:16:46
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 151455
+
+#437
+Type	: Incoming
+Date	: 2023-02-16 18:16:44
+Address	: FICOHSA
+Status	: NOT_RECEIVED
+Message	: GANA comprando con Ficohsa. Compra con tu tarjeta de debito en cualquier tienda en linea y gana Playstations, Iphones y mas. Mira http://clkimp.com/2INad
+
+#438
+Type	: Incoming
+Date	: 2023-02-16 12:11:25
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Recibe 15min + 4GB por 1 dia al activar tu Super Recarga de 3 dias que incluye GB internet-wpp-minTigo y mas! Comprala en tu punto de venta! Vence 20 Febrero
+
+#439
+Type	: Incoming
+Date	: 2023-02-16 11:41:42
+Address	: Microsoft
+Status	: NOT_RECEIVED
+Message	: Use el código 626307 para autenticar Microsoft.
+
+#440
+Type	: Incoming
+Date	: 2023-02-16 11:02:32
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#441
+Type	: Incoming
+Date	: 2023-02-15 14:59:30
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: ¡FACIL Y RAPIDO! Ahora con TIGO MONEY puedes comprar tu boleto de LA DIARIA Loto. Envia Diaria + el monto de compra + # + el numero a comprar al 555.
+
+#442
+Type	: Incoming
+Date	: 2023-02-15 14:55:20
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le agradecemos su cumplimiento de pago en nuestras tiendas Lady Lee u online. Si ya realiz? su pago hacer caso omiso al presente. Gracias. 25126001.
+
+#443
+Type	: Incoming
+Date	: 2023-02-15 14:41:01
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: El numero 87404648 ha intentado llamarte pero no tiene saldo. Hazle una recarga entrando aqui: https://fyu.la/rt/3GPQSEKAP
+
+#444
+Type	: Incoming
+Date	: 2023-02-15 11:44:13
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Su buzon esta lleno y tiene un nuevo mensaje por favor marque *80 para eliminar mensajes innecesarios. Gracias. Claro que si!
+
+#445
+Type	: Incoming
+Date	: 2023-02-15 08:49:37
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Estimado cliente tus Paquetigos de voz a Todas las Redes USA/CAN han expirado. Activalo nuevamente marcando #111# en la seccion de Llamadas y Mensajitos.
+
+#446
+Type	: Incoming
+Date	: 2023-02-14 12:10:03
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: En SAN VALENTIN no te atrases haciendo largas filas. Paga tus facturas de LUZ y AGUA en agentes TIGO MONEY. Hazlo desde la App/ Web: https://money.tigo.com.hn/
+
+#447
+Type	: Incoming
+Date	: 2023-02-14 10:26:02
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Envia con Amor, envia con Tigo Money una Super Recarga desde la APP y sorprende dando un detalle inesperado en este dia especial. Ingresa https://tmy.la/3IcMSnA
+
+#448
+Type	: Incoming
+Date	: 2023-02-13 15:39:11
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Envia con Amor, envia con Tigo Money una Super Recarga desde la APP y sorprende dando un detalle inesperado en este dia especial. Ingresa https://tmy.la/3IcMSnA
+
+#449
+Type	: Incoming
+Date	: 2023-02-13 08:11:02
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Ahora con TIGO MONEY puedes comprar tu boleto de LA DIARIA Loto. Envia Diaria + el monto de compra + # + el numero a comprar al 555. Ejem: Diaria20#26
+
+#450
+Type	: Incoming
+Date	: 2023-02-13 08:09:36
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Ultimo dia! Recibe 15min + 4GB por 1 dia al activar tu Super Recarga de 3 dias que incluye GB internet-wpp-minTigo y mas! Comprala en tu punto de venta!
+
+#451
+Type	: Incoming
+Date	: 2023-02-12 15:04:16
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Tus paquetigos para hablar a todas las redes USA y Canada vencen el 14/02/2023. Consulta el saldo de tus paquetes al #125#
+
+#452
+Type	: Incoming
+Date	: 2023-02-12 15:03:19
+Address	: INTERNET
+Status	: NOT_RECEIVED
+Message	: Acumulaste tu Paquete de 4GB por L.55. Vigencia hasta 1 dia, disfrutalo al finalizar tu paquete actual! Consulta tu estado en https://b.tigo.com/Saldomthn
+
+#453
+Type	: Incoming
+Date	: 2023-02-12 15:03:18
+Address	: 900
+Status	: NOT_RECEIVED
+Message	: Activaste tu Paquetigo de 15 min para USA/CAN y TR. Se debitaron L18 de tu saldo. Minutos vencen manana a medianoche. Revisalo GRATIS en http://shop.tigo.com.hn
+
+#454
+Type	: Incoming
+Date	: 2023-02-12 15:03:17
+Address	: TIGO SPORTS
+Status	: NOT_RECEIVED
+Message	: Has recibido con tu Super Recarga un pase Tigo Sports de 3 dias gratis, disfruta lo mejor del deporte aqui https://b.tigo.com/sports2HN
+
+#455
+Type	: Incoming
+Date	: 2023-02-12 15:03:14
+Address	: Epin
+Status	: NOT_RECEIVED
+Message	: La transaccion para la recarga promo PAQUETIGO de Lps.52 fue exitosa. Por favor verifique su saldo. ID V230212.1502.240032
+
+#456
+Type	: Incoming
+Date	: 2023-02-12 15:03:11
+Address	: 443
+Status	: NOT_RECEIVED
+Message	: Se activaron tus minutos ilimitados a Tigo de tu Super Recarga de 3 dias. Duracion de cada llamada es de 10 min, mins adicionales se debitaran de tu saldo
+
+#457
+Type	: Incoming
+Date	: 2023-02-12 15:03:09
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Super Recarga de 3 dias activada: 5GB para navegar, Wapp Chat Ilim/Mins Ilim a Tigo/L.150 de saldo para llamar TR y USA. Consulta https://b.tigo.com/Saldomthn
+
+#458
+Type	: Incoming
+Date	: 2023-02-11 12:17:47
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Recibe 15min + 4GB por 1 dia al activar tu Super Recarga de 3 dias que incluye GB internet-wpp-minTigo y mas! Comprala en tu punto de venta! Vence 13 Febrero
+
+#459
+Type	: Incoming
+Date	: 2023-02-10 09:38:07
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de Luz y AGUAS DE SAN PEDRO SULA, sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#460
+Type	: Incoming
+Date	: 2023-02-09 11:07:32
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Recibe 15min + 4GB por 1 dia al activar tu Super Recarga de 3 dias que incluye GB internet-wpp-minTigo y mas! Comprala en tu punto de venta! Vence 13 Febrero
+
+#461
+Type	: Incoming
+Date	: 2023-02-08 14:23:06
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Recibe 15min + 4GB por 1 dia al activar tu Super Recarga de 3 dias que incluye GB internet-wpp-minTigo y mas! Comprala en tu punto de venta! Vence 13 Febrero
+
+#462
+Type	: Incoming
+Date	: 2023-02-07 17:12:27
+Address	: +50487319264
+Status	: NOT_RECEIVED
+Message	: BAC Credomatic le informa que el usuario alonso0794 ha realizado un ingreso a Banca en Lnea a las 05:12 CST del 07-02-2023
+
+#463
+Type	: Incoming
+Date	: 2023-02-07 15:08:02
+Address	: +24242
+Status	: NOT_RECEIVED
+Message	: Su codigo de verificacion para Airbnb es: 6551. No comparta este codigo con nadie. Nuestros empleados nunca se lo pediran.
+
+#464
+Type	: Incoming
+Date	: 2023-02-07 14:12:29
+Address	: +14242091801
+Status	: NOT_RECEIVED
+Message	: [Airbnb] La reservación para San Pedro Sula está confirmad...
+
+#465
+Type	: Incoming
+Date	: 2023-02-06 20:44:18
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Has iniciado una nueva conversacion con SARA en WhatsApp el 06/02/2023 a las 20:44:15
+
+#466
+Type	: Incoming
+Date	: 2023-02-05 19:04:31
+Address	: INTERNET
+Status	: NOT_RECEIVED
+Message	: Tu paquete de internet ha expirado. Visita https://shop.tigo.com.hn/ para activar otro nuevamente o marca #111#. Tigo Smart!
+
+#467
+Type	: Incoming
+Date	: 2023-02-04 16:52:20
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494580250 lo ha llamado 1 veces y la ultima vez fue el 04/02 a las 16:51Claro que si
+
+#468
+Type	: Incoming
+Date	: 2023-02-04 16:22:37
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494580250 lo ha llamado 1 veces y la ultima vez fue el 04/02 a las 16:22Claro que si
+
+#469
+Type	: Incoming
+Date	: 2023-02-04 10:10:14
+Address	: 50494313680
+Status	: NOT_RECEIVED
+Message	: Bco Azteca AVISO IMPORTANTE. hoy es el ultimo dia para que pague sus cuotas vencidas evite que su cuenta pase a otra instancias de cobro https://bit.ly/3oAH6Co
+
+#470
+Type	: Incoming
+Date	: 2023-02-04 08:15:39
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de la ENEE sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#471
+Type	: Incoming
+Date	: 2023-02-03 23:04:35
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 573464
+
+#472
+Type	: Incoming
+Date	: 2023-02-03 23:04:04
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 180484
+
+#473
+Type	: Incoming
+Date	: 2023-02-02 19:04:37
+Address	: TIGO SPORTS
+Status	: NOT_RECEIVED
+Message	: Has recibido con tu Super Recarga un pase Tigo Sports de 3 dias gratis, disfruta lo mejor del deporte aqui https://b.tigo.com/sports2HN
+
+#474
+Type	: Incoming
+Date	: 2023-02-02 19:04:32
+Address	: 443
+Status	: NOT_RECEIVED
+Message	: Se activaron tus minutos ilimitados a Tigo de tu Super Recarga de 3 dias. Duracion de cada llamada es de 10 min, mins adicionales se debitaran de tu saldo
+
+#475
+Type	: Incoming
+Date	: 2023-02-02 19:04:23
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Super Recarga de 3 dias activada: 5GB para navegar, Wapp Chat Ilim/Mins Ilim a Tigo/L.150 de saldo para llamar TR y USA. Consulta https://b.tigo.com/Saldomthn
+
+#476
+Type	: Incoming
+Date	: 2023-02-01 18:52:06
+Address	: +50432604569
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50432604569 lo ha llamado 1 veces y la ultima vez fue el 01/02 a las 18:41Claro que si
+
+#477
+Type	: Incoming
+Date	: 2023-01-31 16:19:50
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le recuerda su fecha de pago de cuota se encuentra proximo a vencer. Le agracemos su cumplimiento en nuestras tiendas Lady Lee u online. 25126001.
+
+#478
+Type	: Incoming
+Date	: 2023-01-30 15:40:04
+Address	: 50494639962
+Status	: NOT_RECEIVED
+Message	: Metronet: le informa, se realizara un mantenimiento para mejorar su servicio el 31/01/2023 afectando su enlace 12:00am hasta 01:00am, agradecemos su comprension
+
+#479
+Type	: Incoming
+Date	: 2023-01-30 14:23:05
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de la ENEE sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#480
+Type	: Incoming
+Date	: 2023-01-30 11:12:16
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le recuerda que su fecha de pago de cuota se aproxima. Favor realizar su pago en nuestras tiendas Lady Lee u online. 25126001.
+
+#481
+Type	: Incoming
+Date	: 2023-01-30 08:43:11
+Address	: BACCREDOMAT
+Status	: NOT_RECEIVED
+Message	: Tu tarjeta XX0327 esta proxima a pasar a mora de 30 dias, recuerda realizar tu pago el dia de hoy. Canales disponibles: https://baccredomatic.info/fw
+
+#482
+Type	: Incoming
+Date	: 2023-01-29 08:14:30
+Address	: Claro
+Status	: NOT_RECEIVED
+Message	: Internet Claro. Has consumido mas del 100% de tu paquete de navegacion. Estas navegando por KB a una tarifa de Lps0.0040028.
+
+#483
+Type	: Incoming
+Date	: 2023-01-28 08:48:18
+Address	: BACCREDOMAT
+Status	: NOT_RECEIVED
+Message	: Recuerda que la fecha maxima de pago de tu tarjeta XX0327 fue el 2023-01-24, realiza tu pago para seguir disfrutando los beneficios que tu tarjeta te ofrece.
+
+#484
+Type	: Incoming
+Date	: 2023-01-27 13:53:30
+Address	: +50487404648
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50487404648 lo ha llamado 1 veces y la ultima vez fue el 13/01 a las 17:01Claro que si
+
+#485
+Type	: Incoming
+Date	: 2023-01-26 18:01:56
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu cupon TENGO de retiro es: 152703155004.
+
+#486
+Type	: Incoming
+Date	: 2023-01-26 18:01:45
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 562840
+
+#487
+Type	: Incoming
+Date	: 2023-01-26 18:01:27
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L300.00 el 26-01-23 a las 06:01 PM. Trans. ID:131329714
+
+#488
+Type	: Incoming
+Date	: 2023-01-26 18:01:07
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 960301
+
+#489
+Type	: Incoming
+Date	: 2023-01-26 14:51:37
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Ud. ha ingresado una clave equivocada. Ud. no puede acceder a esta funcion.131310554
+
+#490
+Type	: Incoming
+Date	: 2023-01-26 13:06:13
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Tu codigo de activacion es: 436225
+
+#491
+Type	: Incoming
+Date	: 2023-01-26 08:28:18
+Address	: BACCREDOMAT
+Status	: NOT_RECEIVED
+Message	: Recuerda que la fecha max de pago de tu tarjeta XX0327 fue el 2023-01-24. Utiliza nuestro asistente virtual para hacer tu promesa de pago https://bit.ly/2Gc8DqA
+
+#492
+Type	: Incoming
+Date	: 2023-01-25 21:55:41
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 897164
+
+#493
+Type	: Incoming
+Date	: 2023-01-25 21:54:30
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L3,093.00 el 25-01-23 a las 09:54 PM. Trans. ID:131272918
+
+#494
+Type	: Incoming
+Date	: 2023-01-25 21:54:10
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 578861
+
+#495
+Type	: Incoming
+Date	: 2023-01-25 19:55:55
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 132323
+
+#496
+Type	: Incoming
+Date	: 2023-01-24 13:15:47
+Address	: BACHONDURAS
+Status	: NOT_RECEIVED
+Message	: Regresa a clases con un 10% de Cash BAC Credomatic al suscribir las mensualidades escolares con tarj. de credito EconoMia. Info: https://baccredomatic.info/3d2
+
+#497
+Type	: Incoming
+Date	: 2023-01-24 08:20:02
+Address	: Microsoft
+Status	: NOT_RECEIVED
+Message	: Use el código 760217 para autenticar Microsoft.
+
+#498
+Type	: Incoming
+Date	: 2023-01-23 11:20:56
+Address	: BACCREDOMAT
+Status	: NOT_RECEIVED
+Message	: Este es un mensaje de servicio para recordarte que la fecha max. de pago de tu tarjeta XX0327 es el 2023-01-24. Canales de pago: https://baccredomatic.info/4b
+
+#499
+Type	: Incoming
+Date	: 2023-01-23 08:14:05
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de la ENEE sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#500
+Type	: Incoming
+Date	: 2023-01-23 07:39:00
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L700.00 el 23-01-23 a las 07:38 AM. Trans. ID:131061588
+
+#501
+Type	: Incoming
+Date	: 2023-01-23 07:38:40
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 645634
+
+#502
+Type	: Incoming
+Date	: 2023-01-23 07:37:59
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Ud. ha ingresado una clave equivocada. Ud. no puede acceder a esta funcion.131061564
+
+#503
+Type	: Incoming
+Date	: 2023-01-23 07:37:39
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Ud. ha ingresado una clave equivocada. Ud. no puede acceder a esta funcion.131061545
+
+#504
+Type	: Incoming
+Date	: 2023-01-22 15:39:55
+Address	: +50497893689
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50497893689 lo ha llamado 2 veces y la ultima vez fue el 22/01 a las 15:38 Claro que si
+
+#505
+Type	: Incoming
+Date	: 2023-01-22 10:02:26
+Address	: 50494313680
+Status	: NOT_RECEIVED
+Message	: Bco Azteca AVISO IMPORTANTE. hoy es el ultimo dia para que pague sus cuotas vencidas evite que su cuenta pase a otra instancias de cobro https://tigohn-s.reach.tools/t/cITl
+
+#506
+Type	: Incoming
+Date	: 2023-01-21 13:29:15
+Address	: 9610
+Status	: NOT_RECEIVED
+Message	: <#> Codigo de WhatsApp: 125-526 O sigue este enlace para verificar tu numero: v.whatsapp.com/125526 No compartas este codigo con nadie. 4sgLq1p5sV6
+
+#507
+Type	: Incoming
+Date	: 2023-01-21 10:18:08
+Address	: 50494313680
+Status	: NOT_RECEIVED
+Message	: Bco Azteca AVISO IMPORTANTE. hoy es el ultimo dia para que pague sus cuotas vencidas evite que su cuenta pase a otra instancias de cobro https://tigohn-s.reach.tools/t/1LS9
+
+#508
+Type	: Incoming
+Date	: 2023-01-20 10:14:27
+Address	: 2200
+Status	: NOT_RECEIVED
+Message	: Feliz Viernes! Los numeros que terminan en 91 han ganado una recarga SEXTUPLE! Envia CHICA al 2200 y reclamala en los proximos 5 minutos. SMS L9.21
+
+#509
+Type	: Incoming
+Date	: 2023-01-20 08:12:27
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: ¡FACIL Y RAPIDO! Ahora con TIGO MONEY puedes comprar tu boleto de La Diaria Loto. Envia Diaria + el monto de compra + # + el numero a comprar al 555.
+
+#510
+Type	: Incoming
+Date	: 2023-01-19 21:20:24
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Tu codigo de activacion es: 136708
+
+#511
+Type	: Incoming
+Date	: 2023-01-19 16:19:06
+Address	: +14242091801
+Status	: NOT_RECEIVED
+Message	: [Airbnb] La reservación para San Pedro Sula está confirmad...
+
+#512
+Type	: Incoming
+Date	: 2023-01-17 14:36:26
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 182693
+
+#513
+Type	: Incoming
+Date	: 2023-01-17 14:35:50
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L1,300.00 el 17-01-23 a las 02:35 PM. Trans. ID:130667787
+
+#514
+Type	: Incoming
+Date	: 2023-01-17 14:35:31
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 399300
+
+#515
+Type	: Incoming
+Date	: 2023-01-16 09:53:34
+Address	: +50487319264
+Status	: NOT_RECEIVED
+Message	: BAC Credomatic le informa que el usuario alonso0794 ha realizado un ingreso a Banca en Lnea a las 09:53 CST del 16-01-2023
+
+#516
+Type	: Incoming
+Date	: 2023-01-16 09:16:58
+Address	: 54138
+Status	: NOT_RECEIVED
+Message	: Tu factura fue emitida por L767.16 a pagar 04 Feb https://facturaelectronica.claro.com.hn/personaWeb/user/authhandoff?cde=7256d650046b233c1cebbde8492459f9
+
+#517
+Type	: Incoming
+Date	: 2023-01-16 08:52:26
+Address	: +50433756369
+Status	: NOT_RECEIVED
+Message	: Hugo code: 467153
+
+#518
+Type	: Incoming
+Date	: 2023-01-16 08:16:30
+Address	: Tigomoney
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de la ENEE sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#519
+Type	: Incoming
+Date	: 2023-01-16 07:41:34
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu cupon TENGO de retiro es: 321250810307.
+
+#520
+Type	: Incoming
+Date	: 2023-01-16 07:41:23
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 870101
+
+#521
+Type	: Incoming
+Date	: 2023-01-16 07:39:52
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L100.00 el 16-01-23 a las 07:39 AM. Trans. ID:130526434
+
+#522
+Type	: Incoming
+Date	: 2023-01-16 07:39:36
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 981635
+
+#523
+Type	: Incoming
+Date	: 2023-01-16 07:03:42
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494580250 lo ha llamado 1 veces y la ultima vez fue el 16/01 a las 07:03Claro que si
+
+#524
+Type	: Incoming
+Date	: 2023-01-15 12:19:20
+Address	: +50495737161
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50495737161 lo ha llamado 1 veces y la ultima vez fue el 15/01 a las 12:19Claro que si
+
+#525
+Type	: Incoming
+Date	: 2023-01-15 11:59:13
+Address	: +50433814667
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50433814667 lo ha llamado 1 veces y la ultima vez fue el 15/01 a las 11:59Claro que si
+
+#526
+Type	: Incoming
+Date	: 2023-01-15 11:51:46
+Address	: +50433814667
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50433814667 lo ha llamado 2 veces y la ultima vez fue el 15/01 a las 11:50 Claro que si
+
+#527
+Type	: Incoming
+Date	: 2023-01-15 11:20:22
+Address	: +50433814667
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50433814667 lo ha llamado 1 veces y la ultima vez fue el 15/01 a las 11:20Claro que si
+
+#528
+Type	: Incoming
+Date	: 2023-01-15 10:52:03
+Address	: +50489942436
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50489942436 lo ha llamado 1 veces y la ultima vez fue el 15/01 a las 10:49Claro que si
+
+#529
+Type	: Incoming
+Date	: 2023-01-15 09:13:53
+Address	: +50489942436
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50489942436 lo ha llamado 1 veces y la ultima vez fue el 15/01 a las 09:12Claro que si
+
+#530
+Type	: Incoming
+Date	: 2023-01-14 20:58:53
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 479601
+
+#531
+Type	: Incoming
+Date	: 2023-01-12 18:46:33
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Tu codigo de activacion es: 618906
+
+#532
+Type	: Incoming
+Date	: 2023-01-12 15:10:18
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Tigo Money: Para brindar mayor seguridad, te recordamos que debes presentar obligatoriamente tu DNI al realizar tus transacciones en Agentes Tigo Money
+
+#533
+Type	: Incoming
+Date	: 2023-01-12 10:43:06
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: 5GB GRATIS para navegar en la mejor red LTE! Cambia de tecnologia tu SIM en cualquiera de nuestras tiendas a nivel nacional SIN COSTO. Claro que si!
+
+#534
+Type	: Incoming
+Date	: 2023-01-11 19:07:38
+Address	: INTERNET
+Status	: NOT_RECEIVED
+Message	: Tu Paquete de internet ha expirado. Utiliza GRATIS Mi Tigo App https://b.tigo.com/Internethn para comprar otro paquetigo!
+
+#535
+Type	: Incoming
+Date	: 2023-01-11 15:50:42
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: LADY LEE: Estimado(a) LUIS, tienes una linea de credito aprobada de L11200.24, aprovecha LA GRAN LIQUIDACION DE INICIO DE ANIO, mas info: bit.ly/3CG41TE
+
+#536
+Type	: Incoming
+Date	: 2023-01-10 19:07:40
+Address	: INTERNET
+Status	: NOT_RECEIVED
+Message	: Activaste tu paquete de 4 GB por L.55. Vigencia hasta 1 dia . Revisa GRATIS tu consumo en Mi Tigo App https://b.tigo.com/Saldomthn
+
+#537
+Type	: Incoming
+Date	: 2023-01-09 15:52:16
+Address	: INTERNET
+Status	: NOT_RECEIVED
+Message	: Tu paquete de internet ha expirado. Visita https://shop.tigo.com.hn/ para activar otro nuevamente o marca #111#. Tigo Smart!
+
+#538
+Type	: Incoming
+Date	: 2023-01-09 11:14:52
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le recuerda que su cuenta aun refleja saldo pendiente de pago. Favor resolverlo hoy en nuestras tiendas Lady Lee u online. 25126001.
+
+#539
+Type	: Incoming
+Date	: 2023-01-07 09:30:27
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de la ENEE sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#540
+Type	: Incoming
+Date	: 2023-01-06 15:56:08
+Address	: Epin
+Status	: NOT_RECEIVED
+Message	: La transaccion para la recarga PAQUETIGO de Lps.52 fue exitosa. Por favor verifique su saldo. ID V230106.1552.250017 Sonrie, tienes Tigo!
+
+#541
+Type	: Incoming
+Date	: 2023-01-06 15:56:06
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Super Recarga de 3 dias activada: 5GB para navegar, Wapp Chat Ilim/Mins Ilim a Tigo/L.150 de saldo para llamar TR y USA. Consulta https://b.tigo.com/Saldomthn
+
+#542
+Type	: Incoming
+Date	: 2023-01-06 15:52:49
+Address	: +50496073520
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50496073520 lo ha llamado 1 veces y la ultima vez fue el 06/01 a las 15:48Claro que si
+
+#543
+Type	: Incoming
+Date	: 2023-01-06 15:16:45
+Address	: +14242091801
+Status	: NOT_RECEIVED
+Message	: [Airbnb] La reservación para San Pedro Sula está confirmad...
+
+#544
+Type	: Incoming
+Date	: 2023-01-06 15:12:43
+Address	: PAYPAL
+Status	: NOT_RECEIVED
+Message	: PayPal: 589338 es su código de seguridad. No comparta su código.
+
+#545
+Type	: Incoming
+Date	: 2023-01-06 13:50:22
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Has iniciado una nueva conversacion con SARA en WhatsApp el 06/01/2023 a las 13:50:18
+
+#546
+Type	: Incoming
+Date	: 2023-01-05 22:06:45
+Address	: Microsoft
+Status	: NOT_RECEIVED
+Message	: Use el código 955478 para autenticar Microsoft.
+
+#547
+Type	: Incoming
+Date	: 2023-01-05 15:13:42
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Tigo Money: Te recordamos que para presentar reclamos, puedes hacerlo a traves de nuestro Whatsapp (+504 9438-5253) o marcando al *555 SEND
+
+#548
+Type	: Incoming
+Date	: 2023-01-04 18:06:38
+Address	: +50495552829
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50495552829 lo ha llamado 3 veces y la ultima vez fue el 04/01 a las 18:04 Claro que si
+
+#549
+Type	: Incoming
+Date	: 2023-01-04 14:30:05
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de la ENEE sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#550
+Type	: Incoming
+Date	: 2023-01-04 10:31:02
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le recuerda su fecha de pago de cuota se aproxima. Le agradecemos su cumplimiento en nuestras tiendas Lady Lee u online. 25126001.
+
+#551
+Type	: Incoming
+Date	: 2023-01-03 20:42:02
+Address	: +50433756369
+Status	: NOT_RECEIVED
+Message	: Hugo code: 885257
+
+#552
+Type	: Incoming
+Date	: 2023-01-03 19:11:36
+Address	: +50489942436
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50489942436 lo ha llamado 1 veces y la ultima vez fue el 03/01 a las 19:01Claro que si
+
+#553
+Type	: Incoming
+Date	: 2023-01-03 11:20:01
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le recuerda su fecha de pago de cuota esta proxima a vencer. Agradecemos su cumplimiento en nuestras tiendas Lady Lee u online. 25126001.
+
+#554
+Type	: Incoming
+Date	: 2023-01-02 11:38:55
+Address	: Claro
+Status	: NOT_RECEIVED
+Message	: Internet Claro. Has consumido mas del 100% de tu paquete de navegacion. Estas navegando por KB a una tarifa de Lps0.0040028.
+
+#555
+Type	: Incoming
+Date	: 2023-01-02 11:29:09
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Utiliza los ATMs, Interbanca y SARA para adquirir tus SuperPacks?y Recargas en Banco Ficohsa
+
+#556
+Type	: Incoming
+Date	: 2022-12-31 09:02:16
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le recuerda que su fecha de pago de cuota esta proxima a vencer. Le agradecemos su cumplimiento en nuestras tiendas Lady Lee u online. 25126001.
+
+#557
+Type	: Incoming
+Date	: 2022-12-30 14:04:39
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: ¡Feliz año nuevo! Que este año nuevo sea el inicio de otra increible aventura juntos. Te desea Tigo Money
+
+#558
+Type	: Incoming
+Date	: 2022-12-29 23:00:13
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Transferencia exitosa. monto L:50.00 el 12/29/22 23:00:11. Trans. ID 129274035
+
+#559
+Type	: Incoming
+Date	: 2022-12-29 16:21:37
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: LADY LEE: Estimado(a) LUIS, tienes una linea de credito aprobada L10119.54, aprovecha LA GRAN LIQUIDACION DE FIN DE ANIO, mas info: http://bit.ly/3jDPnoW
+
+#560
+Type	: Incoming
+Date	: 2022-12-29 10:44:26
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le recuerda que su fecha de pago de cuota se aproxima. Le agradecemos realice su cumplimiento en nuestras tiendas Lady Lee u online. 25126001.
+
+#561
+Type	: Incoming
+Date	: 2022-12-28 12:37:21
+Address	: +50433801135
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50433801135 lo ha llamado 1 veces y la ultima vez fue el 28/12 a las 09:03Claro que si
+
+#562
+Type	: Incoming
+Date	: 2022-12-28 08:31:57
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Tigo Money: En cumplimiento regulatorio y para brindar mayor seguridad, debes presentar obligatoriamente tu DNI al realizar tus transacciones en Agentes Tigo Money
+
+#563
+Type	: Incoming
+Date	: 2022-12-27 00:48:10
+Address	: +50431843074
+Status	: NOT_RECEIVED
+Message	: Usa: 762855 como tu codigo de seguridad de Leal.
+
+#564
+Type	: Incoming
+Date	: 2022-12-26 17:12:03
+Address	: +50496394406
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50496394406 lo ha llamado 1 veces y la ultima vez fue el 26/12 a las 17:05Claro que si
+
+#565
+Type	: Incoming
+Date	: 2022-12-26 10:33:37
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Utiliza los ATMs, Interbanca y SARA para adquirir tus SuperPacks?y Recargas en Banco Ficohsa
+
+#566
+Type	: Incoming
+Date	: 2022-12-23 11:47:45
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 410245
+
+#567
+Type	: Incoming
+Date	: 2022-12-23 10:17:34
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L1,800.00 el 23-12-22 a las 10:17 AM. Trans. ID:128800674
+
+#568
+Type	: Incoming
+Date	: 2022-12-23 10:17:16
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 419651
+
+#569
+Type	: Incoming
+Date	: 2022-12-23 09:21:10
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: ¡Felices fiestas, esperamos que tus celebraciones sean extraordinarias! Gracias por confiar en nosotros otro año mas ¡Feliz Navidad! Te desea Tigo Money
+
+#570
+Type	: Incoming
+Date	: 2022-12-22 20:45:31
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L250.00 el 22-12-22 a las 08:45 PM. Trans. ID:128777600
+
+#571
+Type	: Incoming
+Date	: 2022-12-22 20:45:06
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 989716
+
+#572
+Type	: Incoming
+Date	: 2022-12-22 20:44:51
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 682298
+
+#573
+Type	: Incoming
+Date	: 2022-12-22 20:44:44
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 199471
+
+#574
+Type	: Incoming
+Date	: 2022-12-22 20:44:35
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 783917
+
+#575
+Type	: Incoming
+Date	: 2022-12-22 20:44:27
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 786971
+
+#576
+Type	: Incoming
+Date	: 2022-12-22 20:42:52
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 507416
+
+#577
+Type	: Incoming
+Date	: 2022-12-22 17:06:46
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 451503
+
+#578
+Type	: Incoming
+Date	: 2022-12-22 12:47:45
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Ud. ha ingresado una clave equivocada. Ud. no puede acceder a esta funcion.128724980
+
+#579
+Type	: Incoming
+Date	: 2022-12-22 10:11:53
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: LADY LEE: Estimado(a) LUIS, tiene una linea de credito L10119.54 aprovecha EL GRAN REBAJON DE NAVIDAD, ver mas: bit.ly/3WgnRMT
+
+#580
+Type	: Incoming
+Date	: 2022-12-21 10:29:50
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 403399
+
+#581
+Type	: Incoming
+Date	: 2022-12-21 10:26:19
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Has recibido 100.00 enviados por 87404648 el 2022-12-21 a las 10:26:13 Trans. ID: 23059391 Conoce el Universo GO en https://www.tengo.hn/
+
+#582
+Type	: Incoming
+Date	: 2022-12-20 23:37:10
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L5,000.00 el 20-12-22 a las 11:37 PM. Trans. ID:128595377
+
+#583
+Type	: Incoming
+Date	: 2022-12-20 23:36:49
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 818632
+
+#584
+Type	: Incoming
+Date	: 2022-12-20 17:44:15
+Address	: MiClaro
+Status	: NOT_RECEIVED
+Message	: Su codigo: 132044, tiene fecha de expiracion el 20/12/2022 a las 17:59
+
+#585
+Type	: Incoming
+Date	: 2022-12-20 13:43:34
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de la ENEE sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#586
+Type	: Incoming
+Date	: 2022-12-20 13:33:10
+Address	: MiClaro
+Status	: NOT_RECEIVED
+Message	: Su codigo: 092033, tiene fecha de expiracion el 20/12/2022 a las 13:48
+
+#587
+Type	: Incoming
+Date	: 2022-12-20 13:32:51
+Address	: MiClaro
+Status	: NOT_RECEIVED
+Message	: Su codigo: 502032, tiene fecha de expiracion el 20/12/2022 a las 13:47
+
+#588
+Type	: Incoming
+Date	: 2022-12-20 13:30:18
+Address	: MiClaro
+Status	: NOT_RECEIVED
+Message	: Su codigo: 172030, tiene fecha de expiracion el 20/12/2022 a las 13:45
+
+#589
+Type	: Incoming
+Date	: 2022-12-20 11:47:32
+Address	: MiClaro
+Status	: NOT_RECEIVED
+Message	: Su codigo: 312047, tiene fecha de expiracion el 20/12/2022 a las 12:02
+
+#590
+Type	: Incoming
+Date	: 2022-12-19 10:36:23
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Utiliza los ATMs, Interbanca y SARA para adquirir tus SuperPacks?y Recargas en Banco Ficohsa
+
+#591
+Type	: Incoming
+Date	: 2022-12-17 11:58:32
+Address	: 54138
+Status	: NOT_RECEIVED
+Message	: Tu factura fue emitida por L1535.57 a pagar 04 Jan https://facturaelectronica.claro.com.hn/personaWeb/user/authhandoff?cde=7256d650046b233c1cebbde8492459f9
+
+#592
+Type	: Incoming
+Date	: 2022-12-16 18:43:12
+Address	: +50432962481
+Status	: NOT_RECEIVED
+Message	: Disfruta compras de Navidad con Valet Parking gratis en Multiplaza con tarj. Black y hasta 50% desc. con demas tarj. BAC. Info: https://baccredomatic.info/5gb
+
+#593
+Type	: Incoming
+Date	: 2022-12-15 11:53:23
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Tu promocion de llamadas GRATIS ha finalizado, contrata uno de nuestros paquetes para activar la promocion nuevamente
+
+#594
+Type	: Incoming
+Date	: 2022-12-14 11:38:59
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: Credilee: Le recuerda que su credito refleja saldo pendiente de pago. Favor realizar hoy su cumplimiento en nuestras tiendas Lady Lee u online. 25126001.
+
+#595
+Type	: Incoming
+Date	: 2022-12-14 08:51:42
+Address	: Microsoft
+Status	: NOT_RECEIVED
+Message	: Use el código 964893 para autenticar Microsoft.
+
+#596
+Type	: Incoming
+Date	: 2022-12-14 07:58:39
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L2,000.00 el 14-12-22 a las 07:58 AM. Trans. ID:127878083
+
+#597
+Type	: Incoming
+Date	: 2022-12-14 07:58:23
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 430103
+
+#598
+Type	: Incoming
+Date	: 2022-12-12 13:05:22
+Address	: INTERNET
+Status	: SUCCESS
+Message	: Tu paquete de internet ha expirado. Visita https://shop.tigo.com.hn/ para activar otro nuevamente o marca #111#. Tigo Smart!
+
+#599
+Type	: Incoming
+Date	: 2022-12-09 13:05:23
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Super Recarga de 3 dias activada: 5GB para navegar, Wapp Chat Ilim/Mins Ilim a Tigo/L.150 de saldo para llamar TR y USA. Consulta https://b.tigo.com/Saldomthn
+
+#600
+Type	: Incoming
+Date	: 2022-12-09 10:04:46
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money tu decides como usar tu dinero. Para hacer pagos y recargas desde tu billetera o simplemente retirarlo en un punto Tigo Money bit.ly/3UG5HDq
+
+#601
+Type	: Incoming
+Date	: 2022-12-07 10:00:46
+Address	: Tigo
+Status	: NOT_RECEIVED
+Message	: Recibe dinero en tu billetera Tigo Money, donde estes, y podras usarlo para tus pagos o retirarlo en tu punto Tigo Money mas cercano bit.ly/3Ai3UMF
+
+#602
+Type	: Incoming
+Date	: 2022-12-05 10:08:59
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Utiliza los ATMs, Interbanca y SARA para adquirir tus SuperPacks?y Recargas en Banco Ficohsa
+
+#603
+Type	: Incoming
+Date	: 2022-12-04 11:15:07
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Se ha acreditado el monto de Reembolso Mi Pisto+ por HNL. 200.00 en tu cuenta de ahorros. Consulta tu saldo actualizado en WhatsApp https://wa.me/50431753426
+
+#604
+Type	: Incoming
+Date	: 2022-12-03 12:30:19
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 133948
+
+#605
+Type	: Incoming
+Date	: 2022-12-02 17:46:08
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 514834
+
+#606
+Type	: Incoming
+Date	: 2022-12-02 17:46:06
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 700687
+
+#607
+Type	: Incoming
+Date	: 2022-12-02 16:39:41
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: LADY LEE: LUIS, tienes una linea de L9044.38 disponible. Ultimos 3 dias de la Super Semana Negra. Ofertas aqui: http://bit.ly/3UrvYo6
+
+#608
+Type	: Incoming
+Date	: 2022-12-02 11:05:12
+Address	: 50494313680
+Status	: NOT_RECEIVED
+Message	: Bco Azteca AVISO IMPORTANTE. hoy es el ultimo dia para que pague sus cuotas vencidas evite que su cuenta pase a otra instancias de cobro https://bit.ly/3oAH6Co
+
+#609
+Type	: Incoming
+Date	: 2022-11-30 17:17:41
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de la ENEE sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#610
+Type	: Incoming
+Date	: 2022-11-29 20:18:54
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L3,308.00 el 29-11-22 a las 08:18 PM. Trans. ID:126597971
+
+#611
+Type	: Incoming
+Date	: 2022-11-29 20:18:32
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 757637
+
+#612
+Type	: Incoming
+Date	: 2022-11-29 20:16:14
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Has iniciado una nueva conversacion con SARA en WhatsApp el 29/11/2022 a las 20:16:10
+
+#613
+Type	: Incoming
+Date	: 2022-11-28 18:24:35
+Address	: +50494464723
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494464723 lo ha llamado 1 veces y la ultima vez fue el 28/11 a las 18:21Claro que si
+
+#614
+Type	: Incoming
+Date	: 2022-11-28 11:52:05
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Utiliza los ATMs, Interbanca y SARA para adquirir tus SuperPacks?y Recargas en Banco Ficohsa
+
+#615
+Type	: Incoming
+Date	: 2022-11-27 06:00:05
+Address	: Claro
+Status	: NOT_RECEIVED
+Message	: Internet Claro. El paquete de 35GB Centroamerica se ha activado correctamente. Vence el 28/12/2022 06:01. Claro que si
+
+#616
+Type	: Incoming
+Date	: 2022-11-26 10:01:16
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L1,500.00 el 26-11-22 a las 10:01 AM. Trans. ID:126334370
+
+#617
+Type	: Incoming
+Date	: 2022-11-26 10:00:57
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 725816
+
+#618
+Type	: Incoming
+Date	: 2022-11-26 09:14:07
+Address	: 50494313660
+Status	: NOT_RECEIVED
+Message	: Davivienda: Casa nueva, vida nueva. Este es el fin de semana que esperaba. Visitenos este 26 y 27 de noviembre en Residencial Villa Rosario de 10am a 5pm.
+
+#619
+Type	: Incoming
+Date	: 2022-11-26 08:04:34
+Address	: Microsoft
+Status	: NOT_RECEIVED
+Message	: Use el código 705165 para autenticar Microsoft.
+
+#620
+Type	: Incoming
+Date	: 2022-11-25 17:01:03
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: LADY LEE: Estimado(a) LUIS, ULTIMOS 3 DIAS del 60% de desct de la Super Semana Negra, tienes linea de credito L.9044.38, ver mas: bit.ly/3gxZz1p
+
+#621
+Type	: Incoming
+Date	: 2022-11-25 09:48:29
+Address	: +50487319264
+Status	: NOT_RECEIVED
+Message	: BAC Credomatic le informa que el usuario alonso0794 ha realizado un ingreso a Banca en Lnea a las 09:48 CST del 25-11-2022
+
+#622
+Type	: Incoming
+Date	: 2022-11-25 08:30:24
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 101336
+
+#623
+Type	: Incoming
+Date	: 2022-11-25 08:29:47
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L1,000.00 el 25-11-22 a las 08:29 AM. Trans. ID:126249850
+
+#624
+Type	: Incoming
+Date	: 2022-11-25 08:29:27
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 977397
+
+#625
+Type	: Incoming
+Date	: 2022-11-24 07:41:24
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Ud. ha ingresado una clave equivocada. Ud. no puede acceder a esta funcion.126146682
+
+#626
+Type	: Incoming
+Date	: 2022-11-23 13:29:17
+Address	: +50494638457
+Status	: NOT_RECEIVED
+Message	: Truecaller code 260716 J5TlaWNH4vn
+
+#627
+Type	: Incoming
+Date	: 2022-11-23 13:18:42
+Address	: 40393385655
+Status	: NOT_RECEIVED
+Message	: El numero 93385655 te ha enviado un mensaje por cobrar, Responde este mensaje para leerlo, costo msj $0.09 + ISV.
+
+#628
+Type	: Outgoing
+Date	: 2022-11-23 13:18:37
+Address	: +50493385655
+Status	: NOT_RECEIVED
+Message	: Hi
+
+#629
+Type	: Incoming
+Date	: 2022-11-21 09:08:36
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de la ENEE sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#630
+Type	: Incoming
+Date	: 2022-11-21 06:08:14
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494580250 lo ha llamado 1 veces y la ultima vez fue el 21/11 a las 06:06Claro que si
+
+#631
+Type	: Incoming
+Date	: 2022-11-19 10:31:57
+Address	: 54138
+Status	: NOT_RECEIVED
+Message	: Tu factura fue emitida por L769.74 a pagar 06 Dec https://facturaelectronica.claro.com.hn/personaWeb/user/authhandoff?cde=c5ee8d76e10c61c9755b2162611846dd
+
+#632
+Type	: Incoming
+Date	: 2022-11-17 18:27:17
+Address	: 50494853408
+Status	: NOT_RECEIVED
+Message	: LADY LEE: Estimado(a) LUIS, repetimos LA SUPER SEMANA NEGRA hasta 60% de desct. Tienes una linea de credito L9044.38, ver mas: https://bit.ly/3gdYqvx
+
+#633
+Type	: Incoming
+Date	: 2022-11-16 14:53:10
+Address	: +14242091801
+Status	: NOT_RECEIVED
+Message	: Tu solicitud de reservación en Airbnb para las fechas 17 n...
+
+#634
+Type	: Incoming
+Date	: 2022-11-16 12:30:48
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Tu promocion de llamadas GRATIS ha finalizado, contrata uno de nuestros paquetes para activar la promocion nuevamente
+
+#635
+Type	: Incoming
+Date	: 2022-11-15 09:25:36
+Address	: TIGO
+Status	: NOT_RECEIVED
+Message	: Ven A CELULARES H Y C, En La Lima,Frente al Parque ,Compra tu BMOBILE BL52 Dual Sim con una super recarga de 7dias gratis
+
+#636
+Type	: Incoming
+Date	: 2022-11-15 08:14:03
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de la ENEE sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#637
+Type	: Incoming
+Date	: 2022-11-15 06:07:31
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494580250 lo ha llamado 1 veces y la ultima vez fue el 15/11 a las 05:59Claro que si
+
+#638
+Type	: Incoming
+Date	: 2022-11-14 18:53:01
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Ud. ha ingresado una clave equivocada. Ud. no puede acceder a esta funcion.125219863
+
+#639
+Type	: Incoming
+Date	: 2022-11-14 10:22:29
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Utiliza los ATMs, Interbanca y SARA para adquirir tus SuperPacks?y Recargas en Banco Ficohsa
+
+#640
+Type	: Incoming
+Date	: 2022-11-14 08:05:55
+Address	: +50487319264
+Status	: NOT_RECEIVED
+Message	: BAC Credomatic le informa que el usuario alonso0794 ha realizado un ingreso a Banca en Lnea a las 08:05 CST del 14-11-2022
+
+#641
+Type	: Incoming
+Date	: 2022-11-13 12:28:00
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Internet Claro. Tu paquete 6GB+Min+ILIMSMS+WS+FB+TW+IG de 3 dias ha sido activado con exito.
+
+#642
+Type	: Incoming
+Date	: 2022-11-13 12:27:58
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Se te ha acreditado 30 Minutos a OTRAS REDES con vigencia de 3 dias.
+
+#643
+Type	: Incoming
+Date	: 2022-11-12 20:31:38
+Address	: Claro
+Status	: NOT_RECEIVED
+Message	: Internet Claro. Has consumido el 100% de tu paquete de navegacion adicional. Entra a http://paquetes.miclaro.com.hn para ver nuestras opciones y continuar navegando.
+
+#644
+Type	: Incoming
+Date	: 2022-11-12 10:02:45
+Address	: 50494313660
+Status	: NOT_RECEIVED
+Message	: Davivienda: Casa nueva, vida nueva. Este es el fin de semana que esperaba. Visitenos este 12 y 13 de noviembre en Residencial Costa Del Este de 10am a 5pm.
+
+#645
+Type	: Incoming
+Date	: 2022-11-11 18:24:26
+Address	: Claro
+Status	: NOT_RECEIVED
+Message	: Internet Claro. Has consumido mas del 80% de tu paquete de navegacion adicional de 35 GB. Te informaremos cuando llegues al 100%.
+
+#646
+Type	: Incoming
+Date	: 2022-11-11 17:46:20
+Address	: 50494313660
+Status	: NOT_RECEIVED
+Message	: Davivienda: Casa nueva, vida nueva. Este es el fin de semana que esperaba. Visitenos este 12 y 13 de noviembre en Residencial Costa Del Este de 10am a 5pm.
+
+#647
+Type	: Incoming
+Date	: 2022-11-11 15:54:01
+Address	: Microsoft
+Status	: NOT_RECEIVED
+Message	: Use el código 598396 para autenticar Microsoft.
+
+#648
+Type	: Incoming
+Date	: 2022-11-11 13:55:27
+Address	: Ficohsa
+Status	: NOT_RECEIVED
+Message	: Has iniciado una nueva conversacion con SARA en WhatsApp el 11/11/2022 a las 13:55:24
+
+#649
+Type	: Incoming
+Date	: 2022-11-11 13:31:36
+Address	: +50487319264
+Status	: NOT_RECEIVED
+Message	: BAC Credomatic le informa que el usuario alonso0794 ha realizado un ingreso a Banca en Lnea a las 01:31 CST del 11-11-2022
+
+#650
+Type	: Incoming
+Date	: 2022-11-11 09:53:08
+Address	: Microsoft
+Status	: NOT_RECEIVED
+Message	: Use el código 066211 para autenticar Microsoft.
+
+#651
+Type	: Incoming
+Date	: 2022-11-11 08:51:15
+Address	: +50487319264
+Status	: NOT_RECEIVED
+Message	: BAC Credomatic le informa que el usuario alonso0794 ha realizado un ingreso a Banca en Lnea a las 08:51 CST del 11-11-2022
+
+#652
+Type	: Incoming
+Date	: 2022-11-10 18:26:32
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L1,000.00 el 10-11-22 a las 06:26 PM. Trans. ID:124901902
+
+#653
+Type	: Incoming
+Date	: 2022-11-10 18:26:16
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 894488
+
+#654
+Type	: Incoming
+Date	: 2022-11-10 18:25:13
+Address	: +50433124485
+Status	: NOT_RECEIVED
+Message	: Estimado cliente para completar la compra con su tarjeta BAC terminada en 0327 ingrese el siguiente codigo: 642188, por seguridad no lo comparta.
+
+#655
+Type	: Incoming
+Date	: 2022-11-10 18:24:45
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu codigo de verificacion es: 629698
+
+#656
+Type	: Incoming
+Date	: 2022-11-10 08:12:30
+Address	: TigoMoney
+Status	: NOT_RECEIVED
+Message	: Con Tigo Money puedes pagar tus facturas de la ENEE sin hacer largas filas desde la APP o ingresando a la web: https://money.tigo.com.hn/
+
+#657
+Type	: Incoming
+Date	: 2022-11-09 15:43:27
+Address	: +24242
+Status	: NOT_RECEIVED
+Message	: Usa 042319 para la autenticación en dos pasos en Facebook.
+
+#658
+Type	: Incoming
+Date	: 2022-11-07 19:02:19
+Address	: +50487404648
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50487404648 lo ha llamado 1 veces y la ultima vez fue el 07/11 a las 19:01Claro que si
+
+#659
+Type	: Incoming
+Date	: 2022-11-07 12:56:31
+Address	: CLARO
+Status	: NOT_RECEIVED
+Message	: Utiliza los ATMs, Interbanca y SARA para adquirir tus SuperPacks?y Recargas en Banco Ficohsa
+
+#660
+Type	: Incoming
+Date	: 2022-11-07 10:55:39
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L112.00 el 7-11-22 a las 10:55 AM. Trans. ID:124601705
+
+#661
+Type	: Incoming
+Date	: 2022-11-07 10:55:22
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 798682
+
+#662
+Type	: Incoming
+Date	: 2022-11-07 09:21:42
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Retiro exitoso. Monto L1,000.00 el 7-11-22 a las 09:21 AM. Trans. ID:124590063
+
+#663
+Type	: Incoming
+Date	: 2022-11-07 09:21:23
+Address	: 50431765668
+Status	: NOT_RECEIVED
+Message	: Tu Codigo de verificacion Tengo-RETIRO es: 623013
+
+#664
+Type	: Incoming
+Date	: 2022-11-07 06:13:26
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: El 94580250 ha leido tu mensaje.
+
+#665
+Type	: Outgoing
+Date	: 2022-11-07 06:06:55
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: Te llamo más tarde.
+
+#666
+Type	: Outgoing
+Date	: 2022-11-07 06:06:55
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: Te llamo más tarde.
+
+#667
+Type	: Outgoing
+Date	: 2022-11-07 06:06:07
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: No puedo hablar. Llámame luego.
+
+#668
+Type	: Outgoing
+Date	: 2022-11-07 06:06:07
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: No puedo hablar. Llámame luego.
+
+#669
+Type	: Incoming
+Date	: 2022-11-07 05:57:45
+Address	: +50494580250
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50494580250 lo ha llamado 1 veces y la ultima vez fue el 07/11 a las 05:55Claro que si
+
+#670
+Type	: Incoming
+Date	: 2022-11-06 16:26:55
+Address	: +50499309569
+Status	: NOT_RECEIVED
+Message	: Claro le informa que el numero50499309569 lo ha llamado 2 veces y la ultima vez fue el 06/11 a las 16:25 Claro que si
+
+#671
+Type	: Incoming
+Date	: 2022-11-05 10:45:01
+Address	: Claro
+Status	: NOT_RECEIVED
+Message	: Internet Claro. Has consumido el 100% de tu paquete de navegacion contratado. Tienes un paquete adicional para continuar navegando.
+
+#672
+Type	: Incoming
+Date	: 2022-10-21 17:49:42
+Address	: 54138
+Status	: NOT_RECEIVED
+Message	: Tu factura fue emitida por L384.65 a pagar 06 Nov https://facturaelectronica.claro.com.hn/personaWeb/user/authhandoff?cde=2628d46669360e2a8e140c0a99a4e413
+
+#673
+Type	: Incoming
+Date	: 2022-09-23 09:06:22
+Address	: 50433114279
+Status	: NOT_RECEIVED
+Message	: Metronet: Le informa que estamos presentando inconvenientes en zona, afecta a sus servicios contratados, Estamos trabajando para solucionar lo antes posible
+
+#674
+Type	: Incoming
+Date	: 2022-07-29 13:07:24
+Address	: +50494684191
+Status	: NOT_RECEIVED
+Message	: JOSE RAFAEL ORELLANA BENITEZ !APROVECHA! GALLO+GALLO te ofrece UN EXCELENTE DESCUENTO solo HOY Llame 96780110 94344243.
+
+#675
+Type	: Incoming
+Date	: 2022-07-29 10:27:21
+Address	: +50496211175
+Status	: NOT_RECEIVED
+Message	: JOSE RAFAEL ORELLANA BENITEZ !APROVECHA! GALLO+GALLO te ofrece UN EXCELENTE DESCUENTO solo HOY Llame 96780110 94344243.
+
+#676
+Type	: Incoming
+Date	: 2022-07-22 10:03:26
+Address	: +50495293477
+Status	: NOT_RECEIVED
+Message	: JOSE RAFAEL ORELLANA BENITEZ !DEUDA GALLO+GALLO! area prejudicial llamar 96780110 9434424 o ws caso contrario visita a SOUTHERN APPAREL CONTRACTORS
+
+#677
+Type	: Incoming
+Date	: 2022-07-09 12:05:02
+Address	: +50495220741
+Status	: NOT_RECEIVED
+Message	: Ya le escribí
+
+#678
+Type	: Outgoing
+Date	: 2022-07-09 11:59:16
+Address	: 95220741
+Status	: NOT_RECEIVED
+Message	: Esta bien
+
+#679
+Type	: Incoming
+Date	: 2022-07-09 11:59:00
+Address	: +50495220741
+Status	: NOT_RECEIVED
+Message	: Le voy a agregar a Whatsapp ahorita
+
+#680
+Type	: Incoming
+Date	: 2022-07-09 11:58:59
+Address	: +50495220741
+Status	: NOT_RECEIVED
+Message	: Y aveces cuesta que caigan las llamadas
+
+#681
+Type	: Incoming
+Date	: 2022-07-09 11:58:58
+Address	: +50495220741
+Status	: NOT_RECEIVED
+Message	: Si, es que el otro telifono es corporativo
+
+#682
+Type	: Incoming
+Date	: 2022-07-09 11:58:01
+Address	: +50495220741
+Status	: NOT_RECEIVED
+Message	: Si, es que el otro telifono es corporativo
+
+#683
+Type	: Outgoing
+Date	: 2022-07-09 11:57:56
+Address	: 95220741
+Status	: NOT_RECEIVED
+Message	: Ya tengo lista la constancia de trabajo
+
+#684
+Type	: Outgoing
+Date	: 2022-07-09 11:57:39
+Address	: 95220741
+Status	: NOT_RECEIVED
+Message	: Asi es, quedé a la espera de comunicarme con ud pero no respondio mis llamadas
+
+#685
+Type	: Incoming
+Date	: 2022-07-09 11:57:30
+Address	: +50495220741
+Status	: NOT_RECEIVED
+Message	: Si, con gusto
+
+#686
+Type	: Incoming
+Date	: 2022-07-09 11:57:24
+Address	: +50495220741
+Status	: NOT_RECEIVED
+Message	: Buen día
+
+#687
+Type	: Incoming
+Date	: 2022-07-09 11:57:20
+Address	: +50495220741
+Status	: NOT_RECEIVED
+Message	: Para tarjeta de credito
+
+#688
+Type	: Incoming
+Date	: 2022-07-09 11:57:08
+Address	: +50495220741
+Status	: NOT_RECEIVED
+Message	: Por casualidad nos envio solicitud por medio de la pagina web
+
+#689
+Type	: Incoming
+Date	: 2022-07-09 11:56:57
+Address	: +50495220741
+Status	: NOT_RECEIVED
+Message	: Si, con gusto
+
+#690
+Type	: Incoming
+Date	: 2022-07-09 11:56:53
+Address	: +50495220741
+Status	: NOT_RECEIVED
+Message	: Buen dia
+
+#691
+Type	: Outgoing
+Date	: 2022-07-09 11:55:42
+Address	: 95220741
+Status	: NOT_RECEIVED
+Message	: Hola buen dia me brinda informacion
+
+#692
+Type	: Incoming
+Date	: 2022-06-11 15:01:07
+Address	: +50495293412
+Status	: NOT_RECEIVED
+Message	: JOSE RAFAEL ORELLANA BENITEZ !DEUDA GALLO+GALLO! area prejudicial llamar 96780110 9434424 o ws caso contrario visita a SOUTHERN APPAREL CONTRACTORS
+
+#693
+Type	: Incoming
+Date	: 2022-05-27 16:33:07
+Address	: 50433114279
+Status	: NOT_RECEIVED
+Message	: METRONET - Estimado cliente, A partir del 01 de junio su plan de internet aumentara 5.6% por costos operativos. Gracias por su preferencia
+
+#694
+Type	: Incoming
+Date	: 2022-05-14 12:08:18
+Address	: +50496495971
+Status	: NOT_RECEIVED
+Message	: JOSE RAFAEL ORELLANA BENITEZ deuda Gallo+Gallo en area legal URGENTE Llame 94206070 o whatsapp.Visita a su trabajo SOUTHERN APPAREL CONTRACTORS
+
+#695
+Type	: Incoming
+Date	: 2022-04-22 17:54:13
+Address	: 50433114279
+Status	: NOT_RECEIVED
+Message	: METRONET LA MUNDIAL, Disfruta tu verano conectado al mejor internet. Contrata tu plan de 50MB x L.1199, paga tus servicios y recibe la mejor atencion
+
+#696
+Type	: Incoming
+Date	: 2022-04-18 17:17:39
+Address	: 50433114279
+Status	: NOT_RECEIVED
+Message	: METRONET LA MUNDIAL, Contrata los mejores planes de internet para ti y tu negocio. 50MB doble velocidad 6 meses X L.1,199. Visitanos de Lunes a Domingo.
+
+#697
+Type	: Incoming
+Date	: 2022-04-13 09:02:45
+Address	: +50494310049
+Status	: NOT_RECEIVED
+Message	: JOSE RAFA se inicio tramite EXTRAJUDICIAL en los juzgados correspondientes para EMBARGO por su negativa de pago a GALLO+GALLO 32856262 https://wa.me/50432856262
+
+#698
+Type	: Incoming
+Date	: 2022-04-08 18:08:41
+Address	: 50433114279
+Status	: NOT_RECEIVED
+Message	: METRONET LA MUNDIAL, Contrata tu plan de internet con Fibra Optica 30MB x L.899, paga tus servicios y recibe la mejor atencion. Visitanos de lunes a domingo
+

@@ -1,0 +1,3853 @@
+
+=================
+[+] Call log dump
+=================
+
+Date: 2023-05-09 16:49:37.088968813 -0500
+OS: Android 12 - Linux 4.14.190-perf-g9dfd5cc8f1d0 (aarch64)
+Remote IP: 10.48.126.201
+Remote Port: 47754
+
+#1
+Number	: 98970837
+Name	: 
+Date	: Tue Feb 28 16:56:25 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#2
+Number	: +50498970837
+Name	: 
+Date	: Tue Feb 28 16:57:13 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#3
+Number	: +50494580250
+Name	: 
+Date	: Tue Feb 28 18:08:07 CST 2023
+Type	: INCOMING
+Duration: 33
+
+#4
+Number	: +50494580250
+Name	: 
+Date	: Tue Feb 28 19:43:27 CST 2023
+Type	: INCOMING
+Duration: 310
+
+#5
+Number	: +50494580250
+Name	: 
+Date	: Tue Feb 28 19:49:02 CST 2023
+Type	: INCOMING
+Duration: 651
+
+#6
+Number	: 89942436
+Name	: 
+Date	: Tue Feb 28 20:45:56 CST 2023
+Type	: MISSED
+Duration: 22
+
+#7
+Number	: +50494580250
+Name	: 
+Date	: Wed Mar 01 06:52:43 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#8
+Number	: +50494580250
+Name	: 
+Date	: Wed Mar 01 06:52:58 CST 2023
+Type	: OUTGOING
+Duration: 38
+
+#9
+Number	: +50498823255
+Name	: 
+Date	: Wed Mar 01 11:35:23 CST 2023
+Type	: INCOMING
+Duration: 8
+
+#10
+Number	: +50495737161
+Name	: 
+Date	: Wed Mar 01 16:29:38 CST 2023
+Type	: INCOMING
+Duration: 497
+
+#11
+Number	: +50494580250
+Name	: 
+Date	: Wed Mar 01 16:39:07 CST 2023
+Type	: INCOMING
+Duration: 1755
+
+#12
+Number	: +50494580250
+Name	: 
+Date	: Wed Mar 01 17:08:37 CST 2023
+Type	: INCOMING
+Duration: 745
+
+#13
+Number	: +50494580250
+Name	: 
+Date	: Wed Mar 01 17:29:19 CST 2023
+Type	: INCOMING
+Duration: 350
+
+#14
+Number	: +50499635606
+Name	: 
+Date	: Wed Mar 01 17:35:54 CST 2023
+Type	: OUTGOING
+Duration: 65
+
+#15
+Number	: +50494580250
+Name	: 
+Date	: Thu Mar 02 07:09:38 CST 2023
+Type	: INCOMING
+Duration: 563
+
+#16
+Number	: 25803450
+Name	: 
+Date	: Thu Mar 02 08:52:50 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#17
+Number	: +50425803450
+Name	: 
+Date	: Thu Mar 02 08:53:12 CST 2023
+Type	: OUTGOING
+Duration: 16
+
+#18
+Number	: 22160200
+Name	: 
+Date	: Thu Mar 02 08:55:56 CST 2023
+Type	: OUTGOING
+Duration: 16
+
+#19
+Number	: 25803450
+Name	: 
+Date	: Thu Mar 02 08:56:40 CST 2023
+Type	: OUTGOING
+Duration: 217
+
+#20
+Number	: 32334505
+Name	: 
+Date	: Thu Mar 02 10:44:53 CST 2023
+Type	: INCOMING
+Duration: 8
+
+#21
+Number	: +50495737161
+Name	: 
+Date	: Thu Mar 02 11:55:06 CST 2023
+Type	: INCOMING
+Duration: 56
+
+#22
+Number	: +50494580250
+Name	: 
+Date	: Thu Mar 02 16:35:34 CST 2023
+Type	: INCOMING
+Duration: 332
+
+#23
+Number	: +50494580250
+Name	: 
+Date	: Thu Mar 02 16:41:26 CST 2023
+Type	: INCOMING
+Duration: 29
+
+#24
+Number	: +50494580250
+Name	: 
+Date	: Thu Mar 02 16:42:13 CST 2023
+Type	: INCOMING
+Duration: 1093
+
+#25
+Number	: +50494580250
+Name	: 
+Date	: Thu Mar 02 17:00:43 CST 2023
+Type	: INCOMING
+Duration: 595
+
+#26
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 03 06:34:38 CST 2023
+Type	: INCOMING
+Duration: 11
+
+#27
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 03 06:35:25 CST 2023
+Type	: INCOMING
+Duration: 292
+
+#28
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 03 06:41:01 CST 2023
+Type	: INCOMING
+Duration: 2214
+
+#29
+Number	: 99702837
+Name	: 
+Date	: Fri Mar 03 11:21:21 CST 2023
+Type	: MISSED
+Duration: 27
+
+#30
+Number	: 99702837
+Name	: 
+Date	: Fri Mar 03 11:22:07 CST 2023
+Type	: MISSED
+Duration: 20
+
+#31
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 03 15:41:30 CST 2023
+Type	: INCOMING
+Duration: 1266
+
+#32
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 03 16:03:20 CST 2023
+Type	: INCOMING
+Duration: 166
+
+#33
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 03 16:06:44 CST 2023
+Type	: INCOMING
+Duration: 880
+
+#34
+Number	: +50495117478
+Name	: 
+Date	: Fri Mar 03 17:01:03 CST 2023
+Type	: MISSED
+Duration: 26
+
+#35
+Number	: +50496584418
+Name	: 
+Date	: Fri Mar 03 19:21:51 CST 2023
+Type	: INCOMING
+Duration: 9
+
+#36
+Number	: +50496584418
+Name	: 
+Date	: Fri Mar 03 19:22:43 CST 2023
+Type	: OUTGOING
+Duration: 33
+
+#37
+Number	: +50494802000
+Name	: 
+Date	: Sat Mar 04 12:50:15 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#38
+Number	: 26269030
+Name	: 
+Date	: Sat Mar 04 12:50:55 CST 2023
+Type	: OUTGOING
+Duration: 77
+
+#39
+Number	: +50496584418
+Name	: 
+Date	: Sat Mar 04 16:01:58 CST 2023
+Type	: MISSED
+Duration: 26
+
+#40
+Number	: 26269030
+Name	: 
+Date	: Sat Mar 04 16:04:05 CST 2023
+Type	: OUTGOING
+Duration: 220
+
+#41
+Number	: +50496584418
+Name	: 
+Date	: Sat Mar 04 16:08:03 CST 2023
+Type	: OUTGOING
+Duration: 44
+
+#42
+Number	: +50496584418
+Name	: 
+Date	: Sun Mar 05 09:00:14 CST 2023
+Type	: OUTGOING
+Duration: 79
+
+#43
+Number	: +50496584418
+Name	: 
+Date	: Sun Mar 05 09:22:37 CST 2023
+Type	: MISSED
+Duration: 26
+
+#44
+Number	: +50496584418
+Name	: 
+Date	: Sun Mar 05 09:23:19 CST 2023
+Type	: MISSED
+Duration: 12
+
+#45
+Number	: +50496584418
+Name	: 
+Date	: Sun Mar 05 09:24:46 CST 2023
+Type	: OUTGOING
+Duration: 155
+
+#46
+Number	: +50494580250
+Name	: 
+Date	: Sun Mar 05 09:28:32 CST 2023
+Type	: OUTGOING
+Duration: 254
+
+#47
+Number	: +50494580250
+Name	: 
+Date	: Sun Mar 05 09:33:34 CST 2023
+Type	: OUTGOING
+Duration: 75
+
+#48
+Number	: +50494580250
+Name	: 
+Date	: Sun Mar 05 09:35:20 CST 2023
+Type	: OUTGOING
+Duration: 1
+
+#49
+Number	: +50494580250
+Name	: 
+Date	: Sun Mar 05 09:35:47 CST 2023
+Type	: OUTGOING
+Duration: 3
+
+#50
+Number	: +50494580250
+Name	: 
+Date	: Sun Mar 05 09:36:07 CST 2023
+Type	: INCOMING
+Duration: 1593
+
+#51
+Number	: +50496584418
+Name	: 
+Date	: Sun Mar 05 10:56:52 CST 2023
+Type	: OUTGOING
+Duration: 19
+
+#52
+Number	: +50494580250
+Name	: 
+Date	: Sun Mar 05 11:26:41 CST 2023
+Type	: MISSED
+Duration: 30
+
+#53
+Number	: +50494580250
+Name	: 
+Date	: Sun Mar 05 11:36:47 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#54
+Number	: +50494580250
+Name	: 
+Date	: Sun Mar 05 11:37:13 CST 2023
+Type	: OUTGOING
+Duration: 1
+
+#55
+Number	: +50494580250
+Name	: 
+Date	: Sun Mar 05 11:37:46 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#56
+Number	: +50494580250
+Name	: 
+Date	: Sun Mar 05 12:07:14 CST 2023
+Type	: Unknown
+Duration: 0
+
+#57
+Number	: +50494580250
+Name	: 
+Date	: Mon Mar 06 06:57:48 CST 2023
+Type	: OUTGOING
+Duration: 897
+
+#58
+Number	: 22160200
+Name	: 
+Date	: Mon Mar 06 07:27:57 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#59
+Number	: 22160200
+Name	: 
+Date	: Mon Mar 06 07:28:27 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#60
+Number	: +50493750780
+Name	: 
+Date	: Mon Mar 06 10:57:15 CST 2023
+Type	: INCOMING
+Duration: 75
+
+#61
+Number	: +50493750780
+Name	: 
+Date	: Mon Mar 06 11:02:18 CST 2023
+Type	: MISSED
+Duration: 5
+
+#62
+Number	: +50494580250
+Name	: 
+Date	: Mon Mar 06 16:52:33 CST 2023
+Type	: INCOMING
+Duration: 190
+
+#63
+Number	: +50494580250
+Name	: 
+Date	: Mon Mar 06 16:56:07 CST 2023
+Type	: INCOMING
+Duration: 624
+
+#64
+Number	: +50495737161
+Name	: 
+Date	: Mon Mar 06 17:07:31 CST 2023
+Type	: OUTGOING
+Duration: 81
+
+#65
+Number	: +50494580250
+Name	: 
+Date	: Mon Mar 06 17:15:29 CST 2023
+Type	: OUTGOING
+Duration: 11
+
+#66
+Number	: +50432914337
+Name	: 
+Date	: Mon Mar 06 17:19:23 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#67
+Number	: +50432914337
+Name	: 
+Date	: Mon Mar 06 17:19:48 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#68
+Number	: +50494580250
+Name	: 
+Date	: Mon Mar 06 17:21:51 CST 2023
+Type	: INCOMING
+Duration: 74
+
+#69
+Number	: +50496320659
+Name	: 
+Date	: Mon Mar 06 17:28:07 CST 2023
+Type	: OUTGOING
+Duration: 47
+
+#70
+Number	: +50494580250
+Name	: 
+Date	: Tue Mar 07 06:57:02 CST 2023
+Type	: INCOMING
+Duration: 1355
+
+#71
+Number	: 31657691
+Name	: 
+Date	: Tue Mar 07 11:44:09 CST 2023
+Type	: Unknown
+Duration: 0
+
+#72
+Number	: +50494580250
+Name	: 
+Date	: Tue Mar 07 12:30:44 CST 2023
+Type	: MISSED
+Duration: 30
+
+#73
+Number	: +50494580250
+Name	: 
+Date	: Tue Mar 07 16:29:30 CST 2023
+Type	: INCOMING
+Duration: 365
+
+#74
+Number	: +50494580250
+Name	: 
+Date	: Tue Mar 07 16:36:27 CST 2023
+Type	: INCOMING
+Duration: 27
+
+#75
+Number	: +50494580250
+Name	: 
+Date	: Tue Mar 07 16:49:47 CST 2023
+Type	: INCOMING
+Duration: 71
+
+#76
+Number	: 911
+Name	: Alcaldia
+Date	: Tue Mar 07 18:45:11 CST 2023
+Type	: OUTGOING
+Duration: 22
+
+#77
+Number	: +50499072062
+Name	: 
+Date	: Wed Mar 08 14:05:16 CST 2023
+Type	: MISSED
+Duration: 15
+
+#78
+Number	: +50496584418
+Name	: 
+Date	: Wed Mar 08 17:08:16 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#79
+Number	: +50496584418
+Name	: 
+Date	: Wed Mar 08 17:08:41 CST 2023
+Type	: OUTGOING
+Duration: 1
+
+#80
+Number	: +50496584418
+Name	: 
+Date	: Wed Mar 08 17:08:56 CST 2023
+Type	: OUTGOING
+Duration: 2
+
+#81
+Number	: +50496584418
+Name	: 
+Date	: Wed Mar 08 17:15:22 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#82
+Number	: +50496584418
+Name	: 
+Date	: Wed Mar 08 17:16:47 CST 2023
+Type	: OUTGOING
+Duration: 5
+
+#83
+Number	: #111
+Name	: 
+Date	: Wed Mar 08 17:23:22 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#84
+Number	: +50494580250
+Name	: 
+Date	: Wed Mar 08 18:39:03 CST 2023
+Type	: INCOMING
+Duration: 1190
+
+#85
+Number	: +50494580250
+Name	: 
+Date	: Wed Mar 08 18:59:46 CST 2023
+Type	: INCOMING
+Duration: 450
+
+#86
+Number	: +50494580250
+Name	: 
+Date	: Thu Mar 09 06:54:51 CST 2023
+Type	: MISSED
+Duration: 16
+
+#87
+Number	: +50494580250
+Name	: 
+Date	: Thu Mar 09 06:57:24 CST 2023
+Type	: OUTGOING
+Duration: 1
+
+#88
+Number	: +50494580250
+Name	: 
+Date	: Thu Mar 09 06:58:44 CST 2023
+Type	: INCOMING
+Duration: 1068
+
+#89
+Number	: +50494580250
+Name	: 
+Date	: Thu Mar 09 16:50:16 CST 2023
+Type	: INCOMING
+Duration: 203
+
+#90
+Number	: +50494580250
+Name	: 
+Date	: Thu Mar 09 16:53:59 CST 2023
+Type	: INCOMING
+Duration: 526
+
+#91
+Number	: +50494580250
+Name	: 
+Date	: Thu Mar 09 17:03:32 CST 2023
+Type	: INCOMING
+Duration: 587
+
+#92
+Number	: +50494580250
+Name	: 
+Date	: Thu Mar 09 17:42:26 CST 2023
+Type	: INCOMING
+Duration: 71
+
+#93
+Number	: +50494580250
+Name	: 
+Date	: Thu Mar 09 17:44:33 CST 2023
+Type	: INCOMING
+Duration: 274
+
+#94
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 10 06:29:08 CST 2023
+Type	: INCOMING
+Duration: 823
+
+#95
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 10 06:43:32 CST 2023
+Type	: INCOMING
+Duration: 39
+
+#96
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 10 06:44:44 CST 2023
+Type	: INCOMING
+Duration: 1549
+
+#97
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 10 15:54:03 CST 2023
+Type	: INCOMING
+Duration: 115
+
+#98
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 10 15:56:35 CST 2023
+Type	: MISSED
+Duration: 31
+
+#99
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 10 15:57:44 CST 2023
+Type	: INCOMING
+Duration: 1054
+
+#100
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 10 16:15:37 CST 2023
+Type	: INCOMING
+Duration: 1953
+
+#101
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 10 16:51:35 CST 2023
+Type	: INCOMING
+Duration: 59
+
+#102
+Number	: +50495117389
+Name	: 
+Date	: Sat Mar 11 12:18:03 CST 2023
+Type	: MISSED
+Duration: 16
+
+#103
+Number	: +50494580250
+Name	: 
+Date	: Mon Mar 13 07:07:26 CST 2023
+Type	: INCOMING
+Duration: 528
+
+#104
+Number	: +50499635606
+Name	: 
+Date	: Mon Mar 13 17:58:08 CST 2023
+Type	: MISSED
+Duration: 30
+
+#105
+Number	: +50499635606
+Name	: 
+Date	: Mon Mar 13 18:03:04 CST 2023
+Type	: INCOMING
+Duration: 0
+
+#106
+Number	: +50494580250
+Name	: 
+Date	: Mon Mar 13 17:51:50 CST 2023
+Type	: INCOMING
+Duration: 732
+
+#107
+Number	: +50499635606
+Name	: 
+Date	: Mon Mar 13 18:04:21 CST 2023
+Type	: OUTGOING
+Duration: 34
+
+#108
+Number	: +50494580250
+Name	: 
+Date	: Mon Mar 13 18:04:51 CST 2023
+Type	: INCOMING
+Duration: 337
+
+#109
+Number	: +50494580250
+Name	: 
+Date	: Mon Mar 13 18:10:59 CST 2023
+Type	: INCOMING
+Duration: 614
+
+#110
+Number	: +50499635606
+Name	: 
+Date	: Mon Mar 13 18:21:35 CST 2023
+Type	: OUTGOING
+Duration: 23
+
+#111
+Number	: +50495857156
+Name	: 
+Date	: Tue Mar 14 10:58:31 CST 2023
+Type	: INCOMING
+Duration: 17
+
+#112
+Number	: +50496584418
+Name	: 
+Date	: Tue Mar 14 11:40:49 CST 2023
+Type	: MISSED
+Duration: 16
+
+#113
+Number	: +50495117378
+Name	: 
+Date	: Tue Mar 14 13:50:09 CST 2023
+Type	: MISSED
+Duration: 25
+
+#114
+Number	: +50494580250
+Name	: 
+Date	: Tue Mar 14 16:33:00 CST 2023
+Type	: INCOMING
+Duration: 478
+
+#115
+Number	: +50494580250
+Name	: 
+Date	: Tue Mar 14 18:15:01 CST 2023
+Type	: OUTGOING
+Duration: 192
+
+#116
+Number	: +50494580250
+Name	: 
+Date	: Tue Mar 14 18:18:54 CST 2023
+Type	: OUTGOING
+Duration: 231
+
+#117
+Number	: 25441717
+Name	: 
+Date	: Wed Mar 15 10:44:48 CST 2023
+Type	: INCOMING
+Duration: 78
+
+#118
+Number	: 25441717
+Name	: 
+Date	: Wed Mar 15 10:48:37 CST 2023
+Type	: OUTGOING
+Duration: 17
+
+#119
+Number	: +50498948208
+Name	: 
+Date	: Wed Mar 15 11:10:20 CST 2023
+Type	: INCOMING
+Duration: 23
+
+#120
+Number	: +50498948208
+Name	: 
+Date	: Wed Mar 15 11:11:01 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#121
+Number	: +50498948208
+Name	: 
+Date	: Wed Mar 15 11:11:33 CST 2023
+Type	: INCOMING
+Duration: 36
+
+#122
+Number	: +50494916143
+Name	: 
+Date	: Wed Mar 15 11:19:46 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#123
+Number	: +50494580250
+Name	: 
+Date	: Wed Mar 15 16:45:05 CST 2023
+Type	: INCOMING
+Duration: 80
+
+#124
+Number	: +50494580250
+Name	: 
+Date	: Wed Mar 15 16:50:12 CST 2023
+Type	: INCOMING
+Duration: 37
+
+#125
+Number	: +50494580250
+Name	: 
+Date	: Wed Mar 15 16:51:21 CST 2023
+Type	: INCOMING
+Duration: 167
+
+#126
+Number	: +50495375156
+Name	: 
+Date	: Wed Mar 15 20:10:26 CST 2023
+Type	: MISSED
+Duration: 25
+
+#127
+Number	: +50495375156
+Name	: 
+Date	: Wed Mar 15 20:11:07 CST 2023
+Type	: MISSED
+Duration: 26
+
+#128
+Number	: +50495375156
+Name	: 
+Date	: Wed Mar 15 20:28:32 CST 2023
+Type	: MISSED
+Duration: 25
+
+#129
+Number	: +50498526788
+Name	: 
+Date	: Thu Mar 16 09:45:12 CST 2023
+Type	: INCOMING
+Duration: 92
+
+#130
+Number	: 32943345
+Name	: 
+Date	: Thu Mar 16 10:13:12 CST 2023
+Type	: INCOMING
+Duration: 53
+
+#131
+Number	: 32943345
+Name	: 
+Date	: Thu Mar 16 10:29:14 CST 2023
+Type	: OUTGOING
+Duration: 20
+
+#132
+Number	: 32943345
+Name	: 
+Date	: Thu Mar 16 10:45:59 CST 2023
+Type	: MISSED
+Duration: 25
+
+#133
+Number	: 32943345
+Name	: 
+Date	: Thu Mar 16 10:48:44 CST 2023
+Type	: INCOMING
+Duration: 32
+
+#134
+Number	: +50496813282
+Name	: 
+Date	: Thu Mar 16 11:45:37 CST 2023
+Type	: OUTGOING
+Duration: 29
+
+#135
+Number	: 25126435
+Name	: 
+Date	: Thu Mar 16 12:17:47 CST 2023
+Type	: Unknown
+Duration: 0
+
+#136
+Number	: 22028120
+Name	: 
+Date	: Thu Mar 16 17:10:13 CST 2023
+Type	: MISSED
+Duration: 26
+
+#137
+Number	: 33828326
+Name	: 
+Date	: Thu Mar 16 18:57:26 CST 2023
+Type	: MISSED
+Duration: 26
+
+#138
+Number	: 33828326
+Name	: 
+Date	: Thu Mar 16 18:58:35 CST 2023
+Type	: OUTGOING
+Duration: 18
+
+#139
+Number	: +50495752480
+Name	: 
+Date	: Fri Mar 17 11:16:18 CST 2023
+Type	: INCOMING
+Duration: 36
+
+#140
+Number	: 31711661
+Name	: 
+Date	: Fri Mar 17 11:21:32 CST 2023
+Type	: MISSED
+Duration: 26
+
+#141
+Number	: 31711661
+Name	: 
+Date	: Fri Mar 17 11:22:24 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#142
+Number	: 31711661
+Name	: 
+Date	: Fri Mar 17 11:22:29 CST 2023
+Type	: INCOMING
+Duration: 20
+
+#143
+Number	: +50498804337
+Name	: 
+Date	: Fri Mar 17 13:02:58 CST 2023
+Type	: MISSED
+Duration: 21
+
+#144
+Number	: +50498804337
+Name	: 
+Date	: Fri Mar 17 13:08:47 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#145
+Number	: +50498804337
+Name	: 
+Date	: Fri Mar 17 13:09:09 CST 2023
+Type	: OUTGOING
+Duration: 130
+
+#146
+Number	: 25126435
+Name	: 
+Date	: Fri Mar 17 17:12:52 CST 2023
+Type	: Unknown
+Duration: 0
+
+#147
+Number	: 33260828
+Name	: 
+Date	: Fri Mar 17 20:59:29 CST 2023
+Type	: MISSED
+Duration: 10
+
+#148
+Number	: +50494580250
+Name	: 
+Date	: Fri Mar 17 22:27:09 CST 2023
+Type	: OUTGOING
+Duration: 9
+
+#149
+Number	: 93430603
+Name	: 
+Date	: Sat Mar 18 11:33:35 CST 2023
+Type	: INCOMING
+Duration: 51
+
+#150
+Number	: 93430603
+Name	: 
+Date	: Sat Mar 18 11:38:00 CST 2023
+Type	: INCOMING
+Duration: 9
+
+#151
+Number	: 93430603
+Name	: 
+Date	: Sat Mar 18 11:40:14 CST 2023
+Type	: INCOMING
+Duration: 21
+
+#152
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Sat Mar 18 14:43:08 CST 2023
+Type	: INCOMING
+Duration: 36
+
+#153
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Sat Mar 18 17:06:37 CST 2023
+Type	: MISSED
+Duration: 30
+
+#154
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Sat Mar 18 17:07:19 CST 2023
+Type	: MISSED
+Duration: 30
+
+#155
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Sat Mar 18 21:42:54 CST 2023
+Type	: MISSED
+Duration: 30
+
+#156
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Sun Mar 19 09:05:54 CST 2023
+Type	: INCOMING
+Duration: 38
+
+#157
+Number	: 33053161
+Name	: 
+Date	: Sun Mar 19 10:21:46 CST 2023
+Type	: INCOMING
+Duration: 13
+
+#158
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Sun Mar 19 15:42:51 CST 2023
+Type	: MISSED
+Duration: 31
+
+#159
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Sun Mar 19 15:43:39 CST 2023
+Type	: MISSED
+Duration: 30
+
+#160
+Number	: +50496584418
+Name	: Erick Vega
+Date	: Sun Mar 19 18:39:49 CST 2023
+Type	: OUTGOING
+Duration: 66
+
+#161
+Number	: +50496584418
+Name	: Erick Vega
+Date	: Sun Mar 19 19:01:34 CST 2023
+Type	: OUTGOING
+Duration: 88
+
+#162
+Number	: +50496584418
+Name	: Erick Vega
+Date	: Sun Mar 19 19:24:00 CST 2023
+Type	: OUTGOING
+Duration: 19
+
+#163
+Number	: +50494580250
+Name	: Jean
+Date	: Mon Mar 20 07:56:19 CST 2023
+Type	: INCOMING
+Duration: 1964
+
+#164
+Number	: 25126435
+Name	: 
+Date	: Mon Mar 20 12:03:24 CST 2023
+Type	: MISSED
+Duration: 26
+
+#165
+Number	: 33046918
+Name	: 
+Date	: Mon Mar 20 14:35:17 CST 2023
+Type	: Unknown
+Duration: 0
+
+#166
+Number	: +50494580250
+Name	: Jean
+Date	: Mon Mar 20 16:24:26 CST 2023
+Type	: INCOMING
+Duration: 2115
+
+#167
+Number	: +50494580250
+Name	: Jean
+Date	: Tue Mar 21 07:06:19 CST 2023
+Type	: INCOMING
+Duration: 745
+
+#168
+Number	: +5982190545
+Name	: 
+Date	: Tue Mar 21 11:49:05 CST 2023
+Type	: INCOMING
+Duration: 27
+
+#169
+Number	: 31711661
+Name	: Herick SAC
+Date	: Tue Mar 21 12:24:04 CST 2023
+Type	: INCOMING
+Duration: 53
+
+#170
+Number	: +5982190545
+Name	: 
+Date	: Tue Mar 21 13:06:33 CST 2023
+Type	: INCOMING
+Duration: 60
+
+#171
+Number	: +50494580250
+Name	: Jean
+Date	: Tue Mar 21 17:02:24 CST 2023
+Type	: INCOMING
+Duration: 451
+
+#172
+Number	: +50494580250
+Name	: Jean
+Date	: Tue Mar 21 17:10:11 CST 2023
+Type	: INCOMING
+Duration: 1445
+
+#173
+Number	: +50494580250
+Name	: Jean
+Date	: Tue Mar 21 17:42:28 CST 2023
+Type	: INCOMING
+Duration: 374
+
+#174
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Mar 22 07:07:21 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#175
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Mar 22 07:21:11 CST 2023
+Type	: INCOMING
+Duration: 433
+
+#176
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Mar 22 12:43:30 CST 2023
+Type	: INCOMING
+Duration: 18
+
+#177
+Number	: 22473035
+Name	: 
+Date	: Wed Mar 22 13:04:32 CST 2023
+Type	: Unknown
+Duration: 0
+
+#178
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Mar 22 13:18:56 CST 2023
+Type	: OUTGOING
+Duration: 26
+
+#179
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Mar 22 13:28:45 CST 2023
+Type	: OUTGOING
+Duration: 92
+
+#180
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Mar 22 13:45:20 CST 2023
+Type	: INCOMING
+Duration: 24
+
+#181
+Number	: 25126435
+Name	: 
+Date	: Wed Mar 22 14:11:46 CST 2023
+Type	: MISSED
+Duration: 26
+
+#182
+Number	: 22473035
+Name	: 
+Date	: Wed Mar 22 15:08:54 CST 2023
+Type	: INCOMING
+Duration: 4
+
+#183
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Mar 22 16:33:12 CST 2023
+Type	: INCOMING
+Duration: 1868
+
+#184
+Number	: 22473035
+Name	: 
+Date	: Wed Mar 22 17:35:18 CST 2023
+Type	: MISSED
+Duration: 25
+
+#185
+Number	: 22473035
+Name	: 
+Date	: Wed Mar 22 18:09:41 CST 2023
+Type	: MISSED
+Duration: 25
+
+#186
+Number	: 22473035
+Name	: 
+Date	: Wed Mar 22 18:34:52 CST 2023
+Type	: Unknown
+Duration: 0
+
+#187
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 23 06:57:31 CST 2023
+Type	: INCOMING
+Duration: 993
+
+#188
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 23 07:15:01 CST 2023
+Type	: INCOMING
+Duration: 86
+
+#189
+Number	: 25126435
+Name	: 
+Date	: Thu Mar 23 17:11:25 CST 2023
+Type	: Unknown
+Duration: 0
+
+#190
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 23 17:23:08 CST 2023
+Type	: INCOMING
+Duration: 2454
+
+#191
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 23 18:11:54 CST 2023
+Type	: INCOMING
+Duration: 1067
+
+#192
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Mar 24 06:44:43 CST 2023
+Type	: INCOMING
+Duration: 1230
+
+#193
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Mar 24 07:05:53 CST 2023
+Type	: INCOMING
+Duration: 565
+
+#194
+Number	: +50497606478
+Name	: DM
+Date	: Fri Mar 24 11:01:19 CST 2023
+Type	: MISSED
+Duration: 20
+
+#195
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Mar 24 16:10:21 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#196
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Mar 24 16:10:37 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#197
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Mar 24 16:11:03 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#198
+Number	: +50431767430
+Name	: VG
+Date	: Fri Mar 24 16:12:00 CST 2023
+Type	: OUTGOING
+Duration: 124
+
+#199
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Mar 24 16:24:52 CST 2023
+Type	: INCOMING
+Duration: 40
+
+#200
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Mar 24 16:40:52 CST 2023
+Type	: MISSED
+Duration: 30
+
+#201
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Mar 24 16:41:35 CST 2023
+Type	: MISSED
+Duration: 22
+
+#202
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Mar 24 16:45:12 CST 2023
+Type	: INCOMING
+Duration: 358
+
+#203
+Number	: 31767430
+Name	: VG
+Date	: Fri Mar 24 16:56:35 CST 2023
+Type	: MISSED
+Duration: 11
+
+#204
+Number	: +50495737161
+Name	: Lenar SAC
+Date	: Fri Mar 24 19:08:01 CST 2023
+Type	: OUTGOING
+Duration: 3
+
+#205
+Number	: +50495737161
+Name	: Lenar SAC
+Date	: Fri Mar 24 19:08:49 CST 2023
+Type	: OUTGOING
+Duration: 214
+
+#206
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Mar 24 23:15:10 CST 2023
+Type	: INCOMING
+Duration: 502
+
+#207
+Number	: 96171422
+Name	: Daisy Abuela
+Date	: Sat Mar 25 11:04:39 CST 2023
+Type	: OUTGOING
+Duration: 141
+
+#208
+Number	: 95552829
+Name	: Gordo
+Date	: Sat Mar 25 11:46:42 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#209
+Number	: 95552829
+Name	: Gordo
+Date	: Sat Mar 25 11:48:54 CST 2023
+Type	: OUTGOING
+Duration: 1
+
+#210
+Number	: 25126435
+Name	: 
+Date	: Sat Mar 25 12:14:17 CST 2023
+Type	: MISSED
+Duration: 26
+
+#211
+Number	: 95552829
+Name	: Gordo
+Date	: Sat Mar 25 12:39:32 CST 2023
+Type	: OUTGOING
+Duration: 64
+
+#212
+Number	: 95552829
+Name	: Gordo
+Date	: Sat Mar 25 12:46:51 CST 2023
+Type	: OUTGOING
+Duration: 93
+
+#213
+Number	: 95552829
+Name	: Gordo
+Date	: Sat Mar 25 14:03:43 CST 2023
+Type	: OUTGOING
+Duration: 11
+
+#214
+Number	: 95552829
+Name	: Gordo
+Date	: Sat Mar 25 15:01:14 CST 2023
+Type	: OUTGOING
+Duration: 20
+
+#215
+Number	: 95552829
+Name	: Gordo
+Date	: Sat Mar 25 15:53:52 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#216
+Number	: +50499635606
+Name	: Lou
+Date	: Sat Mar 25 17:02:25 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#217
+Number	: +50499635606
+Name	: Lou
+Date	: Sat Mar 25 17:02:37 CST 2023
+Type	: OUTGOING
+Duration: 47
+
+#218
+Number	: +50499635606
+Name	: Lou
+Date	: Sat Mar 25 17:19:45 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#219
+Number	: +50499635606
+Name	: Lou
+Date	: Sat Mar 25 17:20:05 CST 2023
+Type	: OUTGOING
+Duration: 3
+
+#220
+Number	: +50499635606
+Name	: Lou
+Date	: Sat Mar 25 17:23:31 CST 2023
+Type	: MISSED
+Duration: 0
+
+#221
+Number	: +50499635606
+Name	: Lou
+Date	: Sat Mar 25 17:23:40 CST 2023
+Type	: OUTGOING
+Duration: 17
+
+#222
+Number	: 96394406
+Name	: Parcho Motos
+Date	: Sat Mar 25 18:21:54 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#223
+Number	: 31779774
+Name	: 
+Date	: Sun Mar 26 13:22:11 CST 2023
+Type	: MISSED
+Duration: 26
+
+#224
+Number	: 31779432
+Name	: 
+Date	: Sun Mar 26 13:23:22 CST 2023
+Type	: INCOMING
+Duration: 52
+
+#225
+Number	: +50498700339
+Name	: 
+Date	: Sun Mar 26 13:32:02 CST 2023
+Type	: INCOMING
+Duration: 50
+
+#226
+Number	: +50494580250
+Name	: Jean
+Date	: Sun Mar 26 13:55:34 CST 2023
+Type	: OUTGOING
+Duration: 15
+
+#227
+Number	: +50494580250
+Name	: Jean
+Date	: Sun Mar 26 14:03:39 CST 2023
+Type	: INCOMING
+Duration: 223
+
+#228
+Number	: +50494580250
+Name	: Jean
+Date	: Sun Mar 26 14:07:45 CST 2023
+Type	: INCOMING
+Duration: 465
+
+#229
+Number	: 87598758
+Name	: 
+Date	: Sun Mar 26 14:22:10 CST 2023
+Type	: INCOMING
+Duration: 65
+
+#230
+Number	: 87598758
+Name	: 
+Date	: Sun Mar 26 14:37:05 CST 2023
+Type	: INCOMING
+Duration: 93
+
+#231
+Number	: +50494580250
+Name	: Jean
+Date	: Sun Mar 26 17:02:20 CST 2023
+Type	: MISSED
+Duration: 4
+
+#232
+Number	: +50494580250
+Name	: Jean
+Date	: Sun Mar 26 18:41:51 CST 2023
+Type	: INCOMING
+Duration: 205
+
+#233
+Number	: +50494580250
+Name	: Jean
+Date	: Sun Mar 26 19:52:15 CST 2023
+Type	: INCOMING
+Duration: 1787
+
+#234
+Number	: +50494580250
+Name	: Jean
+Date	: Mon Mar 27 07:08:36 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#235
+Number	: +50494580250
+Name	: Jean
+Date	: Mon Mar 27 07:09:03 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#236
+Number	: +50494580250
+Name	: Jean
+Date	: Mon Mar 27 07:09:43 CST 2023
+Type	: OUTGOING
+Duration: 83
+
+#237
+Number	: +50494580250
+Name	: Jean
+Date	: Mon Mar 27 07:11:33 CST 2023
+Type	: INCOMING
+Duration: 536
+
+#238
+Number	: +50494580250
+Name	: Jean
+Date	: Mon Mar 27 12:46:00 CST 2023
+Type	: MISSED
+Duration: 30
+
+#239
+Number	: +50494580250
+Name	: Jean
+Date	: Mon Mar 27 17:16:28 CST 2023
+Type	: INCOMING
+Duration: 298
+
+#240
+Number	: +50494580250
+Name	: Jean
+Date	: Mon Mar 27 17:26:27 CST 2023
+Type	: INCOMING
+Duration: 698
+
+#241
+Number	: +50494580250
+Name	: Jean
+Date	: Mon Mar 27 17:38:25 CST 2023
+Type	: INCOMING
+Duration: 802
+
+#242
+Number	: +50494580250
+Name	: Jean
+Date	: Mon Mar 27 17:56:07 CST 2023
+Type	: INCOMING
+Duration: 975
+
+#243
+Number	: +50494580250
+Name	: Jean
+Date	: Tue Mar 28 06:43:24 CST 2023
+Type	: INCOMING
+Duration: 695
+
+#244
+Number	: +50494580250
+Name	: Jean
+Date	: Tue Mar 28 06:55:26 CST 2023
+Type	: INCOMING
+Duration: 209
+
+#245
+Number	: +50494580250
+Name	: Jean
+Date	: Tue Mar 28 07:10:55 CST 2023
+Type	: MISSED
+Duration: 25
+
+#246
+Number	: +50494580250
+Name	: Jean
+Date	: Tue Mar 28 07:19:41 CST 2023
+Type	: OUTGOING
+Duration: 274
+
+#247
+Number	: +50499635606
+Name	: Lou
+Date	: Tue Mar 28 09:33:19 CST 2023
+Type	: OUTGOING
+Duration: 9
+
+#248
+Number	: 32424948
+Name	: 
+Date	: Tue Mar 28 10:59:11 CST 2023
+Type	: MISSED
+Duration: 25
+
+#249
+Number	: 32424948
+Name	: 
+Date	: Tue Mar 28 10:59:53 CST 2023
+Type	: INCOMING
+Duration: 15
+
+#250
+Number	: 22473039
+Name	: 
+Date	: Tue Mar 28 17:07:55 CST 2023
+Type	: MISSED
+Duration: 25
+
+#251
+Number	: +50494580250
+Name	: Jean
+Date	: Tue Mar 28 17:25:50 CST 2023
+Type	: INCOMING
+Duration: 2595
+
+#252
+Number	: 22473039
+Name	: 
+Date	: Tue Mar 28 18:48:35 CST 2023
+Type	: MISSED
+Duration: 26
+
+#253
+Number	: +50431708706
+Name	: Galo
+Date	: Tue Mar 28 19:04:34 CST 2023
+Type	: OUTGOING
+Duration: 4
+
+#254
+Number	: +50431708706
+Name	: Galo
+Date	: Tue Mar 28 19:05:24 CST 2023
+Type	: OUTGOING
+Duration: 10
+
+#255
+Number	: +50431708706
+Name	: Galo
+Date	: Tue Mar 28 19:06:15 CST 2023
+Type	: OUTGOING
+Duration: 2
+
+#256
+Number	: 89599414
+Name	: Brayan Lean
+Date	: Tue Mar 28 19:08:14 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#257
+Number	: 89599414
+Name	: Brayan Lean
+Date	: Tue Mar 28 19:08:52 CST 2023
+Type	: OUTGOING
+Duration: 24
+
+#258
+Number	: +50494580250
+Name	: Jean
+Date	: Tue Mar 28 21:02:20 CST 2023
+Type	: INCOMING
+Duration: 1014
+
+#259
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Mar 29 06:47:17 CST 2023
+Type	: MISSED
+Duration: 30
+
+#260
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Mar 29 06:50:54 CST 2023
+Type	: INCOMING
+Duration: 1
+
+#261
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Mar 29 06:52:32 CST 2023
+Type	: INCOMING
+Duration: 1526
+
+#262
+Number	: +50493292250
+Name	: 
+Date	: Wed Mar 29 10:38:29 CST 2023
+Type	: INCOMING
+Duration: 20
+
+#263
+Number	: 25126435
+Name	: 
+Date	: Wed Mar 29 14:30:55 CST 2023
+Type	: Unknown
+Duration: 0
+
+#264
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Mar 29 16:37:12 CST 2023
+Type	: INCOMING
+Duration: 1598
+
+#265
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Mar 29 17:04:05 CST 2023
+Type	: INCOMING
+Duration: 111
+
+#266
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 30 06:37:02 CST 2023
+Type	: MISSED
+Duration: 32
+
+#267
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 30 06:38:46 CST 2023
+Type	: MISSED
+Duration: 30
+
+#268
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 30 06:42:04 CST 2023
+Type	: OUTGOING
+Duration: 1767
+
+#269
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 30 07:12:15 CST 2023
+Type	: INCOMING
+Duration: 125
+
+#270
+Number	: 31767430
+Name	: VG
+Date	: Thu Mar 30 09:56:49 CST 2023
+Type	: INCOMING
+Duration: 27
+
+#271
+Number	: 33143458
+Name	: 
+Date	: Thu Mar 30 10:26:51 CST 2023
+Type	: INCOMING
+Duration: 54
+
+#272
+Number	: 33143458
+Name	: 
+Date	: Thu Mar 30 10:30:19 CST 2023
+Type	: INCOMING
+Duration: 12
+
+#273
+Number	: 22479977
+Name	: 
+Date	: Thu Mar 30 12:53:34 CST 2023
+Type	: MISSED
+Duration: 23
+
+#274
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 30 16:43:20 CST 2023
+Type	: OUTGOING
+Duration: 46
+
+#275
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 30 16:44:27 CST 2023
+Type	: OUTGOING
+Duration: 1
+
+#276
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 30 16:45:04 CST 2023
+Type	: MISSED
+Duration: 7
+
+#277
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 30 16:45:41 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#278
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 30 16:45:57 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#279
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 30 16:46:11 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#280
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 30 16:46:33 CST 2023
+Type	: INCOMING
+Duration: 1
+
+#281
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 30 16:46:42 CST 2023
+Type	: OUTGOING
+Duration: 885
+
+#282
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Mar 30 17:01:52 CST 2023
+Type	: INCOMING
+Duration: 2381
+
+#283
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Mar 31 06:57:53 CST 2023
+Type	: INCOMING
+Duration: 968
+
+#284
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Mar 31 07:15:27 CST 2023
+Type	: OUTGOING
+Duration: 255
+
+#285
+Number	: +50498867117
+Name	: 
+Date	: Fri Mar 31 10:54:08 CST 2023
+Type	: MISSED
+Duration: 23
+
+#286
+Number	: +50498867117
+Name	: 
+Date	: Fri Mar 31 10:54:49 CST 2023
+Type	: INCOMING
+Duration: 20
+
+#287
+Number	: +50498867117
+Name	: 
+Date	: Fri Mar 31 11:01:16 CST 2023
+Type	: INCOMING
+Duration: 21
+
+#288
+Number	: +50493291200
+Name	: 
+Date	: Fri Mar 31 11:10:10 CST 2023
+Type	: INCOMING
+Duration: 33
+
+#289
+Number	: 22479977
+Name	: 
+Date	: Fri Mar 31 12:05:20 CST 2023
+Type	: Unknown
+Duration: 0
+
+#290
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Mar 31 16:16:44 CST 2023
+Type	: INCOMING
+Duration: 852
+
+#291
+Number	: 25126435
+Name	: 
+Date	: Fri Mar 31 16:54:04 CST 2023
+Type	: Unknown
+Duration: 0
+
+#292
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Mar 31 16:56:37 CST 2023
+Type	: INCOMING
+Duration: 15
+
+#293
+Number	: 33114155
+Name	: 
+Date	: Fri Mar 31 17:50:35 CST 2023
+Type	: MISSED
+Duration: 26
+
+#294
+Number	: 22024400
+Name	: 
+Date	: Fri Mar 31 18:58:04 CST 2023
+Type	: Unknown
+Duration: 0
+
+#295
+Number	: 89942436
+Name	: 
+Date	: Fri Mar 31 19:38:19 CST 2023
+Type	: Unknown
+Duration: 0
+
+#296
+Number	: 89942436
+Name	: Elmer Sac3
+Date	: Fri Mar 31 19:38:49 CST 2023
+Type	: Unknown
+Duration: 0
+
+#297
+Number	: +50489510808
+Name	: Carolina Fuentes
+Date	: Fri Mar 31 20:13:40 CST 2023
+Type	: OUTGOING
+Duration: 13
+
+#298
+Number	: +50489510808
+Name	: Carolina Fuentes
+Date	: Fri Mar 31 20:14:19 CST 2023
+Type	: OUTGOING
+Duration: 47
+
+#299
+Number	: 89510808
+Name	: Carolina Fuentes
+Date	: Fri Mar 31 20:18:16 CST 2023
+Type	: INCOMING
+Duration: 68
+
+#300
+Number	: 89510808
+Name	: Carolina Fuentes
+Date	: Fri Mar 31 20:21:47 CST 2023
+Type	: INCOMING
+Duration: 26
+
+#301
+Number	: +50494580250
+Name	: Amor
+Date	: Sat Apr 01 00:05:45 CST 2023
+Type	: MISSED
+Duration: 8
+
+#302
+Number	: +50494580250
+Name	: Amor
+Date	: Sat Apr 01 00:08:56 CST 2023
+Type	: Unknown
+Duration: 0
+
+#303
+Number	: +50494464791
+Name	: 
+Date	: Sat Apr 01 14:15:18 CST 2023
+Type	: Unknown
+Duration: 0
+
+#304
+Number	: +50495552829
+Name	: Gordo
+Date	: Sat Apr 01 18:29:20 CST 2023
+Type	: MISSED
+Duration: 25
+
+#305
+Number	: +50495552829
+Name	: Gordo
+Date	: Sat Apr 01 18:30:02 CST 2023
+Type	: INCOMING
+Duration: 307
+
+#306
+Number	: 31779922
+Name	: 
+Date	: Sun Apr 02 14:04:06 CST 2023
+Type	: MISSED
+Duration: 26
+
+#307
+Number	: 31779922
+Name	: 
+Date	: Sun Apr 02 14:07:33 CST 2023
+Type	: MISSED
+Duration: 26
+
+#308
+Number	: +50496584418
+Name	: Erick Vega
+Date	: Sun Apr 02 15:25:04 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#309
+Number	: +50494580250
+Name	: Amor
+Date	: Mon Apr 03 10:40:07 CST 2023
+Type	: INCOMING
+Duration: 760
+
+#310
+Number	: +50494580250
+Name	: Amor
+Date	: Mon Apr 03 10:54:13 CST 2023
+Type	: INCOMING
+Duration: 307
+
+#311
+Number	: +50494580250
+Name	: Amor
+Date	: Mon Apr 03 11:01:10 CST 2023
+Type	: INCOMING
+Duration: 646
+
+#312
+Number	: +50496584418
+Name	: Erick Vega
+Date	: Mon Apr 03 12:32:37 CST 2023
+Type	: INCOMING
+Duration: 28
+
+#313
+Number	: 33129082
+Name	: 
+Date	: Mon Apr 03 13:01:44 CST 2023
+Type	: Unknown
+Duration: 0
+
+#314
+Number	: 25126435
+Name	: 
+Date	: Mon Apr 03 14:51:06 CST 2023
+Type	: Unknown
+Duration: 0
+
+#315
+Number	: +50498296986
+Name	: 
+Date	: Mon Apr 03 16:07:34 CST 2023
+Type	: MISSED
+Duration: 26
+
+#316
+Number	: +50496584418
+Name	: Erick Vega
+Date	: Mon Apr 03 16:37:16 CST 2023
+Type	: MISSED
+Duration: 17
+
+#317
+Number	: 33122243
+Name	: 
+Date	: Mon Apr 03 17:10:24 CST 2023
+Type	: MISSED
+Duration: 26
+
+#318
+Number	: 98479081
+Name	: Madre
+Date	: Mon Apr 03 21:46:02 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#319
+Number	: +50497962500
+Name	: 
+Date	: Tue Apr 04 08:33:48 CST 2023
+Type	: Unknown
+Duration: 0
+
+#320
+Number	: +50494421234
+Name	: 
+Date	: Tue Apr 04 08:34:22 CST 2023
+Type	: Unknown
+Duration: 0
+
+#321
+Number	: +50494628879
+Name	: 
+Date	: Tue Apr 04 08:34:46 CST 2023
+Type	: Unknown
+Duration: 0
+
+#322
+Number	: +50494612402
+Name	: 
+Date	: Tue Apr 04 08:35:11 CST 2023
+Type	: Unknown
+Duration: 0
+
+#323
+Number	: +50494544844
+Name	: 
+Date	: Tue Apr 04 08:35:45 CST 2023
+Type	: Unknown
+Duration: 0
+
+#324
+Number	: +50494383208
+Name	: 
+Date	: Tue Apr 04 08:36:17 CST 2023
+Type	: Unknown
+Duration: 0
+
+#325
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 04 09:38:41 CST 2023
+Type	: INCOMING
+Duration: 189
+
+#326
+Number	: 88601173
+Name	: 
+Date	: Tue Apr 04 11:02:10 CST 2023
+Type	: INCOMING
+Duration: 30
+
+#327
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 04 11:07:36 CST 2023
+Type	: MISSED
+Duration: 7
+
+#328
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 04 11:07:51 CST 2023
+Type	: INCOMING
+Duration: 3
+
+#329
+Number	: 33119250
+Name	: 
+Date	: Tue Apr 04 13:30:14 CST 2023
+Type	: MISSED
+Duration: 25
+
+#330
+Number	: 33340420
+Name	: 
+Date	: Tue Apr 04 13:56:09 CST 2023
+Type	: MISSED
+Duration: 25
+
+#331
+Number	: 89645608
+Name	: 
+Date	: Tue Apr 04 14:12:30 CST 2023
+Type	: MISSED
+Duration: 26
+
+#332
+Number	: 89645608
+Name	: 
+Date	: Tue Apr 04 14:13:14 CST 2023
+Type	: MISSED
+Duration: 25
+
+#333
+Number	: +50494464870
+Name	: 
+Date	: Tue Apr 04 15:55:55 CST 2023
+Type	: MISSED
+Duration: 19
+
+#334
+Number	: +50494464868
+Name	: 
+Date	: Tue Apr 04 16:56:01 CST 2023
+Type	: MISSED
+Duration: 22
+
+#335
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 05 11:00:00 CST 2023
+Type	: INCOMING
+Duration: 115
+
+#336
+Number	: +50494464866
+Name	: 
+Date	: Wed Apr 05 12:37:50 CST 2023
+Type	: MISSED
+Duration: 20
+
+#337
+Number	: +50494464790
+Name	: 
+Date	: Thu Apr 06 14:30:36 CST 2023
+Type	: MISSED
+Duration: 24
+
+#338
+Number	: 31451456
+Name	: 
+Date	: Fri Apr 07 12:55:48 CST 2023
+Type	: INCOMING
+Duration: 19
+
+#339
+Number	: 26269030
+Name	: 
+Date	: Sat Apr 08 10:15:29 CST 2023
+Type	: OUTGOING
+Duration: 478
+
+#340
+Number	: 32735792
+Name	: 
+Date	: Sat Apr 08 11:41:59 CST 2023
+Type	: MISSED
+Duration: 26
+
+#341
+Number	: 32735792
+Name	: 
+Date	: Sat Apr 08 11:42:57 CST 2023
+Type	: MISSED
+Duration: 26
+
+#342
+Number	: 32735792
+Name	: 
+Date	: Sat Apr 08 11:43:33 CST 2023
+Type	: MISSED
+Duration: 26
+
+#343
+Number	: 32735792
+Name	: 
+Date	: Sat Apr 08 11:44:13 CST 2023
+Type	: INCOMING
+Duration: 71
+
+#344
+Number	: 32195569
+Name	: 
+Date	: Sun Apr 09 12:27:48 CST 2023
+Type	: INCOMING
+Duration: 33
+
+#345
+Number	: +50494580250
+Name	: Amor
+Date	: Mon Apr 10 06:18:03 CST 2023
+Type	: INCOMING
+Duration: 2213
+
+#346
+Number	: +50497300791
+Name	: Ángel Funez
+Date	: Mon Apr 10 13:21:52 CST 2023
+Type	: Unknown
+Duration: 0
+
+#347
+Number	: +50494580250
+Name	: Amor
+Date	: Mon Apr 10 16:53:37 CST 2023
+Type	: INCOMING
+Duration: 2033
+
+#348
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 11 06:16:31 CST 2023
+Type	: MISSED
+Duration: 30
+
+#349
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 11 06:17:42 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#350
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 11 06:51:43 CST 2023
+Type	: INCOMING
+Duration: 1169
+
+#351
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 11 07:11:39 CST 2023
+Type	: INCOMING
+Duration: 166
+
+#352
+Number	: 32944357
+Name	: 
+Date	: Tue Apr 11 13:44:17 CST 2023
+Type	: INCOMING
+Duration: 13
+
+#353
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 11 16:50:37 CST 2023
+Type	: INCOMING
+Duration: 740
+
+#354
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 11 17:03:15 CST 2023
+Type	: INCOMING
+Duration: 1324
+
+#355
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 12 05:54:53 CST 2023
+Type	: MISSED
+Duration: 7
+
+#356
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 12 06:31:32 CST 2023
+Type	: INCOMING
+Duration: 175
+
+#357
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 12 16:46:25 CST 2023
+Type	: INCOMING
+Duration: 13
+
+#358
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 12 16:46:55 CST 2023
+Type	: INCOMING
+Duration: 2169
+
+#359
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 12 17:23:17 CST 2023
+Type	: INCOMING
+Duration: 290
+
+#360
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 12 22:22:07 CST 2023
+Type	: INCOMING
+Duration: 67
+
+#361
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 12 22:33:34 CST 2023
+Type	: MISSED
+Duration: 30
+
+#362
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 12 22:34:42 CST 2023
+Type	: INCOMING
+Duration: 41
+
+#363
+Number	: +50494580250
+Name	: Amor
+Date	: Thu Apr 13 16:34:03 CST 2023
+Type	: INCOMING
+Duration: 264
+
+#364
+Number	: +50494580250
+Name	: Amor
+Date	: Thu Apr 13 16:38:54 CST 2023
+Type	: INCOMING
+Duration: 246
+
+#365
+Number	: +50494580250
+Name	: Amor
+Date	: Thu Apr 13 17:16:26 CST 2023
+Type	: INCOMING
+Duration: 441
+
+#366
+Number	: +50494464715
+Name	: 
+Date	: Thu Apr 13 18:42:09 CST 2023
+Type	: Unknown
+Duration: 0
+
+#367
+Number	: +50494580250
+Name	: Amor
+Date	: Fri Apr 14 06:29:55 CST 2023
+Type	: INCOMING
+Duration: 2373
+
+#368
+Number	: *80
+Name	: Coreo de Voz
+Date	: Fri Apr 14 08:34:09 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#369
+Number	: 25126435
+Name	: 
+Date	: Fri Apr 14 11:36:47 CST 2023
+Type	: MISSED
+Duration: 16
+
+#370
+Number	: +50494580250
+Name	: Amor
+Date	: Fri Apr 14 16:05:18 CST 2023
+Type	: INCOMING
+Duration: 2129
+
+#371
+Number	: +50433935171
+Name	: Gerson Arena
+Date	: Fri Apr 14 23:38:50 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#372
+Number	: 25126435
+Name	: 
+Date	: Sat Apr 15 10:03:06 CST 2023
+Type	: MISSED
+Duration: 25
+
+#373
+Number	: +50497380671
+Name	: Walter Tienda Yoro
+Date	: Sat Apr 15 11:57:25 CST 2023
+Type	: MISSED
+Duration: 26
+
+#374
+Number	: 25126435
+Name	: 
+Date	: Sat Apr 15 11:55:04 CST 2023
+Type	: INCOMING
+Duration: 247
+
+#375
+Number	: +50497380671
+Name	: Walter Tienda Yoro
+Date	: Sat Apr 15 11:59:38 CST 2023
+Type	: OUTGOING
+Duration: 77
+
+#376
+Number	: 31703286
+Name	: 
+Date	: Sat Apr 15 12:16:14 CST 2023
+Type	: INCOMING
+Duration: 165
+
+#377
+Number	: 89942436
+Name	: Elmer Sac3
+Date	: Sat Apr 15 15:10:29 CST 2023
+Type	: Unknown
+Duration: 0
+
+#378
+Number	: 89942436
+Name	: Elmer Sac3
+Date	: Sat Apr 15 15:10:43 CST 2023
+Type	: Unknown
+Duration: 0
+
+#379
+Number	: 89942436
+Name	: Elmer Sac3
+Date	: Sat Apr 15 16:09:20 CST 2023
+Type	: Unknown
+Duration: 0
+
+#380
+Number	: +50494580250
+Name	: Amor
+Date	: Sun Apr 16 10:50:21 CST 2023
+Type	: MISSED
+Duration: 30
+
+#381
+Number	: +50494580250
+Name	: Amor
+Date	: Sun Apr 16 10:52:56 CST 2023
+Type	: OUTGOING
+Duration: 2146
+
+#382
+Number	: +50494580250
+Name	: Amor
+Date	: Sun Apr 16 14:19:08 CST 2023
+Type	: INCOMING
+Duration: 44
+
+#383
+Number	: +50494580250
+Name	: Amor
+Date	: Mon Apr 17 06:39:57 CST 2023
+Type	: INCOMING
+Duration: 450
+
+#384
+Number	: +50494580250
+Name	: Amor
+Date	: Mon Apr 17 06:47:50 CST 2023
+Type	: INCOMING
+Duration: 1118
+
+#385
+Number	: +50494580250
+Name	: Amor
+Date	: Mon Apr 17 17:16:13 CST 2023
+Type	: INCOMING
+Duration: 43
+
+#386
+Number	: +50494580250
+Name	: Amor
+Date	: Mon Apr 17 17:22:08 CST 2023
+Type	: INCOMING
+Duration: 231
+
+#387
+Number	: +50494580250
+Name	: Amor
+Date	: Mon Apr 17 17:26:23 CST 2023
+Type	: OUTGOING
+Duration: 15
+
+#388
+Number	: +50494580250
+Name	: Amor
+Date	: Mon Apr 17 17:27:02 CST 2023
+Type	: INCOMING
+Duration: 344
+
+#389
+Number	: +50494580250
+Name	: Amor
+Date	: Mon Apr 17 17:33:10 CST 2023
+Type	: INCOMING
+Duration: 1363
+
+#390
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 18 06:37:04 CST 2023
+Type	: INCOMING
+Duration: 598
+
+#391
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 18 06:47:29 CST 2023
+Type	: INCOMING
+Duration: 72
+
+#392
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 18 06:49:09 CST 2023
+Type	: INCOMING
+Duration: 370
+
+#393
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 18 06:55:47 CST 2023
+Type	: INCOMING
+Duration: 336
+
+#394
+Number	: 88812381
+Name	: 
+Date	: Tue Apr 18 11:38:46 CST 2023
+Type	: INCOMING
+Duration: 16
+
+#395
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 18 11:53:14 CST 2023
+Type	: INCOMING
+Duration: 36
+
+#396
+Number	: +50494464719
+Name	: 
+Date	: Tue Apr 18 11:54:51 CST 2023
+Type	: INCOMING
+Duration: 6
+
+#397
+Number	: +50494749428
+Name	: 
+Date	: Tue Apr 18 13:48:02 CST 2023
+Type	: MISSED
+Duration: 26
+
+#398
+Number	: +50494749428
+Name	: 
+Date	: Tue Apr 18 13:49:07 CST 2023
+Type	: INCOMING
+Duration: 23
+
+#399
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 18 13:49:51 CST 2023
+Type	: OUTGOING
+Duration: 40
+
+#400
+Number	: 31767430
+Name	: VG
+Date	: Tue Apr 18 14:11:54 CST 2023
+Type	: INCOMING
+Duration: 4
+
+#401
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 18 16:33:15 CST 2023
+Type	: INCOMING
+Duration: 339
+
+#402
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 18 16:39:21 CST 2023
+Type	: INCOMING
+Duration: 1738
+
+#403
+Number	: 33123823
+Name	: 
+Date	: Tue Apr 18 18:39:14 CST 2023
+Type	: INCOMING
+Duration: 7
+
+#404
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 19 06:29:18 CST 2023
+Type	: INCOMING
+Duration: 736
+
+#405
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 19 06:42:18 CST 2023
+Type	: INCOMING
+Duration: 263
+
+#406
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 19 06:54:38 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#407
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 19 06:55:06 CST 2023
+Type	: OUTGOING
+Duration: 713
+
+#408
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 19 07:07:42 CST 2023
+Type	: INCOMING
+Duration: 37
+
+#409
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Wed Apr 19 14:29:43 CST 2023
+Type	: MISSED
+Duration: 32
+
+#410
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Wed Apr 19 14:30:32 CST 2023
+Type	: MISSED
+Duration: 25
+
+#411
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Wed Apr 19 14:31:40 CST 2023
+Type	: MISSED
+Duration: 26
+
+#412
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Wed Apr 19 16:23:49 CST 2023
+Type	: OUTGOING
+Duration: 243
+
+#413
+Number	: +50494580250
+Name	: Amor
+Date	: Wed Apr 19 16:51:22 CST 2023
+Type	: INCOMING
+Duration: 1659
+
+#414
+Number	: +50496501069
+Name	: Ali Guillen
+Date	: Thu Apr 20 09:30:11 CST 2023
+Type	: INCOMING
+Duration: 30
+
+#415
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Thu Apr 20 10:58:20 CST 2023
+Type	: INCOMING
+Duration: 37
+
+#416
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Thu Apr 20 11:59:16 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#417
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Thu Apr 20 12:01:58 CST 2023
+Type	: OUTGOING
+Duration: 60
+
+#418
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Thu Apr 20 12:02:16 CST 2023
+Type	: INCOMING
+Duration: 75
+
+#419
+Number	: +50499956056
+Name	: Don Carlos
+Date	: Thu Apr 20 12:05:44 CST 2023
+Type	: INCOMING
+Duration: 139
+
+#420
+Number	: +50494580250
+Name	: Amor
+Date	: Thu Apr 20 17:09:05 CST 2023
+Type	: INCOMING
+Duration: 877
+
+#421
+Number	: +50494580250
+Name	: Amor
+Date	: Thu Apr 20 17:24:04 CST 2023
+Type	: INCOMING
+Duration: 384
+
+#422
+Number	: +50494580250
+Name	: Amor
+Date	: Thu Apr 20 17:30:49 CST 2023
+Type	: INCOMING
+Duration: 372
+
+#423
+Number	: +50494580250
+Name	: Amor
+Date	: Thu Apr 20 17:37:24 CST 2023
+Type	: INCOMING
+Duration: 485
+
+#424
+Number	: +50494580250
+Name	: Amor
+Date	: Fri Apr 21 07:07:43 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#425
+Number	: +50494580250
+Name	: Amor
+Date	: Fri Apr 21 07:07:58 CST 2023
+Type	: OUTGOING
+Duration: 382
+
+#426
+Number	: 32026644
+Name	: 
+Date	: Fri Apr 21 10:16:47 CST 2023
+Type	: INCOMING
+Duration: 14
+
+#427
+Number	: +50494464815
+Name	: 
+Date	: Fri Apr 21 10:45:50 CST 2023
+Type	: INCOMING
+Duration: 4
+
+#428
+Number	: 32025593
+Name	: 
+Date	: Fri Apr 21 13:32:39 CST 2023
+Type	: MISSED
+Duration: 10
+
+#429
+Number	: +50494464728
+Name	: 
+Date	: Fri Apr 21 14:42:52 CST 2023
+Type	: INCOMING
+Duration: 40
+
+#430
+Number	: +50494988929
+Name	: Damaris Pichon
+Date	: Fri Apr 21 15:56:01 CST 2023
+Type	: MISSED
+Duration: 18
+
+#431
+Number	: +50494580250
+Name	: Amor
+Date	: Fri Apr 21 17:48:06 CST 2023
+Type	: INCOMING
+Duration: 2788
+
+#432
+Number	: 33127284
+Name	: 
+Date	: Sat Apr 22 11:12:04 CST 2023
+Type	: INCOMING
+Duration: 40
+
+#433
+Number	: +50494580250
+Name	: Amor
+Date	: Sat Apr 22 13:31:36 CST 2023
+Type	: INCOMING
+Duration: 601
+
+#434
+Number	: +50494580250
+Name	: Amor
+Date	: Sat Apr 22 13:41:57 CST 2023
+Type	: INCOMING
+Duration: 417
+
+#435
+Number	: +50494580250
+Name	: Amor
+Date	: Sat Apr 22 13:51:18 CST 2023
+Type	: INCOMING
+Duration: 150
+
+#436
+Number	: +50494580250
+Name	: Amor
+Date	: Sat Apr 22 13:54:06 CST 2023
+Type	: INCOMING
+Duration: 899
+
+#437
+Number	: +50494580250
+Name	: Amor
+Date	: Sat Apr 22 14:09:17 CST 2023
+Type	: INCOMING
+Duration: 622
+
+#438
+Number	: +50494464857
+Name	: 
+Date	: Sun Apr 23 11:06:17 CST 2023
+Type	: Unknown
+Duration: 0
+
+#439
+Number	: +50494580250
+Name	: Amor
+Date	: Mon Apr 24 06:37:00 CST 2023
+Type	: INCOMING
+Duration: 2111
+
+#440
+Number	: +50494580250
+Name	: Amor
+Date	: Mon Apr 24 16:57:08 CST 2023
+Type	: INCOMING
+Duration: 1888
+
+#441
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 25 06:31:09 CST 2023
+Type	: INCOMING
+Duration: 70
+
+#442
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 25 06:52:21 CST 2023
+Type	: OUTGOING
+Duration: 78
+
+#443
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 25 06:54:20 CST 2023
+Type	: INCOMING
+Duration: 1299
+
+#444
+Number	: +50495802983
+Name	: Katia Comesa
+Date	: Tue Apr 25 11:08:31 CST 2023
+Type	: OUTGOING
+Duration: 237
+
+#445
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 25 16:36:32 CST 2023
+Type	: INCOMING
+Duration: 654
+
+#446
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 25 16:47:40 CST 2023
+Type	: INCOMING
+Duration: 252
+
+#447
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 25 16:52:11 CST 2023
+Type	: INCOMING
+Duration: 1183
+
+#448
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 25 17:12:17 CST 2023
+Type	: INCOMING
+Duration: 126
+
+#449
+Number	: +50494580250
+Name	: Amor
+Date	: Tue Apr 25 17:57:21 CST 2023
+Type	: INCOMING
+Duration: 267
+
+#450
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Apr 26 06:26:06 CST 2023
+Type	: INCOMING
+Duration: 32
+
+#451
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Apr 26 06:48:04 CST 2023
+Type	: OUTGOING
+Duration: 202
+
+#452
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Apr 26 06:51:58 CST 2023
+Type	: INCOMING
+Duration: 1047
+
+#453
+Number	: +50495737161
+Name	: Lenar SAC
+Date	: Wed Apr 26 13:44:50 CST 2023
+Type	: OUTGOING
+Duration: 13
+
+#454
+Number	: +50495737161
+Name	: Lenar SAC
+Date	: Wed Apr 26 16:41:29 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#455
+Number	: +50495737161
+Name	: Lenar SAC
+Date	: Wed Apr 26 16:42:16 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#456
+Number	: 95737161
+Name	: Lenar SAC
+Date	: Wed Apr 26 16:43:00 CST 2023
+Type	: INCOMING
+Duration: 30
+
+#457
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Apr 26 16:59:05 CST 2023
+Type	: INCOMING
+Duration: 4
+
+#458
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Apr 26 17:02:20 CST 2023
+Type	: INCOMING
+Duration: 908
+
+#459
+Number	: +50494580250
+Name	: Jean
+Date	: Wed Apr 26 17:17:50 CST 2023
+Type	: INCOMING
+Duration: 1137
+
+#460
+Number	: 33120445
+Name	: 
+Date	: Wed Apr 26 18:34:30 CST 2023
+Type	: MISSED
+Duration: 25
+
+#461
+Number	: 33120445
+Name	: 
+Date	: Wed Apr 26 18:38:36 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#462
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Apr 27 06:35:43 CST 2023
+Type	: INCOMING
+Duration: 2233
+
+#463
+Number	: 33113155
+Name	: 
+Date	: Thu Apr 27 12:34:35 CST 2023
+Type	: INCOMING
+Duration: 3
+
+#464
+Number	: +50494464719
+Name	: 
+Date	: Thu Apr 27 16:40:59 CST 2023
+Type	: Unknown
+Duration: 0
+
+#465
+Number	: +50494580250
+Name	: Jean
+Date	: Thu Apr 27 17:14:28 CST 2023
+Type	: INCOMING
+Duration: 2217
+
+#466
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Apr 28 06:44:14 CST 2023
+Type	: OUTGOING
+Duration: 545
+
+#467
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Apr 28 06:53:30 CST 2023
+Type	: INCOMING
+Duration: 105
+
+#468
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Apr 28 06:55:40 CST 2023
+Type	: INCOMING
+Duration: 1158
+
+#469
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Apr 28 15:56:56 CST 2023
+Type	: OUTGOING
+Duration: 2
+
+#470
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Apr 28 15:57:13 CST 2023
+Type	: OUTGOING
+Duration: 7
+
+#471
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Apr 28 15:57:46 CST 2023
+Type	: INCOMING
+Duration: 727
+
+#472
+Number	: 33801135
+Name	: 
+Date	: Fri Apr 28 16:29:29 CST 2023
+Type	: Unknown
+Duration: 0
+
+#473
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Apr 28 16:10:16 CST 2023
+Type	: INCOMING
+Duration: 2788
+
+#474
+Number	: 33122853
+Name	: 
+Date	: Fri Apr 28 17:35:34 CST 2023
+Type	: MISSED
+Duration: 26
+
+#475
+Number	: +50494580250
+Name	: Jean
+Date	: Fri Apr 28 22:30:20 CST 2023
+Type	: INCOMING
+Duration: 654
+
+#476
+Number	: +50496813282
+Name	: Geiby✨
+Date	: Fri Apr 28 22:42:47 CST 2023
+Type	: MISSED
+Duration: 25
+
+#477
+Number	: 32209754
+Name	: 
+Date	: Fri Apr 28 22:51:45 CST 2023
+Type	: MISSED
+Duration: 25
+
+#478
+Number	: 32209754
+Name	: 
+Date	: Fri Apr 28 22:52:21 CST 2023
+Type	: MISSED
+Duration: 25
+
+#479
+Number	: 32209754
+Name	: 
+Date	: Fri Apr 28 22:53:00 CST 2023
+Type	: MISSED
+Duration: 25
+
+#480
+Number	: 32209754
+Name	: 
+Date	: Fri Apr 28 22:53:34 CST 2023
+Type	: MISSED
+Duration: 26
+
+#481
+Number	: +50495999458
+Name	: Pavo
+Date	: Sat Apr 29 00:31:29 CST 2023
+Type	: OUTGOING
+Duration: 49
+
+#482
+Number	: 95999458
+Name	: Pavo
+Date	: Sat Apr 29 01:12:39 CST 2023
+Type	: INCOMING
+Duration: 50
+
+#483
+Number	: +50496813282
+Name	: Geiby✨
+Date	: Sat Apr 29 01:43:13 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#484
+Number	: 94812378
+Name	: 
+Date	: Sat Apr 29 12:38:06 CST 2023
+Type	: Unknown
+Duration: 0
+
+#485
+Number	: 33161803
+Name	: 
+Date	: Sat Apr 29 12:43:35 CST 2023
+Type	: Unknown
+Duration: 0
+
+#486
+Number	: +50494464872
+Name	: 
+Date	: Sat Apr 29 15:35:46 CST 2023
+Type	: MISSED
+Duration: 25
+
+#487
+Number	: +50496584418
+Name	: Erick Vega
+Date	: Sun Apr 30 17:37:45 CST 2023
+Type	: OUTGOING
+Duration: 124
+
+#488
+Number	: 118
+Name	: ENEE
+Date	: Sun Apr 30 17:42:30 CST 2023
+Type	: OUTGOING
+Duration: 69
+
+#489
+Number	: 118
+Name	: ENEE
+Date	: Sun Apr 30 17:43:50 CST 2023
+Type	: OUTGOING
+Duration: 72
+
+#490
+Number	: +15144006804
+Name	: 
+Date	: Mon May 01 09:48:41 CST 2023
+Type	: INCOMING
+Duration: 15
+
+#491
+Number	: +50494580250
+Name	: Jean
+Date	: Mon May 01 14:50:57 CST 2023
+Type	: INCOMING
+Duration: 11
+
+#492
+Number	: 94580250
+Name	: 
+Date	: Mon May 01 22:13:25 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#493
+Number	: +50494580250
+Name	: Amor
+Date	: Tue May 02 09:24:53 CST 2023
+Type	: INCOMING
+Duration: 1905
+
+#494
+Number	: +50495752480
+Name	: 
+Date	: Tue May 02 14:20:43 CST 2023
+Type	: INCOMING
+Duration: 19
+
+#495
+Number	: 97606478
+Name	: DM
+Date	: Tue May 02 14:21:30 CST 2023
+Type	: OUTGOING
+Duration: 14
+
+#496
+Number	: +50497606478
+Name	: DM
+Date	: Tue May 02 14:23:32 CST 2023
+Type	: MISSED
+Duration: 26
+
+#497
+Number	: +50497606478
+Name	: DM
+Date	: Tue May 02 14:25:40 CST 2023
+Type	: OUTGOING
+Duration: 28
+
+#498
+Number	: +50494580250
+Name	: Amor
+Date	: Tue May 02 19:39:14 CST 2023
+Type	: INCOMING
+Duration: 182
+
+#499
+Number	: +50494580250
+Name	: Amor
+Date	: Tue May 02 19:42:34 CST 2023
+Type	: INCOMING
+Duration: 1402
+
+#500
+Number	: 87404648
+Name	: 
+Date	: Tue May 02 20:06:40 CST 2023
+Type	: OUTGOING
+Duration: 23
+
+#501
+Number	: +50494580250
+Name	: Amor
+Date	: Wed May 03 06:20:15 CST 2023
+Type	: INCOMING
+Duration: 174
+
+#502
+Number	: +50494580250
+Name	: Amor
+Date	: Wed May 03 06:23:41 CST 2023
+Type	: OUTGOING
+Duration: 1647
+
+#503
+Number	: +50495737161
+Name	: Lenar SAC
+Date	: Wed May 03 06:53:58 CST 2023
+Type	: OUTGOING
+Duration: 67
+
+#504
+Number	: +50494580250
+Name	: Amor
+Date	: Wed May 03 16:45:39 CST 2023
+Type	: INCOMING
+Duration: 609
+
+#505
+Number	: +50494580250
+Name	: Amor
+Date	: Wed May 03 16:56:05 CST 2023
+Type	: INCOMING
+Duration: 1169
+
+#506
+Number	: +50494580250
+Name	: Amor
+Date	: Thu May 04 06:50:45 CST 2023
+Type	: INCOMING
+Duration: 1362
+
+#507
+Number	: +50496584418
+Name	: Erick Vega
+Date	: Thu May 04 14:16:14 CST 2023
+Type	: MISSED
+Duration: 25
+
+#508
+Number	: +50496584418
+Name	: Erick Vega
+Date	: Thu May 04 14:17:05 CST 2023
+Type	: Unknown
+Duration: 0
+
+#509
+Number	: +50494580250
+Name	: Amor
+Date	: Thu May 04 17:06:34 CST 2023
+Type	: INCOMING
+Duration: 363
+
+#510
+Number	: +50494580250
+Name	: Amor
+Date	: Thu May 04 17:15:27 CST 2023
+Type	: INCOMING
+Duration: 676
+
+#511
+Number	: +50494580250
+Name	: Amor
+Date	: Thu May 04 19:59:05 CST 2023
+Type	: INCOMING
+Duration: 587
+
+#512
+Number	: +50494580250
+Name	: Amor
+Date	: Thu May 04 20:19:46 CST 2023
+Type	: INCOMING
+Duration: 118
+
+#513
+Number	: +50494580250
+Name	: Amor
+Date	: Fri May 05 13:06:26 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#514
+Number	: +50494580250
+Name	: Amor
+Date	: Fri May 05 13:06:42 CST 2023
+Type	: OUTGOING
+Duration: 417
+
+#515
+Number	: +50431711661
+Name	: Herick SAC
+Date	: Fri May 05 16:15:46 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#516
+Number	: +50431711661
+Name	: Herick SAC
+Date	: Fri May 05 16:15:58 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#517
+Number	: +50431711661
+Name	: Herick SAC
+Date	: Fri May 05 16:16:11 CST 2023
+Type	: OUTGOING
+Duration: 49
+
+#518
+Number	: 97376652
+Name	: Elvis Taller
+Date	: Fri May 05 16:47:01 CST 2023
+Type	: OUTGOING
+Duration: 91
+
+#519
+Number	: 99679057
+Name	: 
+Date	: Fri May 05 18:34:01 CST 2023
+Type	: INCOMING
+Duration: 18
+
+#520
+Number	: +50494580250
+Name	: Amor
+Date	: Fri May 05 19:10:33 CST 2023
+Type	: INCOMING
+Duration: 1707
+
+#521
+Number	: +50494580250
+Name	: Amor
+Date	: Sat May 06 11:39:51 CST 2023
+Type	: INCOMING
+Duration: 186
+
+#522
+Number	: +50494580250
+Name	: Amor
+Date	: Sat May 06 11:43:28 CST 2023
+Type	: INCOMING
+Duration: 77
+
+#523
+Number	: +50494580250
+Name	: Amor
+Date	: Sat May 06 11:59:29 CST 2023
+Type	: INCOMING
+Duration: 77
+
+#524
+Number	: +50495117596
+Name	: 
+Date	: Sat May 06 12:59:18 CST 2023
+Type	: MISSED
+Duration: 26
+
+#525
+Number	: +50494580250
+Name	: Amor
+Date	: Sat May 06 14:03:03 CST 2023
+Type	: MISSED
+Duration: 30
+
+#526
+Number	: +50494580250
+Name	: Amor
+Date	: Sat May 06 15:03:50 CST 2023
+Type	: INCOMING
+Duration: 855
+
+#527
+Number	: +50494580250
+Name	: Amor
+Date	: Sat May 06 17:57:37 CST 2023
+Type	: OUTGOING
+Duration: 494
+
+#528
+Number	: 97606478
+Name	: DM
+Date	: Sat May 06 18:08:02 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#529
+Number	: +50494580250
+Name	: Amor
+Date	: Sat May 06 22:01:50 CST 2023
+Type	: INCOMING
+Duration: 30
+
+#530
+Number	: +50494580250
+Name	: Amor
+Date	: Sat May 06 22:02:38 CST 2023
+Type	: INCOMING
+Duration: 6
+
+#531
+Number	: +50494580250
+Name	: Amor
+Date	: Sat May 06 22:03:01 CST 2023
+Type	: INCOMING
+Duration: 1049
+
+#532
+Number	: +50494580250
+Name	: Amor
+Date	: Sat May 06 22:21:27 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#533
+Number	: 87404648
+Name	: 
+Date	: Sat May 06 22:41:11 CST 2023
+Type	: OUTGOING
+Duration: 13
+
+#534
+Number	: +50494916143
+Name	: Marcela Ventura🌙
+Date	: Sun May 07 13:18:53 CST 2023
+Type	: OUTGOING
+Duration: 92
+
+#535
+Number	: +50494580250
+Name	: Amor
+Date	: Mon May 08 06:31:42 CST 2023
+Type	: MISSED
+Duration: 30
+
+#536
+Number	: +50494580250
+Name	: Amor
+Date	: Mon May 08 06:32:30 CST 2023
+Type	: MISSED
+Duration: 30
+
+#537
+Number	: +50494580250
+Name	: Amor
+Date	: Mon May 08 06:34:49 CST 2023
+Type	: OUTGOING
+Duration: 2203
+
+#538
+Number	: 31711661
+Name	: Herick SAC
+Date	: Mon May 08 14:20:38 CST 2023
+Type	: INCOMING
+Duration: 40
+
+#539
+Number	: +50494580250
+Name	: Amor
+Date	: Mon May 08 16:34:40 CST 2023
+Type	: INCOMING
+Duration: 1049
+
+#540
+Number	: +50494580250
+Name	: Amor
+Date	: Mon May 08 16:53:08 CST 2023
+Type	: INCOMING
+Duration: 1239
+
+#541
+Number	: +50497209746
+Name	: Arnold Sac
+Date	: Mon May 08 17:32:41 CST 2023
+Type	: MISSED
+Duration: 26
+
+#542
+Number	: +50497209746
+Name	: Arnold Sac
+Date	: Mon May 08 17:33:34 CST 2023
+Type	: MISSED
+Duration: 26
+
+#543
+Number	: +50494580250
+Name	: Amor
+Date	: Tue May 09 06:54:46 CST 2023
+Type	: INCOMING
+Duration: 31
+
+#544
+Number	: +50494580250
+Name	: Amor
+Date	: Tue May 09 06:56:30 CST 2023
+Type	: INCOMING
+Duration: 399
+
+#545
+Number	: +50494580250
+Name	: Amor
+Date	: Tue May 09 07:03:20 CST 2023
+Type	: INCOMING
+Duration: 382
+
+#546
+Number	: +50494580250
+Name	: Amor
+Date	: Tue May 09 07:09:59 CST 2023
+Type	: INCOMING
+Duration: 456
+
+#547
+Number	: +50494580250
+Name	: Amor
+Date	: Tue May 09 07:17:43 CST 2023
+Type	: OUTGOING
+Duration: 0
+
+#548
+Number	: +50494580250
+Name	: Amor
+Date	: Tue May 09 07:18:03 CST 2023
+Type	: INCOMING
+Duration: 32
+
+#549
+Number	: +50495802983
+Name	: Katia Comesa
+Date	: Tue May 09 13:03:17 CST 2023
+Type	: OUTGOING
+Duration: 50
+

